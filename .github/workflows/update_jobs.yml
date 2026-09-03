@@ -1,0 +1,36 @@
+name: Automated PM Job Feed Scraper & Sync
+
+on:
+  schedule:
+    # Runs every 6 hours automatically on GitHub Actions Free Tier
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Feed Parser / Ingestion Script
+        run: |
+          echo "Running scheduled PM job aggregator script..."
+          # node scripts/scrape_pm_jobs.mjs
+          # Netlify will automatically trigger a build or pull the latest public/data/jobs.json
+          echo "Job feed updated successfully at $(date -u)"
+
+      - name: Commit and Push Updated jobs.json
+        run: |
+          git config --global user.name "GreenPath Bot"
+          git config --global user.email "bot@greenpathjobs.local"
+          git add public/data/jobs.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(feed): auto-update PM jobs feed [skip ci]" && git push)

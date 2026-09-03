@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <defs>
+    <linearGradient id="forest-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="50%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+    <linearGradient id="glow-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6EE7B7" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#34D399" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="12" fill="#0D1F17" stroke="#10B981" stroke-opacity="0.3" stroke-width="1.5"/>
+  <!-- Leaf and Path Graphic -->
+  <path d="M12 36C12 36 16 22 34 14C34 14 36 28 22 34C17.5 35.9 14.2 36 12 36Z" fill="url(#forest-grad)"/>
+  <path d="M15 33C21 27 27 22 34 14" stroke="#A7F3D0" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="34" cy="14" r="3" fill="#6EE7B7" />
+  <circle cx="24" cy="24" r="2" fill="#F0FDF4" />
+</svg>
