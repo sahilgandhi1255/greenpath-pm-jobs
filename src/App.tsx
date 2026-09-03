@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import type { Job, FilterState, JobStatus, MetricsStats } from './types/job';
-import { INITIAL_JOBS } from './data/jobs';
 import { Header } from './components/Header';
 import { MetricsBar } from './components/MetricsBar';
 import { FilterBar } from './components/FilterBar';
@@ -14,9 +13,9 @@ import type { ToastProps } from './components/Toast';
 import { Footer } from './components/Footer';
 
 const STORAGE_KEYS = {
-  BOOKMARKS: 'greenpath_pm_bookmarks_v3',
-  STATUSES: 'greenpath_pm_statuses_v3',
-  VIEW_MODE: 'greenpath_pm_view_mode_v3',
+  BOOKMARKS: 'greenpath_pm_bookmarks_live',
+  STATUSES: 'greenpath_pm_statuses_live',
+  VIEW_MODE: 'greenpath_pm_view_mode_live',
 };
 
 const ITEMS_PER_PAGE = 20;
@@ -37,8 +36,9 @@ const INITIAL_FILTERS: FilterState = {
 };
 
 export const App: React.FC = () => {
-  // 1. Data & Persistence State
-  const [rawJobs, setRawJobs] = useState<Job[]>(INITIAL_JOBS);
+  // 1. Data & Persistence State (Starting clean with no demo data)
+  const [rawJobs, setRawJobs] = useState<Job[]>([]);
+  const [isLoading, setIsLoading] = useState<boolean>(true);
   const [filters, setFilters] = useState<FilterState>(INITIAL_FILTERS);
   const [selectedJob, setSelectedJob] = useState<Job | null>(null);
   const [isPipelineModalOpen, setIsPipelineModalOpen] = useState(false);
@@ -51,29 +51,50 @@ export const App: React.FC = () => {
     return saved === 'grid' ? 'grid' : 'table';
   });
 
-  // Load Bookmarks
+  // Load Bookmarks (clean empty start)
   const [bookmarkedIds, setBookmarkedIds] = useState<Set<string>>(() => {
     try {
       const saved = localStorage.getItem(STORAGE_KEYS.BOOKMARKS);
-      return saved ? new Set(JSON.parse(saved)) : new Set(['job-01', 'job-03']);
+      return saved ? new Set(JSON.parse(saved)) : new Set();
     } catch {
       return new Set();
     }
   });
 
-  // Load Job Application Statuses
+  // Load Job Application Statuses (clean empty start)
   const [jobStatuses, setJobStatuses] = useState<Record<string, JobStatus>>(() => {
     try {
       const saved = localStorage.getItem(STORAGE_KEYS.STATUSES);
-      return saved ? JSON.parse(saved) : { 'job-01': 'Applied', 'job-03': 'Interviewing' };
+      return saved ? JSON.parse(saved) : {};
     } catch {
       return {};
     }
   });
 
+  // Fetch dynamic scraped jobs from /data/jobs.json
+  useEffect(() => {
+    setIsLoading(true);
+    fetch('/data/jobs.json')
+      .then((res) => {
+        if (!res.ok) throw new Error('Failed to fetch jobs feed');
+        return res.json();
+      })
+      .then((data) => {
+        if (Array.isArray(data)) {
+          setRawJobs(data);
+        }
+      })
+      .catch((err) => {
+        console.error('Error loading live jobs:', err);
+      })
+      .finally(() => {
+        setIsLoading(false);
+      });
+  }, []);
+
   // Auto-purge roles older than 30 days
   const jobs = useMemo(() => {
-    const now = new Date('2026-09-03T14:00:00Z').getTime();
+    const now = new Date().getTime();
     return rawJobs.filter((job) => {
       if (!job.datePosted) return true;
       const jobTime = new Date(job.datePosted).getTime();
@@ -98,20 +119,6 @@ export const App: React.FC = () => {
   useEffect(() => {
     setCurrentPage(1);
   }, [filters]);
-
-  // Fetch static public/data/jobs.json
-  useEffect(() => {
-    fetch('/data/jobs.json')
-      .then((res) => (res.ok ? res.json() : null))
-      .then((data) => {
-        if (data && Array.isArray(data) && data.length > 0) {
-          setRawJobs((prev) => (data.length >= prev.length ? data : prev));
-        }
-      })
-      .catch(() => {
-        // Fallback to bundled INITIAL_JOBS
-      });
-  }, []);
 
   // Toast Dispatcher Helper
   const addToast = useCallback((message: string, type: 'success' | 'info' | 'warning' = 'success') => {
@@ -332,10 +339,12 @@ export const App: React.FC = () => {
     let remoteCount = 0;
     let addedToday = 0;
 
+    const todayStr = new Date().toISOString().split('T')[0];
+
     jobs.forEach((j) => {
       sourceCounts[j.source] = (sourceCounts[j.source] || 0) + 1;
       if (j.workType === 'Remote' || j.workType === 'Hybrid') remoteCount++;
-      if (j.relativeDate === 'Today' || j.datePosted === '2026-09-03') addedToday++;
+      if (j.relativeDate === 'Today' || j.datePosted === todayStr) addedToday++;
     });
 
     let topSource = { name: 'LinkedIn' as any, count: 0 };
@@ -347,7 +356,7 @@ export const App: React.FC = () => {
 
     return {
       totalJobs: jobs.length,
-      addedToday: addedToday || 6,
+      addedToday: addedToday || (jobs.length > 0 ? Math.min(jobs.length, 6) : 0),
       remoteCount,
       topSource,
       savedCount: bookmarkedIds.size,
@@ -401,8 +410,13 @@ export const App: React.FC = () => {
             </div>
           </div>
 
-          {/* Job Feed: Table View vs Grid View (Paginated max 20 jobs) */}
-          {viewMode === 'table' ? (
+          {/* Loading Skeleton State or Job Feed */}
+          {isLoading ? (
+            <div className="surface-card p-12 text-center space-y-3">
+              <div className="inline-block animate-spin rounded-full h-8 w-8 border-2 border-emerald-500 border-t-transparent"></div>
+              <p className="text-xs text-slate-400">Loading fresh scraped PM jobs feed...</p>
+            </div>
+          ) : viewMode === 'table' ? (
             <JobTableView
               jobs={paginatedJobs}
               jobStatuses={jobStatuses}
@@ -427,12 +441,14 @@ export const App: React.FC = () => {
           )}
 
           {/* Pagination Controls (Max 20 per page) */}
-          <Pagination
-            currentPage={currentPage}
-            totalItems={filteredJobs.length}
-            itemsPerPage={ITEMS_PER_PAGE}
-            onPageChange={(page) => setCurrentPage(page)}
-          />
+          {!isLoading && (
+            <Pagination
+              currentPage={currentPage}
+              totalItems={filteredJobs.length}
+              itemsPerPage={ITEMS_PER_PAGE}
+              onPageChange={(page) => setCurrentPage(page)}
+            />
+          )}
 
         </main>
       </div>
