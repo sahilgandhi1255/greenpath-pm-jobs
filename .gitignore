@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local scratch / archives / nested folders
+greenpath-pm-jobs/
+hungama-*
+*.zip
