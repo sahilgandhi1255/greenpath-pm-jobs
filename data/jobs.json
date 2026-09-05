@@ -398,7 +398,7 @@
     ],
     "isFeatured": true,
     "isUrgent": true,
-    "applicantCount": 118
+    "applicantCount": 114
   },
   {
     "id": "job-3e8540a9",
@@ -445,7 +445,7 @@
     ],
     "isFeatured": true,
     "isUrgent": true,
-    "applicantCount": 129
+    "applicantCount": 121
   },
   {
     "id": "job-b64acadb",
@@ -493,7 +493,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 43
+    "applicantCount": 44
   },
   {
     "id": "job-fd0de674",
@@ -541,7 +541,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 45
+    "applicantCount": 78
   },
   {
     "id": "job-27948da3",
@@ -588,7 +588,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 32
+    "applicantCount": 67
   },
   {
     "id": "job-401fff6a",
@@ -636,7 +636,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 34
+    "applicantCount": 104
   },
   {
     "id": "job-94148ccd",
@@ -683,7 +683,7 @@
     ],
     "isFeatured": true,
     "isUrgent": true,
-    "applicantCount": 86
+    "applicantCount": 74
   },
   {
     "id": "job-127231fe",
@@ -730,15 +730,15 @@
       "Roadmapping"
     ],
     "isFeatured": true,
-    "isUrgent": true,
-    "applicantCount": 84
+    "isUrgent": false,
+    "applicantCount": 37
   },
   {
     "id": "job-b8c7657f",
     "title": "VP Product",
     "company": "Spark Advisors",
     "companyInitials": "SP",
-    "companyColor": "#CA8A04",
+    "companyColor": "#E11D48",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "2-5 yrs",
@@ -777,16 +777,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
-    "isUrgent": false,
-    "applicantCount": 68
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 37
   },
   {
     "id": "job-a060d229",
     "title": "Product Lead Agentic Ads Platform",
     "company": "Hightouch",
     "companyInitials": "HI",
-    "companyColor": "#EA580C",
+    "companyColor": "#0284C7",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "2-5 yrs",
@@ -827,14 +827,14 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 60
+    "applicantCount": 17
   },
   {
     "id": "job-d57f499d",
     "title": "Manager Product Development",
     "company": "C1",
     "companyInitials": "C1",
-    "companyColor": "#E11D48",
+    "companyColor": "#CA8A04",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -873,16 +873,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
+    "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 41
+    "applicantCount": 53
   },
   {
     "id": "job-368e0428",
     "title": "Product Security Manager",
     "company": "MoonPay",
     "companyInitials": "MO",
-    "companyColor": "#CA8A04",
+    "companyColor": "#D97706",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -921,16 +921,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
+    "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 70
+    "applicantCount": 89
   },
   {
     "id": "job-45524ca7",
     "title": "Senior Product Manager Checkout & Post Booking",
     "company": "Tripadvisor",
     "companyInitials": "TR",
-    "companyColor": "#9333EA",
+    "companyColor": "#16A34A",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -971,14 +971,14 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 16
+    "applicantCount": 38
   },
   {
     "id": "job-f3eebacc",
     "title": "Product Manager",
     "company": "Resourceful Talent Group",
     "companyInitials": "RE",
-    "companyColor": "#059669",
+    "companyColor": "#DC2626",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -1017,16 +1017,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
+    "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 57
+    "applicantCount": 49
   },
   {
     "id": "job-ae141ae3",
     "title": "Product Manager",
     "company": "Shopper1st",
     "companyInitials": "SH",
-    "companyColor": "#D97706",
+    "companyColor": "#4F46E5",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -1047,7 +1047,7 @@
       "exec"
     ],
     "descriptionSnippet": "I'm a paragraph. Click here to add your own text and edit me. Itâs easy. Just click âEdit Textâ or double click me to add your own content and make changes to the font. Iâm...",
-    "fullDescription": "I'm a paragraph. Click here to add your own text and edit me. Itâs easy. Just click âEdit Textâ or double click me to add your own content and make changes to the font. Iâm a great place for you to tell a story and let your users know a little more about you. Please mention the word **WISELY** and tag RMjAuNTEuMjA2Ljg0 when applying to show you read the job post completely (#RMjAuNTEuMjA2Ljg0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "fullDescription": "I'm a paragraph. Click here to add your own text and edit me. Itâs easy. Just click âEdit Textâ or double click me to add your own content and make changes to the font. Iâm a great place for you to tell a story and let your users know a little more about you. Please mention the word **WISELY** and tag RNTIuMTUyLjE4MC4xOTI= when applying to show you read the job post completely (#RNTIuMTUyLjE4MC4xOTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "responsibilities": [
       "Define multi-quarter product vision, KPI milestones, and sprint backlog",
       "Collaborate with engineering, UX designers, and go-to-market teams",
@@ -1065,16 +1065,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
-    "isUrgent": true,
-    "applicantCount": 37
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 68
   },
   {
     "id": "job-d2d9277c",
     "title": "Product Manager",
     "company": "OpenSkills",
     "companyInitials": "OP",
-    "companyColor": "#EA580C",
+    "companyColor": "#7C3AED",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -1114,15 +1114,15 @@
       "Roadmapping"
     ],
     "isFeatured": false,
-    "isUrgent": false,
-    "applicantCount": 34
+    "isUrgent": true,
+    "applicantCount": 88
   },
   {
     "id": "job-27d4b78d",
     "title": "Product Manager",
     "company": "ResumeAlly",
     "companyInitials": "RE",
-    "companyColor": "#0284C7",
+    "companyColor": "#4F46E5",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -1142,8 +1142,8 @@
       "customer support",
       "product manager"
     ],
-    "descriptionSnippet": "Resume Builder ATS Resume Scanner Tailor Resume as per JD Cover Letter Generator Please mention the word **FORESIGHT** and tag RMjAuNTEuMjA2Ljg0 when applying to show you read the...",
-    "fullDescription": "Resume Builder ATS Resume Scanner Tailor Resume as per JD Cover Letter Generator Please mention the word **FORESIGHT** and tag RMjAuNTEuMjA2Ljg0 when applying to show you read the job post completely (#RMjAuNTEuMjA2Ljg0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "descriptionSnippet": "Resume Builder ATS Resume Scanner Tailor Resume as per JD Cover Letter Generator Please mention the word **FORESIGHT** and tag RNTIuMTUyLjE4MC4xOTI= when applying to show you read...",
+    "fullDescription": "Resume Builder ATS Resume Scanner Tailor Resume as per JD Cover Letter Generator Please mention the word **FORESIGHT** and tag RNTIuMTUyLjE4MC4xOTI= when applying to show you read the job post completely (#RNTIuMTUyLjE4MC4xOTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "responsibilities": [
       "Define multi-quarter product vision, KPI milestones, and sprint backlog",
       "Collaborate with engineering, UX designers, and go-to-market teams",
@@ -1161,16 +1161,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
-    "isUrgent": false,
-    "applicantCount": 16
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 33
   },
   {
     "id": "job-1bb31792",
     "title": "Product Manager Â· New York Chicago Charlotte",
     "company": "Oula",
     "companyInitials": "OU",
-    "companyColor": "#E11D48",
+    "companyColor": "#D97706",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -1209,16 +1209,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
+    "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 17
+    "applicantCount": 82
   },
   {
     "id": "job-54daf824",
     "title": "Product Manager",
     "company": "Marval Software",
     "companyInitials": "MA",
-    "companyColor": "#7C3AED",
+    "companyColor": "#EA580C",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -1259,14 +1259,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 71
+    "applicantCount": 65
   },
   {
     "id": "job-4af1afd9",
     "title": "Product Manager",
     "company": "360Dialog",
     "companyInitials": "36",
-    "companyColor": "#9333EA",
+    "companyColor": "#0284C7",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -1285,8 +1285,8 @@
       "dev",
       "digital nomad"
     ],
-    "descriptionSnippet": "About Us360dialog is the leading Whatsapp platform for Independent Software Providers. We areâ¦ Please mention the word **EXCITING** and tag RMjAuNTEuMjA2Ljg0 when applying to sho...",
-    "fullDescription": "About Us360dialog is the leading Whatsapp platform for Independent Software Providers. We areâ¦ Please mention the word **EXCITING** and tag RMjAuNTEuMjA2Ljg0 when applying to show you read the job post completely (#RMjAuNTEuMjA2Ljg0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "descriptionSnippet": "About Us360dialog is the leading Whatsapp platform for Independent Software Providers. We areâ¦ Please mention the word **EXCITING** and tag RNTIuMTUyLjE4MC4xOTI= when applying to...",
+    "fullDescription": "About Us360dialog is the leading Whatsapp platform for Independent Software Providers. We areâ¦ Please mention the word **EXCITING** and tag RNTIuMTUyLjE4MC4xOTI= when applying to show you read the job post completely (#RNTIuMTUyLjE4MC4xOTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "responsibilities": [
       "Define multi-quarter product vision, KPI milestones, and sprint backlog",
       "Collaborate with engineering, UX designers, and go-to-market teams",
@@ -1306,14 +1306,14 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 82
+    "applicantCount": 64
   },
   {
     "id": "job-61d29101",
     "title": "Senior Product Manager Platform",
     "company": "Delinea",
     "companyInitials": "DE",
-    "companyColor": "#0891B2",
+    "companyColor": "#DC2626",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -1352,9 +1352,9 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
+    "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 67
+    "applicantCount": 94
   },
   {
     "id": "job-5e16b32b",
@@ -1402,14 +1402,14 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 30
+    "applicantCount": 44
   },
   {
     "id": "job-efb104ad",
     "title": "Product Director EdTech Digital Learning",
     "company": "peopleworth",
     "companyInitials": "PE",
-    "companyColor": "#0D9488",
+    "companyColor": "#E11D48",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "2-5 yrs",
@@ -1450,14 +1450,14 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 22
+    "applicantCount": 80
   },
   {
     "id": "job-6e119206",
     "title": "Product Manager AI",
     "company": "YipitData",
     "companyInitials": "YI",
-    "companyColor": "#CA8A04",
+    "companyColor": "#DC2626",
     "roleCategory": "AI & Growth PM",
     "shortRoleType": "AI PM",
     "experience": "2-5 yrs",
@@ -1496,16 +1496,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
-    "isUrgent": false,
-    "applicantCount": 82
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 59
   },
   {
     "id": "job-a98c1cb7",
     "title": "Product manager",
     "company": "DUÄAST",
     "companyInitials": "DU",
-    "companyColor": "#7C3AED",
+    "companyColor": "#16A34A",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -1524,7 +1524,7 @@
       "product manager"
     ],
     "descriptionSnippet": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high quality because it...",
-    "fullDescription": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high quality because it is disposable where another may be viewed as having poor quality because it is disposable. Please mention the word **EMPOWERMENT** and tag RMjAuNTEuMjA2Ljg0 when applying to show you read the job post completely (#RMjAuNTEuMjA2Ljg0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "fullDescription": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high quality because it is disposable where another may be viewed as having poor quality because it is disposable. Please mention the word **EMPOWERMENT** and tag RNTIuMTUyLjE4MC4xOTI= when applying to show you read the job post completely (#RNTIuMTUyLjE4MC4xOTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "responsibilities": [
       "Define multi-quarter product vision, KPI milestones, and sprint backlog",
       "Collaborate with engineering, UX designers, and go-to-market teams",
@@ -1542,9 +1542,9 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
-    "isUrgent": true,
-    "applicantCount": 34
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 31
   },
   {
     "id": "job-4f3981d6",
@@ -1591,15 +1591,15 @@
       "Roadmapping"
     ],
     "isFeatured": false,
-    "isUrgent": false,
-    "applicantCount": 34
+    "isUrgent": true,
+    "applicantCount": 40
   },
   {
     "id": "job-9eb46c3d",
     "title": "Associate Product Manager",
     "company": "CareTalk Health",
     "companyInitials": "CA",
-    "companyColor": "#CA8A04",
+    "companyColor": "#7C3AED",
     "roleCategory": "Associate Product Manager",
     "shortRoleType": "APM",
     "experience": "1-3 yrs",
@@ -1620,7 +1620,7 @@
       "ops"
     ],
     "descriptionSnippet": "Posted 12:48:10 PM. Job Title: Associate Product Manager - RemoteLocation: Remote - United StatesEmployment Type: FTâ¦See this and similar jobs on LinkedIn. Please mention the wor...",
-    "fullDescription": "Posted 12:48:10 PM. Job Title: Associate Product Manager - RemoteLocation: Remote - United StatesEmployment Type: FTâ¦See this and similar jobs on LinkedIn. Please mention the word **MERRY** and tag RMjAuNTEuMjA2Ljg0 when applying to show you read the job post completely (#RMjAuNTEuMjA2Ljg0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "fullDescription": "Posted 12:48:10 PM. Job Title: Associate Product Manager - RemoteLocation: Remote - United StatesEmployment Type: FTâ¦See this and similar jobs on LinkedIn. Please mention the word **MERRY** and tag RNTIuMTUyLjE4MC4xOTI= when applying to show you read the job post completely (#RNTIuMTUyLjE4MC4xOTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "responsibilities": [
       "Define multi-quarter product vision, KPI milestones, and sprint backlog",
       "Collaborate with engineering, UX designers, and go-to-market teams",
@@ -1640,14 +1640,14 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 64
+    "applicantCount": 77
   },
   {
     "id": "job-b079a13c",
     "title": "Product Manager",
     "company": "Cambridge Spark",
     "companyInitials": "CA",
-    "companyColor": "#0D9488",
+    "companyColor": "#DC2626",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -1667,8 +1667,8 @@
       "infosec",
       "technical"
     ],
-    "descriptionSnippet": "Department: Product and TechnologyLocation: Home based, UK (with occasional travel to our Londonâ¦ Please mention the word **COMMEND** and tag RMjAuNTEuMjA2Ljg0 when applying to s...",
-    "fullDescription": "Department: Product and TechnologyLocation: Home based, UK (with occasional travel to our Londonâ¦ Please mention the word **COMMEND** and tag RMjAuNTEuMjA2Ljg0 when applying to show you read the job post completely (#RMjAuNTEuMjA2Ljg0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "descriptionSnippet": "Department: Product and TechnologyLocation: Home based, UK (with occasional travel to our Londonâ¦ Please mention the word **COMMEND** and tag RNTIuMTUyLjE4MC4xOTI= when applying...",
+    "fullDescription": "Department: Product and TechnologyLocation: Home based, UK (with occasional travel to our Londonâ¦ Please mention the word **COMMEND** and tag RNTIuMTUyLjE4MC4xOTI= when applying to show you read the job post completely (#RNTIuMTUyLjE4MC4xOTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "responsibilities": [
       "Define multi-quarter product vision, KPI milestones, and sprint backlog",
       "Collaborate with engineering, UX designers, and go-to-market teams",
@@ -1687,15 +1687,15 @@
       "Roadmapping"
     ],
     "isFeatured": false,
-    "isUrgent": false,
-    "applicantCount": 37
+    "isUrgent": true,
+    "applicantCount": 76
   },
   {
     "id": "job-22bff71a",
     "title": "Staff Product Manager [Accounting expertise] 🇩🇪",
     "company": "Qonto",
     "companyInitials": "QO",
-    "companyColor": "#EA580C",
+    "companyColor": "#CA8A04",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -1732,14 +1732,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 37
+    "applicantCount": 19
   },
   {
     "id": "job-ad4ee58e",
     "title": "Staff Product Manager [Accounting expertise] - German speaking 🇩🇪",
     "company": "Qonto",
     "companyInitials": "QO",
-    "companyColor": "#475569",
+    "companyColor": "#0284C7",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -1776,14 +1776,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 39
+    "applicantCount": 48
   },
   {
     "id": "job-04e21dca",
     "title": "Senior Product Manager- Messenger",
     "company": "intercom",
     "companyInitials": "IN",
-    "companyColor": "#D97706",
+    "companyColor": "#0284C7",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -1820,7 +1820,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 34
+    "applicantCount": 35
   },
   {
     "id": "job-33f7c297",
@@ -1864,14 +1864,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 40
+    "applicantCount": 20
   },
   {
     "id": "job-e8c3aadd",
     "title": "(Senior) Global Product & Brand Manager (m/w/d) | Hair Professional",
     "company": "New Flag GmbH",
     "companyInitials": "NE",
-    "companyColor": "#9333EA",
+    "companyColor": "#7C3AED",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -1911,14 +1911,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 28
+    "applicantCount": 40
   },
   {
     "id": "job-75ac5378",
     "title": "Senior Product Manager (f/m/x)",
     "company": "exmox",
     "companyInitials": "EX",
-    "companyColor": "#0284C7",
+    "companyColor": "#059669",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -1957,14 +1957,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 12
+    "applicantCount": 21
   },
   {
     "id": "job-bb18ffe8",
     "title": "Senior Product Manager (Data APIs)",
     "company": "9Fin",
     "companyInitials": "9F",
-    "companyColor": "#EA580C",
+    "companyColor": "#7C3AED",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -2001,14 +2001,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 46
+    "applicantCount": 50
   },
   {
     "id": "job-43361658",
     "title": "Senior Product Manager - Audiobooks Format Foundations",
     "company": "Spotify",
     "companyInitials": "SP",
-    "companyColor": "#16A34A",
+    "companyColor": "#475569",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -2045,14 +2045,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 41
+    "applicantCount": 10
   },
   {
     "id": "job-243eeb9a",
     "title": "Head of Product Development & Engineering (m/w/d)",
     "company": "Pammys™ (dieseo GmbH)",
     "companyInitials": "PA",
-    "companyColor": "#059669",
+    "companyColor": "#0D9488",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -2087,14 +2087,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 40
+    "applicantCount": 49
   },
   {
     "id": "job-5cb875d5",
     "title": "Head of Product Development (m/w/d)",
     "company": "Pammys™ (dieseo GmbH)",
     "companyInitials": "PA",
-    "companyColor": "#16A34A",
+    "companyColor": "#2563EB",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -2129,14 +2129,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 48
+    "applicantCount": 13
   },
   {
     "id": "job-a74e1978",
     "title": "Director Product (m/w/d)",
     "company": "Pammys™ (dieseo GmbH)",
     "companyInitials": "PA",
-    "companyColor": "#D97706",
+    "companyColor": "#0891B2",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -2171,14 +2171,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 29
+    "applicantCount": 25
   },
   {
     "id": "job-9309d21e",
     "title": "Technical Product Manager (All gender)",
     "company": "Stark",
     "companyInitials": "ST",
-    "companyColor": "#475569",
+    "companyColor": "#0284C7",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "3-6 yrs",
@@ -2213,14 +2213,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 41
+    "applicantCount": 28
   },
   {
     "id": "job-93f9c579",
     "title": "Head of Product",
     "company": "Apexx",
     "companyInitials": "AP",
-    "companyColor": "#059669",
+    "companyColor": "#CA8A04",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -2257,14 +2257,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 16
+    "applicantCount": 29
   },
   {
     "id": "job-a3813700",
     "title": "Product Manager (m/f/d) Home Energy Solution (B2C)",
     "company": "Tmh",
     "companyInitials": "TM",
-    "companyColor": "#475569",
+    "companyColor": "#EA580C",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "3-6 yrs",
@@ -2304,7 +2304,186 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 28
+    "applicantCount": 42
+  },
+  {
+    "id": "job-f14c6ffd",
+    "title": "Product Manager Intern (m/f/d)",
+    "company": "Sereact GmbH",
+    "companyInitials": "SE",
+    "companyColor": "#16A34A",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "5-8 yrs",
+    "experienceLevel": "0-2 yrs",
+    "location": "Stuttgart Schockenriedstr. 17",
+    "city": "Stuttgart Schockenriedstr. 17",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/product-manager-intern-stuttgart-232814",
+    "datePosted": "2026-09-05",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product & Design"
+    ],
+    "descriptionSnippet": "Product Manager Intern (m/f/d) - Boston (US) / Stuttgart (DE) Who We Are: We are a rapidly growing embodied AI company revolutionizing physical labor. Leveraging cutting-edge robot...",
+    "fullDescription": "Product Manager Intern (m/f/d) - Boston (US) / Stuttgart (DE) Who We Are: We are a rapidly growing embodied AI company revolutionizing physical labor. Leveraging cutting-edge robotics and advanced artificial intelligence, we develop transformative technologies that redefine how work is done across warehouses and fulfillment operations worldwide. Our products represent the frontier of what intelligent, dexterous automation can do — and we are only getting started. Overview: We are seeking a Product Manager Intern to support the product management team across the product lifecycle — from concept and roadmap development to field deployment across 50+ production sites. This is a high-learning, c",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 13
+  },
+  {
+    "id": "job-faafe43b",
+    "title": "Senior Product Manager Digital Health (m/f/d)",
+    "company": "Vivira Health Lab",
+    "companyInitials": "VI",
+    "companyColor": "#059669",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Berlin Hybrid",
+    "city": "Berlin Hybrid",
+    "workType": "Hybrid",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/vivira-health-lab/senior-product-manager-digital-health-berlin-hybrid-266182",
+    "datePosted": "2026-09-05",
+    "relativeDate": "Today",
+    "salary": "€80k - €120k",
+    "tags": [
+      "Product Manager",
+      "Product Owner",
+      "DiGA",
+      "Digital Health"
+    ],
+    "descriptionSnippet": "Intro Back problems are the most common cause of work incapacity in Germany. Vivira has the solution: We provide digital movement therapy via app. Always available, simple, effecti...",
+    "fullDescription": "Intro Back problems are the most common cause of work incapacity in Germany. Vivira has the solution: We provide digital movement therapy via app. Always available, simple, effective, and reimbursed by health insurance. Vivira was born out of the need to treat musculoskeletal conditions as simply and effectively as possible. Your responsibilities include As Senior Product Manager Digital Health (m/f/d), you play a central role in developing and expanding our existing digital therapy offering. You drive forward how we can support patients and physicians even better in treating and reducing musculoskeletal pain. Depending on your experience and current focus, you take ownership of a central pr",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 21
+  },
+  {
+    "id": "job-1d0d349c",
+    "title": "Staff Product Manager - Physical AI/Robotics",
+    "company": "Coreweaveu",
+    "companyInitials": "CO",
+    "companyColor": "#059669",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-product-manager-physical-ai-robotics-london-203840",
+    "datePosted": "2026-09-05",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Technology"
+    ],
+    "descriptionSnippet": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale A...",
+    "fullDescription": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave combines superior infrastructure performance with deep technical expertise to accelerate breakthroughs and turn compute into capability. Founded in 2017, CoreWeave became a publicly traded company (Nasdaq: CRWV) in March 2025. Learn more at www.coreweave.com . We're proud to be a Living Wage accredited Employer. What You'll Do: CoreWeave’s Physical AI team is building the essential cloud platform for AI innovators, applying m",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 26
+  },
+  {
+    "id": "job-ebae4d44",
+    "title": "Staff Product Manager, Applied Physical AI",
+    "company": "Coreweaveu",
+    "companyInitials": "CO",
+    "companyColor": "#DC2626",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-product-manager-applied-physical-ai-london-308855",
+    "datePosted": "2026-09-05",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Monolith T&I"
+    ],
+    "descriptionSnippet": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale A...",
+    "fullDescription": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave combines superior infrastructure performance with deep technical expertise to accelerate breakthroughs and turn compute into capability. Founded in 2017, CoreWeave became a publicly traded company (Nasdaq: CRWV) in March 2025. Learn more at www.coreweave.com . We're proud to be a Living Wage accredited Employer. What You'll Do: CoreWeave’s Physical AI team builds the essential cloud platform for AI innovators, applying machin",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 39
   },
   {
     "id": "job-01",
@@ -3113,7 +3292,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 39
+    "applicantCount": 80
   },
   {
     "id": "job-d4ff3cdd",
@@ -3161,7 +3340,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 111
+    "applicantCount": 70
   },
   {
     "id": "job-e88c8870",
@@ -3208,7 +3387,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 138
+    "applicantCount": 111
   },
   {
     "id": "job-cbfe9db0",
@@ -3255,7 +3434,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 81
+    "applicantCount": 32
   },
   {
     "id": "job-4f377857",
@@ -3302,7 +3481,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 67
+    "applicantCount": 103
   },
   {
     "id": "job-e7f705b2",
@@ -3349,7 +3528,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 132
+    "applicantCount": 118
   },
   {
     "id": "job-536d5b70",
@@ -3396,7 +3575,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 34
+    "applicantCount": 124
   },
   {
     "id": "job-3de21b74",
@@ -3444,7 +3623,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 113
+    "applicantCount": 82
   },
   {
     "id": "job-71b7bdec",
@@ -3491,7 +3670,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 74
+    "applicantCount": 125
   },
   {
     "id": "job-03",
@@ -3776,7 +3955,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 119
+    "applicantCount": 29
   },
   {
     "id": "job-f6d5c00f",
@@ -3871,7 +4050,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 136
+    "applicantCount": 46
   },
   {
     "id": "job-bc11a2f9",
@@ -3919,7 +4098,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 77
+    "applicantCount": 128
   },
   {
     "id": "job-434597e6",
@@ -3967,7 +4146,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 55
+    "applicantCount": 107
   },
   {
     "id": "job-20c875b1",
@@ -4015,7 +4194,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 75
+    "applicantCount": 92
   },
   {
     "id": "job-d64f31ec",
@@ -4062,7 +4241,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 76
+    "applicantCount": 108
   },
   {
     "id": "job-7177876b",
@@ -4109,7 +4288,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 137
+    "applicantCount": 94
   },
   {
     "id": "job-c99f67eb",
@@ -4157,7 +4336,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 131
+    "applicantCount": 98
   },
   {
     "id": "job-06",
@@ -4442,7 +4621,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 129
+    "applicantCount": 121
   },
   {
     "id": "job-6d731b42",
@@ -4490,7 +4669,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 65
+    "applicantCount": 121
   },
   {
     "id": "job-846970a0",
@@ -4538,7 +4717,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 45
+    "applicantCount": 89
   },
   {
     "id": "job-05d354a5",
@@ -4585,7 +4764,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 47
+    "applicantCount": 39
   },
   {
     "id": "job-6bfb895a",
@@ -4633,7 +4812,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 46
+    "applicantCount": 77
   },
   {
     "id": "job-09",
@@ -4871,7 +5050,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 123
+    "applicantCount": 85
   },
   {
     "id": "job-11",
