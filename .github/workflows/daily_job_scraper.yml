@@ -1,0 +1,40 @@
+name: Daily Live PM Job Scraper & Health Check
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC (05:30 AM IST)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Run Live ATS Harvesters & Daily Scraper
+        run: node scripts/sync_and_validate_jobs.mjs
+
+      - name: Run URL Health Check & Excel Test Report Generator
+        run: node scripts/verify_all_urls_and_metrics.mjs
+
+      - name: Commit & Push Updated Jobs Data & Excel Report
+        run: |
+          git config --global user.name 'GreenPath Bot'
+          git config --global user.email 'bot@greenpathjobs.internal'
+          git add public/data/jobs.json data/jobs.json GreenPath_PM_Jobs_Test_Report.xlsx
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(data): auto-sync daily live PM jobs and test report [skip ci]" && git push)

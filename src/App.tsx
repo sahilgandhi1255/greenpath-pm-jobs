@@ -339,12 +339,18 @@ export const App: React.FC = () => {
     let remoteCount = 0;
     let addedToday = 0;
 
+    const now = new Date().getTime();
+    const ONE_DAY_MS = 24 * 60 * 60 * 1000;
     const todayStr = new Date().toISOString().split('T')[0];
 
     jobs.forEach((j) => {
       sourceCounts[j.source] = (sourceCounts[j.source] || 0) + 1;
       if (j.workType === 'Remote' || j.workType === 'Hybrid') remoteCount++;
-      if (j.relativeDate === 'Today' || j.datePosted === todayStr) addedToday++;
+      const isToday = j.relativeDate === 'Today' || j.datePosted === todayStr;
+      const isRecent = j.datePosted && !isNaN(new Date(j.datePosted).getTime()) && (now - new Date(j.datePosted).getTime()) <= ONE_DAY_MS;
+      if (isToday || isRecent) {
+        addedToday++;
+      }
     });
 
     let topSource = { name: 'LinkedIn' as any, count: 0 };
@@ -356,7 +362,7 @@ export const App: React.FC = () => {
 
     return {
       totalJobs: jobs.length,
-      addedToday: addedToday || (jobs.length > 0 ? Math.min(jobs.length, 6) : 0),
+      addedToday,
       remoteCount,
       topSource,
       savedCount: bookmarkedIds.size,

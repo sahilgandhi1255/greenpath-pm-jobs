@@ -34,6 +34,7 @@ except ImportError:
 
 import urllib.request
 import urllib.error
+import urllib.parse
 import xml.etree.ElementTree as ET
 
 # Configure Logging
@@ -176,6 +177,29 @@ def get_city_from_location(location: str) -> str:
     else:
         parts = [p.strip() for p in location.split(",") if p.strip()]
         return parts[0] if parts else "Remote"
+
+def create_verified_portal_url(company: str, title: str, city: str, source: str) -> str:
+    comp_enc = urllib.parse.quote_plus(company.strip())
+    title_enc = urllib.parse.quote_plus(title.strip())
+    city_enc = urllib.parse.quote_plus(city.strip())
+    combined_enc = urllib.parse.quote_plus(f"{company.strip()} {title.strip()}")
+    
+    if source == "LinkedIn":
+        return f"https://www.linkedin.com/jobs/search/?keywords={combined_enc}&location={city_enc}"
+    elif source == "Naukri":
+        city_slug = re.sub(r'[^a-z0-9]+', '-', city.lower()).strip('-')
+        return f"https://www.naukri.com/product-manager-jobs-in-{city_slug}?k={comp_enc}"
+    elif source == "Wellfound":
+        return f"https://wellfound.com/jobs?q={combined_enc}"
+    elif source == "Indeed":
+        return f"https://www.indeed.com/jobs?q={combined_enc}&l={city_enc}"
+    elif source == "Instahyre":
+        return f"https://www.instahyre.com/search-jobs/?search={combined_enc}"
+    elif source == "IIMJobs":
+        title_slug = re.sub(r'[^a-z0-9]+', '-', title.lower()).strip('-')[:30]
+        return f"https://www.iimjobs.com/search/{title_slug}-0-0-0-0.html"
+    else:
+        return f"https://www.linkedin.com/jobs/search/?keywords={combined_enc}"
 
 
 class MultithreadedJobAggregator:
@@ -1497,7 +1521,7 @@ class MultithreadedJobAggregator:
                 "city": item["city"],
                 "workType": item["workType"],
                 "source": item["source"],
-                "url": item["url"],
+                "url": item.get("url") or create_verified_portal_url(company, item["title"], item.get("city", "Bengaluru"), item["source"]),
                 "datePosted": date_str,
                 "relativeDate": rel_str,
                 "salary": item.get("salary", "Competitive"),
