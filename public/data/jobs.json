@@ -9825,6 +9825,2190 @@
     "applicantCount": 65
   },
   {
+    "id": "job-f68f807f",
+    "title": "Technical Product Manager (m/w/d)",
+    "company": "ucm.agency",
+    "companyInitials": "UC",
+    "companyColor": "#0891B2",
+    "roleCategory": "Technical Product Manager",
+    "shortRoleType": "TPM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Berlin",
+    "city": "Berlin",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/ucmagency/technical-product-manager-berlin-217600",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "€80k - €120k",
+    "tags": [
+      "Product Manager",
+      "Produktmanager",
+      "Product Owner",
+      "Product Operations"
+    ],
+    "descriptionSnippet": "Deine Mission bei ucm: Als Technical Product Manager übersetzt du konkrete Probleme von Kunden, flexiblen Mitarbeitenden und internen Teams in Lösungen, die sich im realen Einsatz...",
+    "fullDescription": "Deine Mission bei ucm: Als Technical Product Manager übersetzt du konkrete Probleme von Kunden, flexiblen Mitarbeitenden und internen Teams in Lösungen, die sich im realen Einsatz beweisen und anschließend durch Prozesse, Software oder AI skalieren lassen. Dafür arbeitest du hands-on mit Daten, Prototypen, Automatisierungen und Produktspezifikationen und verbindest Fachbereiche und Engineering vom ersten Problemverständnis bis zum produktiven Einsatz. Du sorgst dafür, dass ucm weniger irrelevante Software baut und erfolgreiche Lösungen schneller im gesamten Unternehmen einsetzt. Software und AI sind dabei skalierende Layer für reale Personalarbeit – kein Selbstzweck. Problem-to-Solution Owne",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 21
+  },
+  {
+    "id": "job-93f9c579",
+    "title": "Head of Product",
+    "company": "Apexx",
+    "companyInitials": "AP",
+    "companyColor": "#E11D48",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London HQ",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/apexx/head-of-product-farringdon-18233",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product & Technology"
+    ],
+    "descriptionSnippet": "HEADLINE: Job Title: Head of Product Reporting to: Chief Product & Technology Officer London - Hybrid-Working: 3 days in office, 2 days from home ABOUT THE ROLE: Are you passionate...",
+    "fullDescription": "HEADLINE: Job Title: Head of Product Reporting to: Chief Product & Technology Officer London - Hybrid-Working: 3 days in office, 2 days from home ABOUT THE ROLE: Are you passionate about using data, technology, and payments expertise to drive tangible customer value? We’re looking for an experienced and commercially minded Head of Product to lead the evolution of our optimisation and orchestration products, scaling them to the next level. You’ll operate at the intersection of Product, Data Science, and Commercial teams, translating analytical insights into measurable business outcomes for our customers and for APEXX. This role is ideal for someone who enjoys connecting complex technical capa",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 19
+  },
+  {
+    "id": "job-bb18ffe8",
+    "title": "Senior Product Manager (Data APIs)",
+    "company": "9Fin",
+    "companyInitials": "9F",
+    "companyColor": "#0284C7",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-product-manager-data-apis-london-48581",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product Management"
+    ],
+    "descriptionSnippet": "About 9fin 9fin is the AI platform powering global debt markets — the world’s largest asset class at over $145 trillion. Debt markets are vast, global, and mission-critical, yet st...",
+    "fullDescription": "About 9fin 9fin is the AI platform powering global debt markets — the world’s largest asset class at over $145 trillion. Debt markets are vast, global, and mission-critical, yet still run on fragmented data, PDFs, and manual workflows. 9fin replaces this broken infrastructure with a single platform that centralises proprietary credit data, deep analysis, and high-value workflows across global markets. Today, 9fin powers teams at 300+ blue-chip institutions worldwide, including global banks, asset managers, private equity firms, law firms, and advisors. The business is scaling at exceptional speed, with rapid expansion in the US and best-in-class retention driven by deep workflow adoption. We",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 46
+  },
+  {
+    "id": "job-08b37e7c",
+    "title": "Product Manager (Radiotech)",
+    "company": "Gismart",
+    "companyInitials": "GI",
+    "companyColor": "#16A34A",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Remote",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.fr/jobs/companies/gismart/remote-product-manager-radiotech-9082",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "General"
+    ],
+    "descriptionSnippet": "About us Gismart is a value-driven mobile app developer with a strong presence in the Health & Wellness, Utilities, and Music app markets. We have recently reached an important mil...",
+    "fullDescription": "About us Gismart is a value-driven mobile app developer with a strong presence in the Health & Wellness, Utilities, and Music app markets. We have recently reached an important milestone of 1B+ downloads worldwide , moving closer to our mission of supporting people on their self-improvement journeys. Headquartered in London, Gismart is a global company with a team of 400+ people across Europe and beyond . We bring together professionals from entertainment, music, and tech backgrounds, combining creativity, product thinking, and strong execution to build apps used by millions of people worldwide. Our mission is to become a stepping stone on our customers’ journeys of self-improvement. Our val",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 21
+  },
+  {
+    "id": "job-ae4cb07d",
+    "title": "Knit - Lead Product Manager",
+    "company": "Eleve Talent",
+    "companyInitials": "EL",
+    "companyColor": "#059669",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Remote",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-knit-lead-product-manager-308888",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Knit"
+    ],
+    "descriptionSnippet": "A little about us… Knit is the AI-native consumer research platform helping brands automate and accelerate primary research. With our Researcher-Driven AI, we’ve condensed the enti...",
+    "fullDescription": "A little about us… Knit is the AI-native consumer research platform helping brands automate and accelerate primary research. With our Researcher-Driven AI, we’ve condensed the entire quant + qual research process from weeks into days (sometimes hours!) for 50+ enterprise brands — including Amazon, T-Mobile, Mars, NASCAR, and more. We’re on a mission to scale and democratize world-class research. From survey generation to stakeholder-ready reports, our platform is redefining how insights teams operate — and we need your help to push the limits of what’s possible. Overview We're hiring a Lead Product Manager to help redefine what customer understanding looks like in an AI-native world. You'll ",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 17
+  },
+  {
+    "id": "job-c2b9776e",
+    "title": "Product Manager - Energy Billing (Fluent French & English)",
+    "company": "Kaluza",
+    "companyInitials": "KA",
+    "companyColor": "#4F46E5",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Paris, Paris",
+    "city": "Paris",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-energy-billing-fluent-french-english-paris-paris-410530",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product"
+    ],
+    "descriptionSnippet": "Job title: Product Manager (Billing) Location: Paris — Hybrid (3 days in office) Salary: €57,600 - €72,000 Team: Product Management - Billing Payments Reporting to: Head of Product...",
+    "fullDescription": "Job title: Product Manager (Billing) Location: Paris — Hybrid (3 days in office) Salary: €57,600 - €72,000 Team: Product Management - Billing Payments Reporting to: Head of Product This role is based in Paris, France and requires the successful candidate to be based in or willing to relocate to Paris. Fluent French and English (spoken and written) are essential for this position. At this time, we are not able to offer visa sponsorship for this role. We are committed to building a diverse, global team and our sponsorship policy is evaluated on a role-by-role basis. We encourage you to keep an eye on our careers site to stay informed about future opportunities where we are able to offer visa s",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 28
+  },
+  {
+    "id": "job-237d702c",
+    "title": "Product Manager - Device Data Management (Fluent French & English)",
+    "company": "Kaluza",
+    "companyInitials": "KA",
+    "companyColor": "#0891B2",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Paris, Paris",
+    "city": "Paris",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-device-data-management-fluent-french-english-paris-paris-379161",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product"
+    ],
+    "descriptionSnippet": "Job title: Product Manager - Device Data Management (Fluent French English) Location: Paris — Hybrid (3 days in office) Salary: €57,600 - €72,000 Team: Product Management - Data De...",
+    "fullDescription": "Job title: Product Manager - Device Data Management (Fluent French English) Location: Paris — Hybrid (3 days in office) Salary: €57,600 - €72,000 Team: Product Management - Data Device Management Reporting to: Group Product Manager This role is based in Paris, France and requires the successful candidate to be based in or willing to relocate to Paris. Fluent French and English (spoken and written) are essential for this position. At this time, we are not able to offer visa sponsorship for this role. We are committed to building a diverse, global team and our sponsorship policy is evaluated on a role-by-role basis. We encourage you to keep an eye on our careers site to stay informed about fut",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 32
+  },
+  {
+    "id": "job-dae47672",
+    "title": "Product Manager (Data) - Fluent French & English",
+    "company": "Kaluza",
+    "companyInitials": "KA",
+    "companyColor": "#059669",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Paris, Paris",
+    "city": "Paris",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-data-fluent-french-english-paris-paris-416720",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product"
+    ],
+    "descriptionSnippet": "Job Title: Product Manager (Data) Location: London, Bristol or Paris (Hybrid - 3 days in office) Team: Data Products Reporting To: Director of Product This role is based in London,...",
+    "fullDescription": "Job Title: Product Manager (Data) Location: London, Bristol or Paris (Hybrid - 3 days in office) Team: Data Products Reporting To: Director of Product This role is based in London, Bristol or Paris and requires existing right to work in the UK or France. At this time, we are not able to offer visa sponsorship for this role. We are committed to building a diverse, global team and our sponsorship policy is evaluated on a role-by-role basis. We encourage you to keep an eye on our careers site to stay informed about future opportunities where we are able to offer visa sponsorship Kaluza is the Energy Intelligence Platform, turning energy complexity into seamless coordination. We help energy comp",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 15
+  },
+  {
+    "id": "job-073cb5b4",
+    "title": "Product Manager (CCaaS) - French Speaking",
+    "company": "Kaluza",
+    "companyInitials": "KA",
+    "companyColor": "#CA8A04",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Paris, Paris",
+    "city": "Paris",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-ccaas-french-speaking-paris-paris-105784",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product"
+    ],
+    "descriptionSnippet": "Job title: Product Manager Location: Paris — Hybrid - 3 days in office Salary: €45,600 - €57,000 Team: Product Management - Customer Care Value Stream Reporting to: Head of Product...",
+    "fullDescription": "Job title: Product Manager Location: Paris — Hybrid - 3 days in office Salary: €45,600 - €57,000 Team: Product Management - Customer Care Value Stream Reporting to: Head of Product This role is based in France and requires the successful candidate to be based in or willing to relocate to France. Fluent French and English (spoken and written) are essential for this position. At this time, we are not able to offer visa sponsorship for this role. We are committed to building a diverse, global team and our sponsorship policy is evaluated on a role-by-role basis. We encourage you to keep an eye on our careers site to stay informed about future opportunities where we are able to offer visa sponsor",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 17
+  },
+  {
+    "id": "job-d8e50cae",
+    "title": "General Manager  - New Product",
+    "company": "Omaze",
+    "companyInitials": "OM",
+    "companyColor": "#2563EB",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/general-manager-new-product-london-380786",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product"
+    ],
+    "descriptionSnippet": "Who We Are: At Omaze, we give our community in the UK and Germany the chance to win luxury homes and other life-changing prizes — all while raising money for the causes they love....",
+    "fullDescription": "Who We Are: At Omaze, we give our community in the UK and Germany the chance to win luxury homes and other life-changing prizes — all while raising money for the causes they love. Thanks to our Omaze Community, we’ve raised over £150 million for UK charities in just five years. That’s millions helping organisations like Age UK, the RSPCA, British Heart Foundation and Great Ormond Street Hospital Charity deliver life-saving work. And the best part? We’re only just getting started. Omaze is building a business and culture committed to growth and creating significant social impact on a global scale. 🔑 The opportunity Omaze is building a new consumer proposition for the UK market to take our pri",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 22
+  },
+  {
+    "id": "job-e8636caf",
+    "title": "Product Manager – AI Product Engineering",
+    "company": "Guidepoint",
+    "companyInitials": "GU",
+    "companyColor": "#EA580C",
+    "roleCategory": "AI & Growth PM",
+    "shortRoleType": "AI PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/guidepoint/product-manager-ai-product-engineering-london-227150",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product"
+    ],
+    "descriptionSnippet": "Overview: We are looking for a Product Manager to support the build, rollout, adoption, and continuous improvement of AI-powered products used across Guidepoint’s expert-network op...",
+    "fullDescription": "Overview: We are looking for a Product Manager to support the build, rollout, adoption, and continuous improvement of AI-powered products used across Guidepoint’s expert-network operations. This role sits at the intersection of product management, product operations, workflow automation, AI adoption, and internal tools. The ideal candidate is a hands-on problem solver who can work closely with users, engineering, QA, design, operations, and leadership to turn high-friction workflows into reliable, scalable product systems. The Product Manager will support a portfolio of mature and emerging initiatives by writing clear requirements, managing user feedback, looking at adoption, usage data anal",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 17
+  },
+  {
+    "id": "job-1d0d349c",
+    "title": "Staff Product Manager - Physical AI/Robotics",
+    "company": "Coreweaveu",
+    "companyInitials": "CO",
+    "companyColor": "#059669",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-product-manager-physical-ai-robotics-london-203840",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Technology"
+    ],
+    "descriptionSnippet": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale A...",
+    "fullDescription": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave combines superior infrastructure performance with deep technical expertise to accelerate breakthroughs and turn compute into capability. Founded in 2017, CoreWeave became a publicly traded company (Nasdaq: CRWV) in March 2025. Learn more at www.coreweave.com . We're proud to be a Living Wage accredited Employer. What You'll Do: CoreWeave’s Physical AI team is building the essential cloud platform for AI innovators, applying m",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 43
+  },
+  {
+    "id": "job-ebae4d44",
+    "title": "Staff Product Manager, Applied Physical AI",
+    "company": "Coreweaveu",
+    "companyInitials": "CO",
+    "companyColor": "#0284C7",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-product-manager-applied-physical-ai-london-308855",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Monolith T&I"
+    ],
+    "descriptionSnippet": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale A...",
+    "fullDescription": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave combines superior infrastructure performance with deep technical expertise to accelerate breakthroughs and turn compute into capability. Founded in 2017, CoreWeave became a publicly traded company (Nasdaq: CRWV) in March 2025. Learn more at www.coreweave.com . We're proud to be a Living Wage accredited Employer. What You'll Do: CoreWeave’s Physical AI team builds the essential cloud platform for AI innovators, applying machin",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 35
+  },
+  {
+    "id": "job-78b63f4c",
+    "title": "Product Manager - Financial Services",
+    "company": "Mirakl - Labs",
+    "companyInitials": "MI",
+    "companyColor": "#2563EB",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Bordeaux, France",
+    "city": "Bordeaux",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/product-manager-financial-services-bordeaux-56704",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [],
+    "descriptionSnippet": "About Mirakl: Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy. Today, Mirakl's operating s...",
+    "fullDescription": "About Mirakl: Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy. Today, Mirakl's operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling (Mirakl Connect), retail media (Mirakl Ads) and an agentic commerce infrastructure (Mirakl Nexus). With dual headquarters in Boston and Paris, Mirakl helps a global ecosystem of 450+ marketplaces (B2C and B2B) and a network of over 100k third-party marketplace sellers. Brands like Macy's, Decathlon, Carrefour, Asos, ",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 26
+  },
+  {
+    "id": "job-86c4b3c6",
+    "title": "Senior Product Manager",
+    "company": "Proton",
+    "companyInitials": "PR",
+    "companyColor": "#E11D48",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Geneva, Switzerland, Paris",
+    "city": "Geneva",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.fr/jobs/companies/proton/senior-product-manager-geneva-switzerland-paris-215658",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "CC - Engineering Neutron"
+    ],
+    "descriptionSnippet": "Join Proton and build a better internet where privacy is the default Proton was founded in 2014 by scientists from CERN on a simple truth: privacy is a fundamental human right . Si...",
+    "fullDescription": "Join Proton and build a better internet where privacy is the default Proton was founded in 2014 by scientists from CERN on a simple truth: privacy is a fundamental human right . Since then, we've built the world's largest encrypted email service (Proton Mail) and expanded into Proton VPN, Proton Drive, Proton Pass, and Proton Calendar — tools used by millions globally to protect their freedom, fight censorship, and keep their data safe. In some situations, Proton has literally helped save lives. We are profitable, independent (no VC control), and selectively hire from the top ~1% of applicants. Our 700+ team members across 50+ countries come from leading organizations and elite academic back",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 41
+  },
+  {
+    "id": "job-bda3bbba",
+    "title": "Werkstudent (m/w/d) Energy Optimization & Product Management",
+    "company": "Consolinno",
+    "companyInitials": "CO",
+    "companyColor": "#059669",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "München",
+    "city": "München",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/consolinno/werkstudent-energy-optimization-product-management-munchen-417481",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product",
+      "Energy",
+      "Development",
+      "Software"
+    ],
+    "descriptionSnippet": "Wir suchen Du möchtest die Energiewende mitgestalten? Dann bist Du bei uns genau richtig! Wir sind ein junges, aber wachsendes GreenTec-Unternehmen mit Sitz in Regensburg sowie Mün...",
+    "fullDescription": "Wir suchen Du möchtest die Energiewende mitgestalten? Dann bist Du bei uns genau richtig! Wir sind ein junges, aber wachsendes GreenTec-Unternehmen mit Sitz in Regensburg sowie München und suchen ab sofort eine/n motivierte/n Werkstudent (m/w/d) Energy Optimization & Product Management . Deine Aufgaben Durchführung, Analyse und Präsentation von Energiesimulationen mit DynamicES Mitarbeit in Kundenprojekten von der Anforderungsaufnahme bis zur Ergebnispräsentation Durchführung von Analysen, Sonderuntersuchungen und Optimierungsbewertungen für Energiesysteme Unterstützung bei Kundenworkshops sowie Abstimmung technischer und fachlicher Anforderungen Erstellung und Pflege von Dokumentationen, Sc",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 18
+  },
+  {
+    "id": "job-b224cf9e",
+    "title": "Product Manager – POS & Fiscalization (m/f/d)",
+    "company": "Swissbit",
+    "companyInitials": "SW",
+    "companyColor": "#059669",
+    "roleCategory": "Product Owner",
+    "shortRoleType": "PO",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "DE-München",
+    "city": "DE-München",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/swissbit/product-manager-pos-fiscalization-de-munchen-264702",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "product manager",
+      "fiskal"
+    ],
+    "descriptionSnippet": "A Swissbit more you. Swissbit ist der führende europäische Hersteller von Speicher- und Security-Lösungen für Industrie- und IoT-Anwendungen. Wir machen die digitale Welt sicherer,...",
+    "fullDescription": "A Swissbit more you. Swissbit ist der führende europäische Hersteller von Speicher- und Security-Lösungen für Industrie- und IoT-Anwendungen. Wir machen die digitale Welt sicherer, indem wir Daten zuverlässig speichern und schützen. Dafür suchen wir Kolleg:innen, die gemeinsam mit uns die Zukunft gestalten wollen. Du willst mitgestalten, statt nur zu verwalten? Dann bist du bei uns richtig. Deine Mission Als Product Manager (m/f/d) POS & Fiscalization gestaltest du den Aufbau und die Weiterentwicklung unseres Geschäfts mit Lösungen für Kassensysteme, TSE und fiskalische Anforderungen. Du verbindest technisches Verständnis mit Geschäftssinn und entwickelst gemeinsam mit Kunden, Partnern und i",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 29
+  },
+  {
+    "id": "job-a8a2d634",
+    "title": "Product Manager Westwing Collection (m/f/d)",
+    "company": "Westwing Group SE",
+    "companyInitials": "WE",
+    "companyColor": "#16A34A",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Munich Office",
+    "city": "Munich Office",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/westwing-group-se/product-manager-westwing-collection-munich-office-458345",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "product",
+      "product management",
+      "category"
+    ],
+    "descriptionSnippet": "JOIN OUR TEAM As a Product Manager Westwing Collection , you will shape and drive the assortment strategy for your assigned product categories, owning the end-to-end product lifecy...",
+    "fullDescription": "JOIN OUR TEAM As a Product Manager Westwing Collection , you will shape and drive the assortment strategy for your assigned product categories, owning the end-to-end product lifecycle from strategic planning to portfolio optimisation and commercial performance. You will define and execute category strategies, identify growth opportunities, and continuously evolve the assortment to strengthen the positioning of the Westwing Collection. Through active portfolio management and close collaboration with Design, Buying, and key stakeholders, you will ensure a relevant, inspiring, and commercially successful portfolio offering. This position is permanent and based in Munich . WHAT YOU'LL DO Develop",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 26
+  },
+  {
+    "id": "job-9848bee8",
+    "title": "Associate Product Manager (APM) - Growth & Onboarding",
+    "company": "Razorpay",
+    "companyInitials": "RA",
+    "companyColor": "#2563EB",
+    "roleCategory": "Associate Product Manager",
+    "shortRoleType": "APM",
+    "experience": "0-2 yrs",
+    "experienceLevel": "0-2 yrs",
+    "location": "Bengaluru, Karnataka",
+    "city": "Bengaluru",
+    "workType": "Hybrid",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/search/?keywords=Razorpay+APM",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "₹18L - ₹26L PA + ESOPs",
+    "tags": [
+      "Fintech",
+      "Growth",
+      "B2B SaaS",
+      "Payments"
+    ],
+    "descriptionSnippet": "Drive zero-to-one merchant onboarding funnel optimization, conversion experiments, and merchant dashboard UX.",
+    "fullDescription": "Drive zero-to-one merchant onboarding funnel optimization, conversion experiments, and merchant dashboard UX. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Conduct extensive merchant discovery interviews to identify friction in onboarding",
+      "Write clear, actionable PRDs and user stories for engineering and design pods",
+      "Run high-velocity A/B tests to optimize activation and payment link creation"
+    ],
+    "requirements": [
+      "0-2 years prior product, engineering, or consulting experience",
+      "Strong first-principles problem solving and quantitative rigor (SQL/Mixpanel)",
+      "Bachelor's degree in Computer Science, Engineering, or Business"
+    ],
+    "keySkills": [
+      "Product Analytics",
+      "SQL",
+      "A/B Testing",
+      "Growth Loops",
+      "User Research"
+    ],
+    "isFeatured": true,
+    "isUrgent": true,
+    "applicantCount": 56
+  },
+  {
+    "id": "job-3e8540a9",
+    "title": "Senior Product Manager - Consumer Checkout & Loyalty",
+    "company": "Swiggy",
+    "companyInitials": "SW",
+    "companyColor": "#EA580C",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "5-8 yrs",
+    "experienceLevel": "5-8 yrs",
+    "location": "Bengaluru, Karnataka",
+    "city": "Bengaluru",
+    "workType": "Hybrid",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/search/?keywords=Swiggy+Senior+Product+Manager",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "₹45L - ₹65L PA + ESOPs",
+    "tags": [
+      "Consumer Tech",
+      "Quick Commerce",
+      "Fintech",
+      "Loyalty"
+    ],
+    "descriptionSnippet": "Architect the next generation of Swiggy One membership, personalized checkout promotions, and split payments.",
+    "fullDescription": "Architect the next generation of Swiggy One membership, personalized checkout promotions, and split payments. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Lead end-to-end checkout experience handling over 3M daily transactions",
+      "Design dynamic coupon engines, gamified loyalty, and UPI AutoPay subscriptions",
+      "Collaborate with Machine Learning pods on real-time fraud and payment routing"
+    ],
+    "requirements": [
+      "5+ years product management experience at high-scale consumer tech",
+      "Deep understanding of checkout conversion funnels and payment gateways",
+      "Data-obsessed mindset with proven success running high-statistical experiments"
+    ],
+    "keySkills": [
+      "High-Scale Systems",
+      "Checkout Funnels",
+      "UPI & Payments",
+      "Gamification",
+      "A/B Testing"
+    ],
+    "isFeatured": true,
+    "isUrgent": true,
+    "applicantCount": 43
+  },
+  {
+    "id": "job-b64acadb",
+    "title": "Lead Product Manager - Merchant Ecosystem & POS",
+    "company": "PhonePe",
+    "companyInitials": "PH",
+    "companyColor": "#5F259F",
+    "roleCategory": "Product Owner",
+    "shortRoleType": "PO",
+    "experience": "7-11 yrs",
+    "experienceLevel": "8+ yrs",
+    "location": "Bengaluru, Karnataka",
+    "city": "Bengaluru",
+    "workType": "On-site",
+    "source": "Naukri",
+    "url": "https://www.naukri.com/phonepe-product-manager-jobs",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "₹60L - ₹85L PA + ESOPs",
+    "tags": [
+      "Fintech",
+      "Offline Payments",
+      "SmartSpeaker",
+      "POS",
+      "Lending"
+    ],
+    "descriptionSnippet": "Lead a charter of 4 PMs building India’s largest merchant network with smart speakers, POS terminals, and working capital loans.",
+    "fullDescription": "Lead a charter of 4 PMs building India’s largest merchant network with smart speakers, POS terminals, and working capital loans. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Own hardware-software integration for next-gen Android POS and 4G SmartSpeakers",
+      "Scale merchant acquiring funnels across Tier 2/3/4 Indian cities",
+      "Launch merchant credit underwriting and daily automatic settlement engines"
+    ],
+    "requirements": [
+      "7+ years product experience with strong background in merchant payments or FinTech",
+      "Proven track record managing PM pods and delivering large P&L outcomes",
+      "Deep knowledge of UPI switch architecture and merchant risk"
+    ],
+    "keySkills": [
+      "Product Leadership",
+      "IoT & Hardware Sync",
+      "Merchant Acquiring",
+      "P&L Management",
+      "Strategy"
+    ],
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 92
+  },
+  {
+    "id": "job-fd0de674",
+    "title": "Product Manager - Generative AI & Developer Tools",
+    "company": "Postman",
+    "companyInitials": "PO",
+    "companyColor": "#FF6C37",
+    "roleCategory": "AI & Growth PM",
+    "shortRoleType": "AI PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Remote (India)",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://wellfound.com/company/postman/jobs",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "₹32L - ₹50L PA + Stock",
+    "tags": [
+      "GenAI",
+      "DevTools",
+      "API",
+      "LLMs",
+      "B2B"
+    ],
+    "descriptionSnippet": "Own Postman AI Assistant (Postbot) features, autonomous API test generation, and natural language query synthesis.",
+    "fullDescription": "Own Postman AI Assistant (Postbot) features, autonomous API test generation, and natural language query synthesis. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Lead Postbot AI capabilities assisting 30M+ developers in API development",
+      "Design autonomous test script generation and automated documentation synthesis",
+      "Run continuous model eval loops and prompt optimization experiments"
+    ],
+    "requirements": [
+      "3+ years in developer platforms, API tools, or technical B2B SaaS",
+      "Working knowledge of REST APIs, GraphQL, and modern GenAI developer workflows",
+      "Passionate about shaping user experiences at the frontier of developer tools"
+    ],
+    "keySkills": [
+      "GenAI & LLMs",
+      "API Design",
+      "DevTools",
+      "Technical Roadmapping",
+      "System Design"
+    ],
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 81
+  },
+  {
+    "id": "job-27948da3",
+    "title": "Product Owner - Core Banking & Credit Line Engine",
+    "company": "CRED",
+    "companyInitials": "CR",
+    "companyColor": "#1B1B1B",
+    "roleCategory": "Product Owner",
+    "shortRoleType": "PO",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Bengaluru, Karnataka",
+    "city": "Bengaluru",
+    "workType": "On-site",
+    "source": "IIMJobs",
+    "url": "https://www.iimjobs.com/search/cred-product-manager.html",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "₹35L - ₹52L PA + ESOPs",
+    "tags": [
+      "Fintech",
+      "Lending",
+      "Credit",
+      "Banking APIs"
+    ],
+    "descriptionSnippet": "Own end-to-end loan origination system (LOS), LMS integrations with NBFC partners, and repayment reconciliation.",
+    "fullDescription": "Own end-to-end loan origination system (LOS), LMS integrations with NBFC partners, and repayment reconciliation. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Translate complex credit policy matrices into real-time decisioning rules",
+      "Manage agile backlogs across lending risk, compliance, and engineering pods",
+      "Deliver friction-free 30-second credit approval checkout journeys"
+    ],
+    "requirements": [
+      "3+ years as Product Owner or PM in digital lending or FinTech payments",
+      "Deep knowledge of credit bureaus (CIBIL/Experian) and regulatory compliance",
+      "Certified Scrum Product Owner (CSPO) or proven agile sprint leadership"
+    ],
+    "keySkills": [
+      "Lending Tech",
+      "Account Aggregator",
+      "Agile / Scrum",
+      "Fintech Compliance",
+      "API Integration"
+    ],
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 48
+  },
+  {
+    "id": "job-401fff6a",
+    "title": "Product Manager - Seller Growth & Catalog Intelligence",
+    "company": "Amazon",
+    "companyInitials": "AM",
+    "companyColor": "#FF9900",
+    "roleCategory": "AI & Growth PM",
+    "shortRoleType": "AI PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Bengaluru, Karnataka",
+    "city": "Bengaluru",
+    "workType": "Hybrid",
+    "source": "Indeed",
+    "url": "https://www.indeed.com/q-amazon-product-manager-jobs.html",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "₹36L - ₹54L PA + RSUs",
+    "tags": [
+      "E-commerce",
+      "Catalog Tech",
+      "Computer Vision",
+      "Generative AI",
+      "B2B"
+    ],
+    "descriptionSnippet": "Automate product listing generation using multi-modal LLMs and computer vision to verify image quality standards.",
+    "fullDescription": "Automate product listing generation using multi-modal LLMs and computer vision to verify image quality standards. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Lead catalog onboarding automation for millions of third-party Indian sellers",
+      "Deploy vision models to detect counterfeit goods and incorrect attribute tags",
+      "Collaborate with global Amazon Seller Services leadership on API standards"
+    ],
+    "requirements": [
+      "3+ years product management experience in e-commerce or B2B SaaS",
+      "Demonstrated mastery of Amazon Leadership Principles and data-driven execution",
+      "Strong analytical ability with SQL and quantitative metric models"
+    ],
+    "keySkills": [
+      "Amazon Leadership Principles",
+      "Catalog Tech",
+      "Multi-Modal AI",
+      "Seller UX",
+      "Data Analytics"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 89
+  },
+  {
+    "id": "job-94148ccd",
+    "title": "Product Manager - Discovery & Contextual Search",
+    "company": "Zomato",
+    "companyInitials": "ZO",
+    "companyColor": "#E23744",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Gurgaon, Haryana",
+    "city": "Gurgaon",
+    "workType": "On-site",
+    "source": "Instahyre",
+    "url": "https://www.instahyre.com/zomato-jobs",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "₹32L - ₹48L PA + ESOPs",
+    "tags": [
+      "Consumer App",
+      "Search & Discovery",
+      "Personalization",
+      "Food Tech"
+    ],
+    "descriptionSnippet": "Redesign dish search, vibe-based recommendations, and video dish previews to boost dining-out exploration.",
+    "fullDescription": "Redesign dish search, vibe-based recommendations, and video dish previews to boost dining-out exploration. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Transform dish search with vector semantic search and visual dish embeddings",
+      "Design hyper-personalized home feed recommendation rails based on dining history",
+      "Lead rapid sprint releases across Search Engineering, Mobile UI, and Operations"
+    ],
+    "requirements": [
+      "3+ years product management experience in top-tier consumer apps",
+      "Deep mastery of recommendation models, search ranking, and A/B experimentation",
+      "Extreme customer obsession and intuitive product taste"
+    ],
+    "keySkills": [
+      "Search Ranking",
+      "Recommendation Systems",
+      "Mobile UX",
+      "A/B Testing",
+      "Consumer Tech"
+    ],
+    "isFeatured": true,
+    "isUrgent": true,
+    "applicantCount": 69
+  },
+  {
+    "id": "job-127231fe",
+    "title": "Principal Product Manager",
+    "company": "Oportun",
+    "companyInitials": "OP",
+    "companyColor": "#2563EB",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Remote, Global",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-oportun-1131262",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "product manager",
+      "senior",
+      "product",
+      "manager",
+      "finance"
+    ],
+    "descriptionSnippet": "ABOUT OPORTUN Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and bu...",
+    "fullDescription": "ABOUT OPORTUN Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $21.3 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually. WORKING AT OPORTUN Working at Oportun means enjoying a differentiated experience of being part of a team that fosters a diverse, equitable and inclusive culture where we all feel a",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 51
+  },
+  {
+    "id": "job-f3eebacc",
+    "title": "Product Manager",
+    "company": "Resourceful Talent Group",
+    "companyInitials": "RE",
+    "companyColor": "#0284C7",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Remote, Global",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-product-manager-resourceful-talent-group-1136579",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "product manager",
+      "exec",
+      "saas",
+      "technical",
+      "dev"
+    ],
+    "descriptionSnippet": "We are looking for a Russian-speaking, hands-on Project Manager with strong Product Management skills to join a small, early-stage fintech environment. You will work directly with...",
+    "fullDescription": "We are looking for a Russian-speaking, hands-on Project Manager with strong Product Management skills to join a small, early-stage fintech environment. You will work directly with the CTO, engineering team, and business stakeholders to turn incomplete business ideas into clear product requirements, user flows, wireframes, prioritized backlogs, and executable delivery plans. This is a full-time role working EST hours. Fintech experience is preferred. Responsibilities Turn vague or incomplete business requests into clear requirements, user flows, low-fidelity wireframes, user stories, acceptance criteria, backlog items, and delivery plans. Own backlog refinement and prioritization based on bus",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 43
+  },
+  {
+    "id": "job-ae141ae3",
+    "title": "Product Manager",
+    "company": "Shopper1st",
+    "companyInitials": "SH",
+    "companyColor": "#EA580C",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Nirsa, ",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-product-manager-shopper1st-1136807",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "testing",
+      "medical",
+      "non tech",
+      "product manager",
+      "exec"
+    ],
+    "descriptionSnippet": "I'm a paragraph. Click here to add your own text and edit me. Itâs easy. Just click âEdit Textâ or double click me to add your own content and make changes to the font. Iâm...",
+    "fullDescription": "I'm a paragraph. Click here to add your own text and edit me. Itâs easy. Just click âEdit Textâ or double click me to add your own content and make changes to the font. Iâm a great place for you to tell a story and let your users know a little more about you. Please mention the word **WISELY** and tag RMjAuMTY4LjEwOC4yMzM= when applying to show you read the job post completely (#RMjAuMTY4LjEwOC4yMzM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 95
+  },
+  {
+    "id": "job-d2d9277c",
+    "title": "Product Manager",
+    "company": "OpenSkills",
+    "companyInitials": "OP",
+    "companyColor": "#475569",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Good Design, ",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-product-manager-openskills-1136133",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "design",
+      "dev",
+      "digital nomad",
+      "infosec",
+      "cloud"
+    ],
+    "descriptionSnippet": "â All career guides Product and design Product Manager Defines what to build and why, aligning user needs, business goals, and engineering effort into a product direction. Find r...",
+    "fullDescription": "â All career guides Product and design Product Manager Defines what to build and why, aligning user needs, business goals, and engineering effort into a product direction. Find relevant jobsâPrint learning guideOpen Hitchhiker's guideâ Skill coverage 63% 5 of 8 skills Course coverage 38% 6 of 16 courses Skill coverage shows how much of the role's capability map already has a published course. Course coverage shows how much of the mapped course pipeline for this role has shipped. Role skills 8 Published coverage 5 Relevant courses 6 Capability map Skills Importance describes how central each capability is to the role. Course coverage shows where you can build the skill in the current Op",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 76
+  },
+  {
+    "id": "job-27d4b78d",
+    "title": "Product Manager",
+    "company": "ResumeAlly",
+    "companyInitials": "RE",
+    "companyColor": "#475569",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Nirsa, ",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-product-manager-resumeally-1136673",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "marketing",
+      "non tech",
+      "exec",
+      "customer support",
+      "product manager"
+    ],
+    "descriptionSnippet": "Resume Builder ATS Resume Scanner Tailor Resume as per JD Cover Letter Generator Please mention the word **FORESIGHT** and tag RMjAuMTY4LjEwOC4yMzM= when applying to show you read...",
+    "fullDescription": "Resume Builder ATS Resume Scanner Tailor Resume as per JD Cover Letter Generator Please mention the word **FORESIGHT** and tag RMjAuMTY4LjEwOC4yMzM= when applying to show you read the job post completely (#RMjAuMTY4LjEwOC4yMzM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 52
+  },
+  {
+    "id": "job-1bb31792",
+    "title": "Product Manager Â· New York Chicago Charlotte",
+    "company": "Oula",
+    "companyInitials": "OU",
+    "companyColor": "#0891B2",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "New York, New York, New York, United States",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-product-manager-new-york-chicago-charlotte-oula-1135672",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "testing",
+      "education",
+      "exec",
+      "content writing",
+      "marketing"
+    ],
+    "descriptionSnippet": "Oula delivers maternity care built around our patientsâoffering comprehensive support before, during, and after pregnancy. With fewer C-sections and higher VBAC success rates, ou...",
+    "fullDescription": "Oula delivers maternity care built around our patientsâoffering comprehensive support before, during, and after pregnancy. With fewer C-sections and higher VBAC success rates, our research-backed approach is delivering better outcomes. Our team of trusted midwives, OBGYNs, and dedicated care navigators ensure our patients get the type of care they need in the moments that matter most. Since launching in 2021, weâve expanded to include Preconception and Miscarriage Care, Pregnancy Care, Postpartum Support, and Gynecology. We currently have 4 clinics in the tri-state area, with three new clinics opening in 2026! Come join our team of clinicians, innovators, operators, and technologists pas",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 52
+  },
+  {
+    "id": "job-54daf824",
+    "title": "Product Manager",
+    "company": "Marval Software",
+    "companyInitials": "MA",
+    "companyColor": "#4F46E5",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "England, England, United Kingdom",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-product-manager-marval-software-1135766",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "dev",
+      "speech",
+      "finance",
+      "exec",
+      "ops"
+    ],
+    "descriptionSnippet": "Location: Remote / Hybrid (UK) Job Type: Full-time Salary: Â£65k - Â£80k, dependent on experience Shape the Future of Service Management For more than 36 years, Marval has been at...",
+    "fullDescription": "Location: Remote / Hybrid (UK) Job Type: Full-time Salary: Â£65k - Â£80k, dependent on experience Shape the Future of Service Management For more than 36 years, Marval has been at the forefront of Service Management innovation. As one of the original co-authors of ITIL, we've helped define the standards that organisations across the globe still rely on today. Now, we're building on that legacy. Our intelligent, no-code ITSM, ESM and Managed Service Management solutions empower organisations worldwide to transform the way they deliver services. As we continue to evolve our platform and accelerate our product strategy, we're looking for an ambitious Product Manager who wants to make a real imp",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 28
+  },
+  {
+    "id": "job-4af1afd9",
+    "title": "Product Manager",
+    "company": "360Dialog",
+    "companyInitials": "36",
+    "companyColor": "#4F46E5",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Remote, Global",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-product-manager-360dialog-1135112",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "product manager",
+      "exec",
+      "dev",
+      "digital nomad"
+    ],
+    "descriptionSnippet": "About Us360dialog is the leading Whatsapp platform for Independent Software Providers. We areâ¦ Please mention the word **EXCITING** and tag RMjAuMTY4LjEwOC4yMzM= when applying to...",
+    "fullDescription": "About Us360dialog is the leading Whatsapp platform for Independent Software Providers. We areâ¦ Please mention the word **EXCITING** and tag RMjAuMTY4LjEwOC4yMzM= when applying to show you read the job post completely (#RMjAuMTY4LjEwOC4yMzM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 79
+  },
+  {
+    "id": "job-61d29101",
+    "title": "Senior Product Manager Platform",
+    "company": "Delinea",
+    "companyInitials": "DE",
+    "companyColor": "#7C3AED",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Redwood City",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-platform-delinea-1134961",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "product manager",
+      "exec",
+      "design",
+      "saas",
+      "infosec"
+    ],
+    "descriptionSnippet": "About Delinea: Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their int...",
+    "fullDescription": "About Delinea: Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging AI-powered intelligence, Delineaâs leading cloud-native Identity Security Platform applies context throughout the entire identity lifecycle â across cloud and traditional infrastructure, data, SaaS applications, and AI. It is the only platform that enables you to discover all identities â including workforce, IT administrator, developers, and machines â assign appropriate access levels, detect irregularities, and respond to threats in real-time. With deploy",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 95
+  },
+  {
+    "id": "job-5e16b32b",
+    "title": "Product Manager",
+    "company": "Blend",
+    "companyInitials": "BL",
+    "companyColor": "#CA8A04",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Montevideo, Montevideo, Montevideo, Uruguay",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-product-manager-blend-1135792",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "exec",
+      "customer support",
+      "legal",
+      "accounting",
+      "sys admin"
+    ],
+    "descriptionSnippet": "Blend is a premier AI services provider, committed to co-creating meaningful impact for its clients through the power of data science, AI, technology, and people. With a mission to...",
+    "fullDescription": "Blend is a premier AI services provider, committed to co-creating meaningful impact for its clients through the power of data science, AI, technology, and people. With a mission to fuel bold visions, Blend tackles significant challenges by seamlessly aligning human expertise with artificial intelligence. The company is dedicated to unlocking value and fostering innovation for its clients by harnessing world-class people and data-driven strategy. We believe that the power of people and AI can have a meaningful impact on your world, creating more fulfilling work and projects for our people and clients. For more information, visit www.blend360.com We are seeking a Product Manager to contribute ",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 74
+  },
+  {
+    "id": "job-efb104ad",
+    "title": "Product Director EdTech Digital Learning",
+    "company": "peopleworth",
+    "companyInitials": "PE",
+    "companyColor": "#D97706",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Manchester, Manchester, England, United Kingdom",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-product-director-edtech-digital-learning-peopleworth-1134884",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "copywriting",
+      "non tech",
+      "product manager",
+      "exec",
+      "design"
+    ],
+    "descriptionSnippet": "Intro The organisation has reached an important inflection point. It has built a proven product, established strong market traction, and is entering its next phase of growth. The c...",
+    "fullDescription": "Intro The organisation has reached an important inflection point. It has built a proven product, established strong market traction, and is entering its next phase of growth. The challenge is no longer proving the model. The challenge is scaling it without compromising quality. That is what this role is for. We are looking for a Product Director who thrives on building operational systems that enable exceptional products to scale. This is not a traditional product management role. It is a leadership opportunity for someone who thinks in systems, has exceptionally high standards, moves with pace, and sees AI as fundamental to how modern organisations should operate. Role Overview Reporting di",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 31
+  },
+  {
+    "id": "job-6e119206",
+    "title": "Product Manager AI",
+    "company": "YipitData",
+    "companyInitials": "YI",
+    "companyColor": "#16A34A",
+    "roleCategory": "AI & Growth PM",
+    "shortRoleType": "AI PM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "US Remote",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-product-manager-ai-yipitdata-1134770",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "product manager",
+      "exec",
+      "dev",
+      "finance",
+      "cloud"
+    ],
+    "descriptionSnippet": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. E...",
+    "fullDescription": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across sectors like software, AI, cloud, e-commerce, ridesharing, and payments. Our data and research teams transform raw data into strategic intelligence, delivering accurate, timely, and deeply contextualized analysis that our customersâranging from the worldâs top investment funds to Fortune 500 companiesâdepend on to drive high-stakes decisions. From sourcing and licensing novel datasets to rig",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 61
+  },
+  {
+    "id": "job-b8c7657f",
+    "title": "VP Product",
+    "company": "Spark Advisors",
+    "companyInitials": "SP",
+    "companyColor": "#475569",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Remote, Global",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-vp-product-spark-advisors-1131387",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "product",
+      "product manager",
+      "exec",
+      "lead",
+      "senior"
+    ],
+    "descriptionSnippet": "About Spark Advisors We're building healthcare tech for a system that desperately needs it. Each year, millions of Americans deal with confusing changes to their Medicare plans tha...",
+    "fullDescription": "About Spark Advisors We're building healthcare tech for a system that desperately needs it. Each year, millions of Americans deal with confusing changes to their Medicare plans that impact their prescriptions, access to care, and pocketbooks. These arenât just inconveniences â they are potentially life-altering changes that leave seniors medically and financially vulnerable. Independent Medicare advisors play a crucial role in guiding seniors through this complexity and helping them find the right coverage for their needs. But their ability to be effective healthcare advocates has long been hamstrung by broken tools and outdated systems. Spark is fixing that. We're the fastest-growing Me",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 75
+  },
+  {
+    "id": "job-a060d229",
+    "title": "Product Lead Agentic Ads Platform",
+    "company": "Hightouch",
+    "companyInitials": "HI",
+    "companyColor": "#0284C7",
+    "roleCategory": "Technical Product Manager",
+    "shortRoleType": "TPM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "SF, NY, Remote",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-product-lead-agentic-ads-platform-hightouch-1131203",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "product",
+      "lead",
+      "ai",
+      "ads",
+      "marketing"
+    ],
+    "descriptionSnippet": "About Hightouch Hightouch is the modern AI platform for marketing and growth teams. Our AI agents reimagine marketing workflows, allowing marketers to create content, plan campaign...",
+    "fullDescription": "About Hightouch Hightouch is the modern AI platform for marketing and growth teams. Our AI agents reimagine marketing workflows, allowing marketers to create content, plan campaigns, and execute strategies with transformational velocity and performance. Hightouch is a rare company built on the intersection of two fundamental technological shifts: advances in LLMs and agentic AI, and the creation and rapid adoption of cloud data warehouses like Snowflake and Databricks. Building on these tailwinds, we've become a leader in AI marketing and partner with industry leaders like Domino's, Chime, Spotify, Ramp, Whoop, Grammarly, and over 1000 others. Our team focuses on making a meaningful impact f",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 61
+  },
+  {
+    "id": "job-d57f499d",
+    "title": "Manager Product Development",
+    "company": "C1",
+    "companyInitials": "C1",
+    "companyColor": "#7C3AED",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "San Francisco",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-manager-product-development-c1-1131029",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "manager",
+      "engineering",
+      "product",
+      "lead",
+      "tech lead"
+    ],
+    "descriptionSnippet": "C1 is the first AI-native identity security platform that protects every identity: human, non-human, and AI. With powerful automation, platform-level AI, and out-of-the-box connect...",
+    "fullDescription": "C1 is the first AI-native identity security platform that protects every identity: human, non-human, and AI. With powerful automation, platform-level AI, and out-of-the-box connectors, it centralizes access visibility, enforces fine-grained controls, enables just-in-time access, and automates user access reviews across all apps. Itâs easy to use, quick to deploy, and trusted by enterprises like DigitalOcean, Instacart, Ramp, and Zscaler. As a Manager, Product Development at C1, youâll lead small, high-ownership engineering teams that build and ship the features driving our product forward. Youâll be accountable for execution, quality, and delivery â guiding teams from concept through",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 33
+  },
+  {
+    "id": "job-368e0428",
+    "title": "Product Security Manager",
+    "company": "MoonPay",
+    "companyInitials": "MO",
+    "companyColor": "#9333EA",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "United States (East Coast Time Zone) - Remote",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-product-security-manager-moonpay-1130926",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "manager",
+      "security",
+      "infosec",
+      "lead",
+      "product"
+    ],
+    "descriptionSnippet": "About MoonPay Hi, weâre MoonPay. Weâre here to onboard the world to the decentralized economy by making digital money move as universally and effortlessly as the internet. Why?...",
+    "fullDescription": "About MoonPay Hi, weâre MoonPay. Weâre here to onboard the world to the decentralized economy by making digital money move as universally and effortlessly as the internet. Why? Because crypto, stablecoins and blockchain arenât just technologies. Theyâre tools for global financial empowerment. They give people and businesses more control over their money, their digital assets, and their future, opening access to legacy financial systems that have been out of reach for many. What we do MoonPay is a unified payments platform for digital currency. We make it easy for anyone, anywhere, to buy, sell, swap and pay in digital currencies as easy as sending an email. That simplicity is intenti",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 63
+  },
+  {
+    "id": "job-45524ca7",
+    "title": "Senior Product Manager Checkout & Post Booking",
+    "company": "Tripadvisor",
+    "companyInitials": "TR",
+    "companyColor": "#4F46E5",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "POL Virtual",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-checkout-post-booking-tripadvisor-1130888",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "senior",
+      "product",
+      "product manager",
+      "manager",
+      "lead"
+    ],
+    "descriptionSnippet": "Senior Product Manager, Checkout and Post-Booking | Tripadvisor About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the worldâs m...",
+    "fullDescription": "Senior Product Manager, Checkout and Post-Booking | Tripadvisor About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the worldâs most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other travel categories. The subsidiaries of Tripadvisor, Inc. (Nasdaq: TRIP), include a portfolio of travel brands and businesses, including Tripadvisor, Viator, and TheFork. We are looking for a Senior Product Manager to lead our Checkout Pod. This team is ",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 55
+  },
+  {
+    "id": "job-a98c1cb7",
+    "title": "Product manager",
+    "company": "DUÄAST",
+    "companyInitials": "DU",
+    "companyColor": "#4F46E5",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Nirsa, ",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-product-manager-dueast-1134144",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "project manager",
+      "exec",
+      "product manager"
+    ],
+    "descriptionSnippet": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high quality because it...",
+    "fullDescription": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high quality because it is disposable where another may be viewed as having poor quality because it is disposable. Please mention the word **EMPOWERMENT** and tag RMjAuMTY4LjEwOC4yMzM= when applying to show you read the job post completely (#RMjAuMTY4LjEwOC4yMzM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": true,
+    "isUrgent": true,
+    "applicantCount": 64
+  },
+  {
+    "id": "job-4f3981d6",
+    "title": "Principal Product Manager Acquisition Products",
+    "company": "ButterflyMX",
+    "companyInitials": "BU",
+    "companyColor": "#16A34A",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Remote, Global",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-acquisition-products-butterflymx-1134023",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "product manager",
+      "exec",
+      "design",
+      "infosec",
+      "testing"
+    ],
+    "descriptionSnippet": "Our Mission: ButterflyMX is on a mission to empower people to automate property access, operations, and security from a single platform. Our products are installed in more than 20,...",
+    "fullDescription": "Our Mission: ButterflyMX is on a mission to empower people to automate property access, operations, and security from a single platform. Our products are installed in more than 20,000+ multifamily, commercial, gated communities, and student-housing properties worldwide, including properties developed, owned, and managed by the most trusted names in real estate. Our features are designed for developers, owners, property managers, and tenants and our products lower operating costs and improve tenant satisfaction. Our Solution: Developers and owners no longer need to run building wiring or install in-unit hardware. Property managers can grant building access, revoke permissions, and review entr",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 35
+  },
+  {
+    "id": "job-9eb46c3d",
+    "title": "Associate Product Manager",
+    "company": "CareTalk Health",
+    "companyInitials": "CA",
+    "companyColor": "#0284C7",
+    "roleCategory": "Associate Product Manager",
+    "shortRoleType": "APM",
+    "experience": "1-3 yrs",
+    "experienceLevel": "0-2 yrs",
+    "location": "Remote, ",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-associate-product-manager-caretalk-health-1133979",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "exec",
+      "crypto",
+      "customer support",
+      "finance",
+      "ops"
+    ],
+    "descriptionSnippet": "Posted 12:48:10 PM. Job Title: Associate Product Manager - RemoteLocation: Remote - United StatesEmployment Type: FTâ¦See this and similar jobs on LinkedIn. Please mention the wor...",
+    "fullDescription": "Posted 12:48:10 PM. Job Title: Associate Product Manager - RemoteLocation: Remote - United StatesEmployment Type: FTâ¦See this and similar jobs on LinkedIn. Please mention the word **MERRY** and tag RMjAuMTY4LjEwOC4yMzM= when applying to show you read the job post completely (#RMjAuMTY4LjEwOC4yMzM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 17
+  },
+  {
+    "id": "job-b079a13c",
+    "title": "Product Manager",
+    "company": "Cambridge Spark",
+    "companyInitials": "CA",
+    "companyColor": "#16A34A",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Remote, Global",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-product-manager-cambridge-spark-1133737",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "exec",
+      "social media",
+      "sys admin",
+      "infosec",
+      "technical"
+    ],
+    "descriptionSnippet": "Department: Product and TechnologyLocation: Home based, UK (with occasional travel to our Londonâ¦ Please mention the word **COMMEND** and tag RMjAuMTY4LjEwOC4yMzM= when applying...",
+    "fullDescription": "Department: Product and TechnologyLocation: Home based, UK (with occasional travel to our Londonâ¦ Please mention the word **COMMEND** and tag RMjAuMTY4LjEwOC4yMzM= when applying to show you read the job post completely (#RMjAuMTY4LjEwOC4yMzM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 35
+  },
+  {
+    "id": "job-f56eba0c",
+    "title": "Staff Product Manager Product Information Management",
+    "company": "HighLevel",
+    "companyInitials": "HI",
+    "companyColor": "#2563EB",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Remote",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://remoteOK.com/remote-jobs/remote-staff-product-manager-product-information-management-highlevel-1133598",
+    "datePosted": "2026-09-07",
+    "relativeDate": "Today",
+    "salary": "$115k - $165k USD",
+    "tags": [
+      "product manager",
+      "exec",
+      "design",
+      "saas",
+      "sys admin"
+    ],
+    "descriptionSnippet": "About Us HighLevel is an AI-powered business operating system that gives agencies, entrepreneurs and SMBs the infrastructure to build, automate and scale. Today, HighLevel supports...",
+    "fullDescription": "About Us HighLevel is an AI-powered business operating system that gives agencies, entrepreneurs and SMBs the infrastructure to build, automate and scale. Today, HighLevel supports SMBs across 150+ countries, fueling community-driven growth rooted in real customer outcomes. To date, businesses operating on HighLevel have generated over $7 billion in ecosystem value, demonstrating the impact of shared infrastructure at scale. By centralizing conversations, automation and intelligence into one system, we help businesses move faster, reduce complexity and execute efficiently. Behind the platform, HighLevel powers more than 4 billion API hits and 2.5 billion message events daily. With 250 teraby",
+    "responsibilities": [
+      "Define multi-quarter product vision, KPI milestones, and sprint backlog",
+      "Collaborate with engineering, UX designers, and go-to-market teams",
+      "Conduct continuous customer discovery, telemetry analytics, and hypothesis testing"
+    ],
+    "requirements": [
+      "2+ years of software product management experience",
+      "Demonstrated proficiency in analytics (SQL, Amplitude, or Mixpanel)",
+      "Strong async communication and product execution skills"
+    ],
+    "keySkills": [
+      "Product Strategy",
+      "Data Analytics",
+      "Agile Backlog",
+      "User Discovery",
+      "Roadmapping"
+    ],
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 82
+  },
+  {
     "id": "job-6900691e",
     "title": "Product Owner - Core Banking & Credit Line Engine",
     "company": "CRED",
@@ -9966,5 +12150,1146 @@
     "isFeatured": false,
     "isUrgent": false,
     "applicantCount": 82
+  },
+  {
+    "id": "job-5c33d196",
+    "title": "Technical Product Manager (TPM) - Cloud & Distributed Data Platform",
+    "company": "Atlassian",
+    "companyInitials": "AT",
+    "companyColor": "#0052CC",
+    "roleCategory": "Technical Product Manager",
+    "shortRoleType": "TPM",
+    "experience": "4-7 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Remote (India)",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/search/?keywords=Atlassian+TPM",
+    "datePosted": "2026-09-06",
+    "relativeDate": "1d ago",
+    "salary": "₹40L - ₹58L PA + RSUs",
+    "tags": [
+      "Cloud",
+      "Infrastructure",
+      "Distributed Systems",
+      "Data Lake"
+    ],
+    "descriptionSnippet": "Lead core telemetry, multi-tenant Kafka streaming, and federated graph query engines serving Jira and Confluence.",
+    "fullDescription": "Lead core telemetry, multi-tenant Kafka streaming, and federated graph query engines serving Jira and Confluence. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Drive technical roadmaps for multi-region cloud infrastructure and telemetry",
+      "Establish clear SLAs, API contracts, and disaster recovery benchmarks",
+      "Partner with distributed systems architects to reduce query latency by 40%"
+    ],
+    "requirements": [
+      "4+ years as Technical PM or Systems Architect transitioning into Product",
+      "Strong background in Kafka, distributed caching, and cloud microservices",
+      "Exceptional technical articulation and cross-functional leadership"
+    ],
+    "keySkills": [
+      "Kafka",
+      "Distributed Systems",
+      "Cloud Arch",
+      "API Contracts",
+      "DevOps & SRE"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 79
+  },
+  {
+    "id": "job-d4ff3cdd",
+    "title": "AI Product Manager - Agentic Search & RAG Systems",
+    "company": "Microsoft",
+    "companyInitials": "MI",
+    "companyColor": "#00A4EF",
+    "roleCategory": "AI & Growth PM",
+    "shortRoleType": "AI PM",
+    "experience": "4-8 yrs",
+    "experienceLevel": "5-8 yrs",
+    "location": "Hyderabad, Telangana",
+    "city": "Hyderabad",
+    "workType": "Hybrid",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/search/?keywords=Microsoft+AI+Product+Manager",
+    "datePosted": "2026-09-06",
+    "relativeDate": "1d ago",
+    "salary": "₹48L - ₹72L PA + Stock",
+    "tags": [
+      "GenAI",
+      "Search",
+      "Copilot",
+      "Enterprise AI",
+      "Vector DB"
+    ],
+    "descriptionSnippet": "Shape the next horizon of Enterprise Copilot knowledge grounding, multi-hop reasoning, and neural search ranking.",
+    "fullDescription": "Shape the next horizon of Enterprise Copilot knowledge grounding, multi-hop reasoning, and neural search ranking. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Define evaluation benchmarks and fine-tuning datasets for Copilot enterprise search",
+      "Lead multi-agent orchestration architectures combining LLMs and semantic retrieval",
+      "Establish safety, compliance, and responsible AI guardrails for Fortune 500 customers"
+    ],
+    "requirements": [
+      "4+ years building AI/ML or LLM-integrated products",
+      "Working knowledge of vector databases, embedding models, and transformer architectures",
+      "Proven ability to translate deep tech innovations into enterprise UX"
+    ],
+    "keySkills": [
+      "LLM Evaluation",
+      "Vector Search",
+      "Agentic Workflows",
+      "Enterprise Security",
+      "MLOps"
+    ],
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 89
+  },
+  {
+    "id": "job-e88c8870",
+    "title": "Product Owner - Supply Chain Automation & Robotics",
+    "company": "Flipkart",
+    "companyInitials": "FL",
+    "companyColor": "#2874F0",
+    "roleCategory": "Product Owner",
+    "shortRoleType": "PO",
+    "experience": "4-7 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Bengaluru, Karnataka",
+    "city": "Bengaluru",
+    "workType": "Hybrid",
+    "source": "Naukri",
+    "url": "https://www.naukri.com/flipkart-jobs",
+    "datePosted": "2026-09-06",
+    "relativeDate": "1d ago",
+    "salary": "₹34L - ₹50L PA + Stock",
+    "tags": [
+      "E-commerce",
+      "Robotics",
+      "Automated Sortation",
+      "Warehouse Tech"
+    ],
+    "descriptionSnippet": "Direct automated AGV (Automated Guided Vehicles) and robotic arm sortation logic inside Mega Mother Hubs.",
+    "fullDescription": "Direct automated AGV (Automated Guided Vehicles) and robotic arm sortation logic inside Mega Mother Hubs. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Define logic for automated package routing, robotic sorting, and conveyor allocation",
+      "Partner with hub operations leads to eliminate peak festival season bottlenecks",
+      "Manage bi-weekly sprint backlogs for robotics engineering squads"
+    ],
+    "requirements": [
+      "4+ years as Product Owner or PM in supply chain, robotics, or industrial tech",
+      "Certified Scrum Product Owner (CSPO) or proven agile sprint delivery",
+      "Engineering background with strong quantitative problem-solving skills"
+    ],
+    "keySkills": [
+      "Warehouse Robotics",
+      "WMS / ERP",
+      "Scrum Product Ownership",
+      "IoT Telemetry",
+      "Capacity Planning"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 94
+  },
+  {
+    "id": "job-cbfe9db0",
+    "title": "Senior Product Manager - Real-Time Testing & Mobile Cloud",
+    "company": "BrowserStack",
+    "companyInitials": "BR",
+    "companyColor": "#2563EB",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "5-8 yrs",
+    "experienceLevel": "5-8 yrs",
+    "location": "Mumbai, Maharashtra",
+    "city": "Mumbai",
+    "workType": "Hybrid",
+    "source": "Naukri",
+    "url": "https://www.naukri.com/browserstack-jobs",
+    "datePosted": "2026-09-06",
+    "relativeDate": "1d ago",
+    "salary": "₹45L - ₹68L PA + Stock",
+    "tags": [
+      "B2B SaaS",
+      "DevTools",
+      "Cloud Testing",
+      "Enterprise"
+    ],
+    "descriptionSnippet": "Own the Real Device Cloud infrastructure serving millions of automated Appium and Selenium test runs daily.",
+    "fullDescription": "Own the Real Device Cloud infrastructure serving millions of automated Appium and Selenium test runs daily. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Lead product roadmap for automated test orchestration and device farm availability",
+      "Drive global enterprise pricing tiers and self-serve developer adoption",
+      "Collaborate with engineering leads on device virtualization and latency minimization"
+    ],
+    "requirements": [
+      "5+ years product management experience in B2B developer tools or cloud infra",
+      "Strong technical literacy with APIs, test automation, and mobile operating systems",
+      "Demonstrated success building global SaaS products"
+    ],
+    "keySkills": [
+      "B2B SaaS",
+      "Enterprise Pricing",
+      "Mobile Test Tech",
+      "Global GTM",
+      "Product Strategy"
+    ],
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 68
+  },
+  {
+    "id": "job-4f377857",
+    "title": "Technical Product Manager - Global Payment Orchestration & Routing",
+    "company": "Juspay",
+    "companyInitials": "JU",
+    "companyColor": "#1A365D",
+    "roleCategory": "Technical Product Manager",
+    "shortRoleType": "TPM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Bengaluru, Karnataka",
+    "city": "Bengaluru",
+    "workType": "On-site",
+    "source": "Wellfound",
+    "url": "https://wellfound.com/company/juspay/jobs",
+    "datePosted": "2026-09-06",
+    "relativeDate": "1d ago",
+    "salary": "₹32L - ₹48L PA",
+    "tags": [
+      "Fintech",
+      "Payment Gateway",
+      "PureScript / Rust",
+      "Distributed Systems"
+    ],
+    "descriptionSnippet": "Architect high-throughput payment routing engines handling 150M+ daily transactions with 99.999% uptime.",
+    "fullDescription": "Architect high-throughput payment routing engines handling 150M+ daily transactions with 99.999% uptime. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Design dynamic payment routing algorithms maximizing gateway success rates",
+      "Lead integration specs for global acquirers, Visa/Mastercard networks, and UPI switches",
+      "Establish sub-50ms latency SLAs for enterprise checkout SDKs"
+    ],
+    "requirements": [
+      "3+ years technical product experience in payments, switching, or core banking",
+      "Strong understanding of ISO 8583, 3DS 2.0, tokenization, and card network rules",
+      "Engineering background with strong grasp of distributed system reliability"
+    ],
+    "keySkills": [
+      "Payment Orchestration",
+      "ISO 8583",
+      "3DS 2.0",
+      "State Machines",
+      "System Reliability"
+    ],
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 106
+  },
+  {
+    "id": "job-e7f705b2",
+    "title": "Product Manager - 10-Minute Dark Store & Logistics OS",
+    "company": "Zepto",
+    "companyInitials": "ZE",
+    "companyColor": "#7C3AED",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Mumbai, Maharashtra",
+    "city": "Mumbai",
+    "workType": "On-site",
+    "source": "IIMJobs",
+    "url": "https://www.iimjobs.com/search/zepto-jobs.html",
+    "datePosted": "2026-09-06",
+    "relativeDate": "1d ago",
+    "salary": "₹28L - ₹42L PA + Stock",
+    "tags": [
+      "Quick Commerce",
+      "Logistics",
+      "Supply Chain",
+      "Algorithms"
+    ],
+    "descriptionSnippet": "Optimize picker routing algorithms, shelf heatmaps, and rider batching dispatch to hit sub-6 minute order packing.",
+    "fullDescription": "Optimize picker routing algorithms, shelf heatmaps, and rider batching dispatch to hit sub-6 minute order packing. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Deploy automated sortation and picker routing algorithms across 500+ dark stores",
+      "Design in-store Android scanner apps minimizing item misplacement by 50%",
+      "Analyze dark store throughput telemetry to optimize storage layout"
+    ],
+    "requirements": [
+      "2-5 years product management experience in quick commerce, logistics, or operations tech",
+      "Strong quantitative background with advanced SQL and simulation modeling",
+      "High operational empathy and willingness to conduct ground dark-store testing"
+    ],
+    "keySkills": [
+      "Supply Chain Tech",
+      "Warehouse Management",
+      "Rider Dispatch",
+      "Operations Tech",
+      "Data Modeling"
+    ],
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 74
+  },
+  {
+    "id": "job-536d5b70",
+    "title": "Associate Product Manager - Beauty Community & Live Commerce",
+    "company": "Nykaa",
+    "companyInitials": "NY",
+    "companyColor": "#FC2779",
+    "roleCategory": "Associate Product Manager",
+    "shortRoleType": "APM",
+    "experience": "1-3 yrs",
+    "experienceLevel": "0-2 yrs",
+    "location": "Mumbai, Maharashtra",
+    "city": "Mumbai",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.indeed.com/q-nykaa-jobs.html",
+    "datePosted": "2026-09-06",
+    "relativeDate": "1d ago",
+    "salary": "₹16L - ₹24L PA",
+    "tags": [
+      "E-commerce",
+      "Live Streaming",
+      "Influencer Tech",
+      "Consumer"
+    ],
+    "descriptionSnippet": "Launch interactive livestream shopping, beauty advisor video consultations, and user-generated review feeds.",
+    "fullDescription": "Launch interactive livestream shopping, beauty advisor video consultations, and user-generated review feeds. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Build in-app livestream shopping video player with instant cart add and coupon drops",
+      "Design gamified review rewards program boosting video review generation by 40%",
+      "Analyze viewer watch-time retention funnels to optimize show scheduling"
+    ],
+    "requirements": [
+      "1-3 years experience in consumer mobile product management or growth",
+      "Strong sense of consumer UX, social loops, and video engagement",
+      "Proficiency with Amplitude, Mixpanel, and product experimentation"
+    ],
+    "keySkills": [
+      "Social Commerce",
+      "Video Tech",
+      "Community Building",
+      "Mobile UX",
+      "Funnel Analytics"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 101
+  },
+  {
+    "id": "job-3de21b74",
+    "title": "Associate Product Manager - Creator & Seller Monetization",
+    "company": "Meesho",
+    "companyInitials": "ME",
+    "companyColor": "#9B1D5D",
+    "roleCategory": "Associate Product Manager",
+    "shortRoleType": "APM",
+    "experience": "1-3 yrs",
+    "experienceLevel": "0-2 yrs",
+    "location": "Bengaluru, Karnataka",
+    "city": "Bengaluru",
+    "workType": "Hybrid",
+    "source": "Instahyre",
+    "url": "https://www.instahyre.com/meesho-jobs",
+    "datePosted": "2026-09-06",
+    "relativeDate": "1d ago",
+    "salary": "₹17L - ₹25L PA",
+    "tags": [
+      "E-commerce",
+      "Monetization",
+      "Ads",
+      "Tier-2/3 India",
+      "B2B"
+    ],
+    "descriptionSnippet": "Build sponsored product ads for 500k+ micro-entrepreneurs and non-metro sellers with auto-bidding algorithms.",
+    "fullDescription": "Build sponsored product ads for 500k+ micro-entrepreneurs and non-metro sellers with auto-bidding algorithms. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Design zero-setup sponsored advertising campaigns for first-time non-metro sellers",
+      "Launch automated keyword bidding algorithms maximizing seller return on ad spend (ROAS)",
+      "Conduct usability sessions across small-town manufacturing hubs in India"
+    ],
+    "requirements": [
+      "1-3 years experience in product management, growth analytics, or ad tech",
+      "Strong analytical mindset (SQL proficiency) and first-principles problem solving",
+      "Deep interest in solving e-commerce challenges for next 500 million Indian users"
+    ],
+    "keySkills": [
+      "Ads Tech",
+      "Seller Ecosystem",
+      "First-Principles",
+      "SQL",
+      "Bharat UX"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 109
+  },
+  {
+    "id": "job-71b7bdec",
+    "title": "Product Manager - Home Services Booking & Partner App",
+    "company": "Urban Company",
+    "companyInitials": "UR",
+    "companyColor": "#000000",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Gurgaon, Haryana",
+    "city": "Gurgaon",
+    "workType": "Hybrid",
+    "source": "Instahyre",
+    "url": "https://www.instahyre.com/urban-company-jobs",
+    "datePosted": "2026-09-06",
+    "relativeDate": "1d ago",
+    "salary": "₹28L - ₹45L PA + ESOPs",
+    "tags": [
+      "Marketplace",
+      "Gig Economy",
+      "Service Tech",
+      "Partner App"
+    ],
+    "descriptionSnippet": "Scale the Partner Operating System for 45,000+ service professionals (beauticians, electricians, plumbers).",
+    "fullDescription": "Scale the Partner Operating System for 45,000+ service professionals (beauticians, electricians, plumbers). In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Own partner job dispatch, route planning, and real-time earnings tracker app",
+      "Build automated skill certification modules and IoT smart tool verification",
+      "Improve customer NPS and on-time service delivery across 60+ cities"
+    ],
+    "requirements": [
+      "2-5 years experience in gig economy marketplaces or operational tech products",
+      "High field orientation with desire to shadow partners on customer visits",
+      "Proficiency in metric telemetry and funnel optimization"
+    ],
+    "keySkills": [
+      "Two-Sided Marketplaces",
+      "Dispatch Algorithms",
+      "Gig Economy",
+      "Partner UX",
+      "Field Research"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 96
+  },
+  {
+    "id": "job-4ba53d5a",
+    "title": "Product Lead - GenAI Agent Platform & Workspace",
+    "company": "Google",
+    "companyInitials": "GO",
+    "companyColor": "#4285F4",
+    "roleCategory": "Technical Product Manager",
+    "shortRoleType": "TPM",
+    "experience": "8-12 yrs",
+    "experienceLevel": "8+ yrs",
+    "location": "Bengaluru, Karnataka",
+    "city": "Bengaluru",
+    "workType": "Hybrid",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/search/?keywords=Google+Product+Lead",
+    "datePosted": "2026-09-05",
+    "relativeDate": "2d ago",
+    "salary": "₹75L - ₹1.1Cr PA + RSUs",
+    "tags": [
+      "GenAI",
+      "Enterprise",
+      "Cloud",
+      "Agents",
+      "Productivity"
+    ],
+    "descriptionSnippet": "Lead product strategy for next-generation Gemini-powered multi-modal agents inside Google Workspace.",
+    "fullDescription": "Lead product strategy for next-generation Gemini-powered multi-modal agents inside Google Workspace. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Direct a team of Senior PMs building agentic productivity experiences across Google Workspace",
+      "Lead strategic GTM and ecosystem integrations with third-party enterprise tools",
+      "Collaborate with Google DeepMind research scientists on model capability rollouts"
+    ],
+    "requirements": [
+      "8+ years of product leadership in SaaS, Cloud, or Applied AI",
+      "Track record of scaling products from zero-to-one and managing high-performing PMs",
+      "Exceptional executive presence and technical vision"
+    ],
+    "keySkills": [
+      "Multi-Agent Systems",
+      "Enterprise SaaS",
+      "GenAI Ethics & Safety",
+      "Global Leadership",
+      "GTM Strategy"
+    ],
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 29
+  },
+  {
+    "id": "job-f6d5c00f",
+    "title": "Associate Product Manager - Driver Lifecycle & Safety",
+    "company": "Uber",
+    "companyInitials": "UB",
+    "companyColor": "#000000",
+    "roleCategory": "Associate Product Manager",
+    "shortRoleType": "APM",
+    "experience": "1-3 yrs",
+    "experienceLevel": "0-2 yrs",
+    "location": "Hyderabad, Telangana",
+    "city": "Hyderabad",
+    "workType": "Hybrid",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/search/?keywords=Uber+APM",
+    "datePosted": "2026-09-05",
+    "relativeDate": "2d ago",
+    "salary": "₹22L - ₹32L PA + RSUs",
+    "tags": [
+      "Mobility",
+      "Gig Economy",
+      "Safety Tech",
+      "Computer Vision"
+    ],
+    "descriptionSnippet": "Build real-time crash detection, SOS dispatch integrations, and automated helmet/seatbelt verification for drivers.",
+    "fullDescription": "Build real-time crash detection, SOS dispatch integrations, and automated helmet/seatbelt verification for drivers. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Analyze high-frequency telemetry and accelerometer data for instant crash alerts",
+      "Design intuitive mobile interfaces for driver verification and background checks",
+      "Conduct extensive in-person driver field studies across top metro hubs"
+    ],
+    "requirements": [
+      "1-3 years experience in product, engineering, or operations analytics",
+      "Strong quantitative background with SQL and statistical testing",
+      "Passion for consumer mobility and safety engineering"
+    ],
+    "keySkills": [
+      "Telemetry & Sensors",
+      "Safety Products",
+      "Global Scale",
+      "Mobile Product Management",
+      "SQL"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 129
+  },
+  {
+    "id": "job-1f9f933b",
+    "title": "Product Owner - Healthcare Records & ABHA Ecosystem",
+    "company": "Tata 1mg",
+    "companyInitials": "TA",
+    "companyColor": "#FF6F61",
+    "roleCategory": "Product Owner",
+    "shortRoleType": "PO",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Gurgaon, Haryana",
+    "city": "Gurgaon",
+    "workType": "Hybrid",
+    "source": "Naukri",
+    "url": "https://www.naukri.com/tata-1mg-jobs",
+    "datePosted": "2026-09-05",
+    "relativeDate": "2d ago",
+    "salary": "₹26L - ₹40L PA",
+    "tags": [
+      "HealthTech",
+      "ABDM",
+      "EHR",
+      "Teleconsultation",
+      "Diagnostics"
+    ],
+    "descriptionSnippet": "Integrate Ayushman Bharat Digital Mission (ABDM) health lockers, digitizing prescriptions and diagnostic test reports.",
+    "fullDescription": "Integrate Ayushman Bharat Digital Mission (ABDM) health lockers, digitizing prescriptions and diagnostic test reports. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Build unified digital health locker compliant with ABDM and FHIR standards",
+      "Streamline teleconsultation booking, lab test dispatch, and medicine reorders",
+      "Ensure stringent HIPAA and Indian healthcare data privacy compliance"
+    ],
+    "requirements": [
+      "3+ years product management experience in HealthTech or regulated marketplaces",
+      "Familiarity with ABDM M1/M2/M3 milestones and healthcare APIs",
+      "Strong agile sprint execution and user story mapping"
+    ],
+    "keySkills": [
+      "ABDM / ABHA",
+      "HealthTech",
+      "FHIR Protocols",
+      "Sprint Planning",
+      "HIPAA Compliance"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 108
+  },
+  {
+    "id": "job-bc11a2f9",
+    "title": "AI Product Manager - Autonomous Code Generation & Refactoring",
+    "company": "Sourcegraph",
+    "companyInitials": "SO",
+    "companyColor": "#00CBEC",
+    "roleCategory": "AI & Growth PM",
+    "shortRoleType": "AI PM",
+    "experience": "4-8 yrs",
+    "experienceLevel": "5-8 yrs",
+    "location": "Remote (Global)",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://wellfound.com/company/sourcegraph/jobs",
+    "datePosted": "2026-09-05",
+    "relativeDate": "2d ago",
+    "salary": "$130k - $175k USD + Equity",
+    "tags": [
+      "GenAI",
+      "Code AI",
+      "DevTools",
+      "Remote Global",
+      "Open Source"
+    ],
+    "descriptionSnippet": "Shape Cody AI coding assistant: multi-file repository indexing, automated PR generation, and test generation.",
+    "fullDescription": "Shape Cody AI coding assistant: multi-file repository indexing, automated PR generation, and test generation. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Drive product roadmap for multi-repo code graph indexing and embedding context",
+      "Design zero-friction IDE extensions across VS Code, JetBrains, and Web console",
+      "Conduct extensive developer feedback loops and eval benchmarks"
+    ],
+    "requirements": [
+      "4+ years building technical developer tools or AI products",
+      "Familiarity with transformer architectures, RAG pipelines, and embedding models",
+      "Comfortable coding and engaging directly with open-source developer communities"
+    ],
+    "keySkills": [
+      "Code AI & LLMs",
+      "Context Window Mgmt",
+      "VS Code APIs",
+      "DevEx",
+      "Open Source"
+    ],
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 118
+  },
+  {
+    "id": "job-434597e6",
+    "title": "Product Manager - Cross-Border Payments & Global Treasury",
+    "company": "Wise",
+    "companyInitials": "WI",
+    "companyColor": "#00B9FF",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "3-7 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Remote (India)",
+    "city": "Remote",
+    "workType": "Remote",
+    "source": "Wellfound",
+    "url": "https://wellfound.com/company/wise/jobs",
+    "datePosted": "2026-09-05",
+    "relativeDate": "2d ago",
+    "salary": "₹35L - ₹55L PA + Stock",
+    "tags": [
+      "Fintech",
+      "FX / Treasury",
+      "Global Payments",
+      "B2B",
+      "Compliance"
+    ],
+    "descriptionSnippet": "Build instant cross-border outward remittances from India in full compliance with RBI Liberalised Remittance Scheme (LRS).",
+    "fullDescription": "Build instant cross-border outward remittances from India in full compliance with RBI Liberalised Remittance Scheme (LRS). In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Own compliance and onboarding workflows for high-volume cross-border transfers",
+      "Partner with banking partners and regulatory bodies to reduce remittance fees",
+      "Drive transparent FX rate calculators and multi-currency business accounts"
+    ],
+    "requirements": [
+      "3+ years product management experience in FinTech or cross-border payments",
+      "Deep knowledge of RBI LRS guidelines, FEMA regulations, and Swift rails",
+      "Strong quantitative and user discovery skills"
+    ],
+    "keySkills": [
+      "Forex & Remittance",
+      "RBI LRS",
+      "Cross-Border Rails",
+      "Global Product",
+      "Regulatory Tech"
+    ],
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 78
+  },
+  {
+    "id": "job-20c875b1",
+    "title": "Senior Product Manager - Ads Platform & Bidding Engine",
+    "company": "InMobi",
+    "companyInitials": "IN",
+    "companyColor": "#FF3366",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "6-10 yrs",
+    "experienceLevel": "5-8 yrs",
+    "location": "Bengaluru, Karnataka",
+    "city": "Bengaluru",
+    "workType": "Hybrid",
+    "source": "IIMJobs",
+    "url": "https://www.iimjobs.com/search/inmobi-jobs.html",
+    "datePosted": "2026-09-05",
+    "relativeDate": "2d ago",
+    "salary": "₹50L - ₹75L PA + RSUs",
+    "tags": [
+      "AdTech",
+      "RTB",
+      "DSP",
+      "Programmatic",
+      "B2B SaaS"
+    ],
+    "descriptionSnippet": "Drive real-time bidding (RTB) algorithms, contextual publisher monetization, and privacy-preserving ad attribution.",
+    "fullDescription": "Drive real-time bidding (RTB) algorithms, contextual publisher monetization, and privacy-preserving ad attribution. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Lead product roadmap for programmatic DSP/SSP real-time bidding engines",
+      "Implement Privacy Sandbox attribution and clean room measurement solutions",
+      "Partner with global publisher teams to increase eCPMs by 20%"
+    ],
+    "requirements": [
+      "6+ years product management experience in AdTech, RTB, or digital marketing platforms",
+      "Deep knowledge of OpenRTB specs, auction theory, and programmatic pipelines",
+      "Strong quantitative mindset with background in economics or statistics"
+    ],
+    "keySkills": [
+      "AdTech",
+      "OpenRTB",
+      "Auction Theory",
+      "Privacy Sandbox",
+      "Data Strategy"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 74
+  },
+  {
+    "id": "job-d64f31ec",
+    "title": "Technical Product Manager - Data & Analytics Platform",
+    "company": "PhonePe",
+    "companyInitials": "PH",
+    "companyColor": "#4F46E5",
+    "roleCategory": "Technical Product Manager",
+    "shortRoleType": "TPM",
+    "experience": "5-8 yrs",
+    "experienceLevel": "5-8 yrs",
+    "location": "Bengaluru, Karnataka",
+    "city": "Bengaluru",
+    "workType": "Hybrid",
+    "source": "Indeed",
+    "url": "https://www.indeed.com/q-phonepe-jobs.html",
+    "datePosted": "2026-09-05",
+    "relativeDate": "2d ago",
+    "salary": "₹45L - ₹60L PA",
+    "tags": [
+      "Big Data",
+      "Data Platform",
+      "Real-Time",
+      "UPI"
+    ],
+    "descriptionSnippet": "Build high-throughput data lakehouse and streaming fraud telemetry processing 100M+ UPI transactions daily.",
+    "fullDescription": "Build high-throughput data lakehouse and streaming fraud telemetry processing 100M+ UPI transactions daily. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Define requirements for real-time feature stores and fraud detection telemetry",
+      "Partner with Data Engineering to optimize ClickHouse and Apache Flink pipelines",
+      "Provide self-serve analytics tools for 500+ internal product analysts"
+    ],
+    "requirements": [
+      "5+ years as Technical PM with strong hands-on background in SQL, Spark, and Kafka",
+      "Proven experience scaling petabyte-scale big data architectures",
+      "Exceptional technical articulation and architecture review capabilities"
+    ],
+    "keySkills": [
+      "TPM",
+      "Data Platform",
+      "Kafka",
+      "ClickHouse",
+      "Fraud Telemetry"
+    ],
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 96
+  },
+  {
+    "id": "job-7177876b",
+    "title": "Technical Product Manager - Data Mesh & Real-Time Analytics",
+    "company": "Swiggy",
+    "companyInitials": "SW",
+    "companyColor": "#FC8019",
+    "roleCategory": "Technical Product Manager",
+    "shortRoleType": "TPM",
+    "experience": "4-7 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Bengaluru, Karnataka",
+    "city": "Bengaluru",
+    "workType": "Hybrid",
+    "source": "Instahyre",
+    "url": "https://www.instahyre.com/swiggy-jobs",
+    "datePosted": "2026-09-05",
+    "relativeDate": "2d ago",
+    "salary": "₹38L - ₹55L PA + ESOPs",
+    "tags": [
+      "Data Platform",
+      "Apache Flink",
+      "Data Mesh",
+      "Real-Time Streaming"
+    ],
+    "descriptionSnippet": "Own Swiggy’s real-time streaming data platform processing 50 billion daily events for dynamic surge pricing.",
+    "fullDescription": "Own Swiggy’s real-time streaming data platform processing 50 billion daily events for dynamic surge pricing. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Build self-serve data mesh architecture enabling domain pods to publish reliable data products",
+      "Scale Apache Flink stream processing pipelines for real-time order tracking and surge multipliers",
+      "Implement automated data quality contracts and data governance policies"
+    ],
+    "requirements": [
+      "4+ years as Technical PM with strong background in distributed data systems",
+      "Hands-on expertise with Apache Flink, Kafka, Iceberg/Delta Lake, and Trino",
+      "Strong background in infrastructure cost optimization and cloud SLAs"
+    ],
+    "keySkills": [
+      "Data Mesh",
+      "Apache Flink",
+      "Real-time Streaming",
+      "Data Governance",
+      "Cost Optimization"
+    ],
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 124
+  },
+  {
+    "id": "job-c99f67eb",
+    "title": "Associate Product Manager - Consumer Subscription & Payments",
+    "company": "Hotstar / Disney",
+    "companyInitials": "HO",
+    "companyColor": "#0C3D8F",
+    "roleCategory": "Associate Product Manager",
+    "shortRoleType": "APM",
+    "experience": "1-3 yrs",
+    "experienceLevel": "0-2 yrs",
+    "location": "Mumbai, Maharashtra",
+    "city": "Mumbai",
+    "workType": "Hybrid",
+    "source": "Instahyre",
+    "url": "https://www.instahyre.com/hotstar-jobs",
+    "datePosted": "2026-09-05",
+    "relativeDate": "2d ago",
+    "salary": "₹18L - ₹27L PA",
+    "tags": [
+      "OTT / Media",
+      "Subscriptions",
+      "UPI AutoPay",
+      "Growth",
+      "B2C"
+    ],
+    "descriptionSnippet": "Drive subscription plan discovery, UPI AutoPay recurring mandate adoption, and churn win-back campaigns during live cricket.",
+    "fullDescription": "Drive subscription plan discovery, UPI AutoPay recurring mandate adoption, and churn win-back campaigns during live cricket. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Design high-converting paywall screens tailored to high-intent live cricket viewers",
+      "Scale UPI AutoPay recurring mandate setup with instant one-click registration",
+      "Execute behavioral cohort experiments to minimize involuntary subscriber churn"
+    ],
+    "requirements": [
+      "1-3 years experience in consumer B2C apps, subscription billing, or growth",
+      "Strong quantitative foundation with SQL and statistical testing",
+      "Passion for consumer psychology and digital media entertainment"
+    ],
+    "keySkills": [
+      "Subscription Economics",
+      "UPI AutoPay",
+      "Paywall Optimization",
+      "Growth Experiments",
+      "Cohort Analysis"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 92
+  },
+  {
+    "id": "job-92ecbbb9",
+    "title": "Product Lead - Vehicle Connectivity & Battery Intelligence",
+    "company": "Ather Energy",
+    "companyInitials": "AT",
+    "companyColor": "#33D07D",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "8-12 yrs",
+    "experienceLevel": "8+ yrs",
+    "location": "Bengaluru, Karnataka",
+    "city": "Bengaluru",
+    "workType": "On-site",
+    "source": "Naukri",
+    "url": "https://www.naukri.com/ather-energy-jobs",
+    "datePosted": "2026-09-04",
+    "relativeDate": "3d ago",
+    "salary": "₹65L - ₹90L PA + Stock",
+    "tags": [
+      "EV / Automotive",
+      "IoT",
+      "Battery Intelligence",
+      "Android Automotive",
+      "Hardware-Software"
+    ],
+    "descriptionSnippet": "Direct AtherStack software: vehicle touchscreen dashboard, connected mobile app, and Ather Grid charging network.",
+    "fullDescription": "Direct AtherStack software: vehicle touchscreen dashboard, connected mobile app, and Ather Grid charging network. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Define multi-year vision for Ather touchscreen OS, navigation algorithms, and ride modes",
+      "Lead telemetry platform tracking battery thermal health and predictive servicing",
+      "Partner closely with embedded systems, industrial design, and vehicle engineering"
+    ],
+    "requirements": [
+      "8+ years of technical product leadership in automotive, IoT, or consumer electronics",
+      "Deep understanding of Android Automotive OS, CAN protocols, and cloud IoT telemetry",
+      "Demonstrated success launching hardware-integrated software products"
+    ],
+    "keySkills": [
+      "Connected Mobility",
+      "Android Automotive",
+      "IoT Telemetry",
+      "Battery Tech",
+      "OTA Upgrades"
+    ],
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 102
+  },
+  {
+    "id": "job-6d731b42",
+    "title": "Senior Product Manager - EdTech AI Tutor & Adaptive Learning",
+    "company": "PhysicsWallah",
+    "companyInitials": "PH",
+    "companyColor": "#1E293B",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "5-8 yrs",
+    "experienceLevel": "5-8 yrs",
+    "location": "Noida / Delhi NCR",
+    "city": "Delhi NCR",
+    "workType": "On-site",
+    "source": "IIMJobs",
+    "url": "https://www.iimjobs.com/search/physicswallah-jobs.html",
+    "datePosted": "2026-09-04",
+    "relativeDate": "3d ago",
+    "salary": "₹38L - ₹56L PA + Stock",
+    "tags": [
+      "EdTech",
+      "Adaptive Learning",
+      "AI Tutor",
+      "Vernacular",
+      "Mobile App"
+    ],
+    "descriptionSnippet": "Build 24/7 AI doubt-solving assistant answering complex STEM questions in 8 Indian languages with step-by-step video synthesis.",
+    "fullDescription": "Build 24/7 AI doubt-solving assistant answering complex STEM questions in 8 Indian languages with step-by-step video synthesis. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Own product strategy for multimodal AI doubt solving reaching 10M+ active students",
+      "Design adaptive test engines adjusting difficulty based on student concept mastery",
+      "Optimize mobile video playback and interactive quizzes for low-bandwidth Tier 3 regions"
+    ],
+    "requirements": [
+      "5+ years product management experience in high-growth EdTech or consumer mobile apps",
+      "Experience with Generative AI, OCR, or adaptive recommendation systems",
+      "Deep empathy for Indian student learning behavior and vernacular UX"
+    ],
+    "keySkills": [
+      "EdTech Product",
+      "Multimodal AI",
+      "Gamification",
+      "Retention Loops",
+      "Vernacular UX"
+    ],
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 140
+  },
+  {
+    "id": "job-846970a0",
+    "title": "Product Manager - Mutual Funds & Wealth Advisory",
+    "company": "Groww",
+    "companyInitials": "GR",
+    "companyColor": "#00D09C",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "2-5 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Bengaluru, Karnataka",
+    "city": "Bengaluru",
+    "workType": "Hybrid",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/search/?keywords=Groww+Product+Manager",
+    "datePosted": "2026-09-04",
+    "relativeDate": "3d ago",
+    "salary": "₹30L - ₹48L PA + Stock",
+    "tags": [
+      "Wealthtech",
+      "Fintech",
+      "SIP",
+      "Investments",
+      "B2C"
+    ],
+    "descriptionSnippet": "Scale automated portfolio rebalancing, tax-saving baskets, and algorithmic goal-based SIP engines for 30M+ retail investors.",
+    "fullDescription": "Scale automated portfolio rebalancing, tax-saving baskets, and algorithmic goal-based SIP engines for 30M+ retail investors. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Design frictionless mutual fund discovery baskets and automated tax-saving recommendations",
+      "Partner with AMC fund managers and SEBI compliance leads on regulatory mandates",
+      "Run continuous user discovery sessions with first-time retail millennial investors"
+    ],
+    "requirements": [
+      "2-5 years experience in WealthTech, consumer FinTech, or capital markets products",
+      "Deep knowledge of mutual funds, SIP mandate rails, and SEBI regulations",
+      "Strong analytical capability and empathy for retail consumer finance"
+    ],
+    "keySkills": [
+      "Wealthtech",
+      "SEBI Regulations",
+      "Consumer Psychology",
+      "Financial Modeling",
+      "Experimentation"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 126
+  },
+  {
+    "id": "job-05d354a5",
+    "title": "Product Manager - Risk, Trust & Fraud Prevention",
+    "company": "Slice",
+    "companyInitials": "SL",
+    "companyColor": "#6B46C1",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Bengaluru, Karnataka",
+    "city": "Bengaluru",
+    "workType": "Hybrid",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/search/?keywords=Slice+Product+Manager",
+    "datePosted": "2026-09-04",
+    "relativeDate": "3d ago",
+    "salary": "₹30L - ₹46L PA + Stock",
+    "tags": [
+      "Fintech",
+      "Risk & Fraud",
+      "Machine Learning",
+      "UPI Security"
+    ],
+    "descriptionSnippet": "Build real-time fraud scoring models stopping account takeovers, SIM-swap attacks, and fraudulent UPI transactions.",
+    "fullDescription": "Build real-time fraud scoring models stopping account takeovers, SIM-swap attacks, and fraudulent UPI transactions. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Build real-time risk decisioning engine evaluating 50+ device and behavioural signals",
+      "Design frictionless step-up authentication using biometric passkeys and device binding",
+      "Collaborate with cybersecurity and risk modeling teams to mitigate zero-day attack vectors"
+    ],
+    "requirements": [
+      "3+ years product management experience in FinTech fraud, risk, or identity security",
+      "Strong technical background in device fingerprinting, passkeys, and payment switches",
+      "Exceptional problem-solving abilities and incident response coordination"
+    ],
+    "keySkills": [
+      "Fraud Detection",
+      "Risk Modeling",
+      "Biometrics",
+      "Fintech Security",
+      "Passkeys & Auth"
+    ],
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 84
+  },
+  {
+    "id": "job-6bfb895a",
+    "title": "Senior Product Manager - Fantasy Sports Match Engine & Social Play",
+    "company": "Dream11",
+    "companyInitials": "DR",
+    "companyColor": "#D32F2F",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "5-9 yrs",
+    "experienceLevel": "5-8 yrs",
+    "location": "Mumbai, Maharashtra",
+    "city": "Mumbai",
+    "workType": "On-site",
+    "source": "Naukri",
+    "url": "https://www.naukri.com/dream11-jobs",
+    "datePosted": "2026-09-04",
+    "relativeDate": "3d ago",
+    "salary": "₹50L - ₹75L PA + ESOPs",
+    "tags": [
+      "Gaming",
+      "SportsTech",
+      "High Concurrency",
+      "Social Play",
+      "B2C"
+    ],
+    "descriptionSnippet": "Scale live leaderboard updates and social contest creation for 20M+ concurrent fantasy cricket users.",
+    "fullDescription": "Scale live leaderboard updates and social contest creation for 20M+ concurrent fantasy cricket users. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Architect live contest join funnels and real-time point calculation engines during IPL match peaks",
+      "Design viral social play features: private friend leagues, audio banter rooms, and bragging feeds",
+      "Optimize app performance to maintain sub-100ms response times at 10M+ RPM"
+    ],
+    "requirements": [
+      "5+ years product management experience at high-concurrency consumer apps or gaming platforms",
+      "Deep understanding of gamification mechanics, social loops, and viral mechanics",
+      "Strong analytical mindset with proven experience running multi-variant tests"
+    ],
+    "keySkills": [
+      "High-Concurrency UX",
+      "Gamification",
+      "Social Loops",
+      "Sports Analytics",
+      "Product Execution"
+    ],
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 116
+  },
+  {
+    "id": "job-701aef85",
+    "title": "Product Manager - Enterprise Identity & Zero Trust Access",
+    "company": "Okta",
+    "companyInitials": "OK",
+    "companyColor": "#00297A",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Bengaluru, Karnataka",
+    "city": "Bengaluru",
+    "workType": "Hybrid",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/search/?keywords=Okta+Product+Manager",
+    "datePosted": "2026-09-03",
+    "relativeDate": "4d ago",
+    "salary": "₹38L - ₹56L PA + RSUs",
+    "tags": [
+      "Cybersecurity",
+      "Zero Trust",
+      "IAM",
+      "Enterprise SaaS",
+      "B2B"
+    ],
+    "descriptionSnippet": "Build adaptive passkey authentication, risk-based access policies, and enterprise identity governance.",
+    "fullDescription": "Build adaptive passkey authentication, risk-based access policies, and enterprise identity governance. In this role, you will be part of a high-impact product pod working directly with engineering, design, data science, and business leaders to deliver scalable, customer-centric innovations.",
+    "responsibilities": [
+      "Define product specs for adaptive risk-based authentication and biometric passkey login",
+      "Lead integrations with enterprise HRIS (Workday, SuccessFactors) and SaaS catalog apps",
+      "Engage directly with global CISOs and enterprise security architects"
+    ],
+    "requirements": [
+      "3+ years in enterprise security, IAM, or B2B SaaS product management",
+      "Deep knowledge of OAuth 2.0, SAML, OIDC, and FIDO2/WebAuthn standards",
+      "Strong customer empathy and technical articulation"
+    ],
+    "keySkills": [
+      "Identity & Access Mgmt",
+      "OAuth 2.0 / SAML",
+      "Zero Trust",
+      "Passkeys",
+      "Enterprise Security"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 79
   }
 ]
