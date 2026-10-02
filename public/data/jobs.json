@@ -9406,7 +9406,7 @@
     "title": "Junior Product Manager:in (w/m/d)",
     "company": "Enpal",
     "companyInitials": "EN",
-    "companyColor": "#D97706",
+    "companyColor": "#0284C7",
     "roleCategory": "Associate Product Manager",
     "shortRoleType": "APM",
     "experience": "3-6 yrs",
@@ -9443,14 +9443,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 38
+    "applicantCount": 23
   },
   {
     "id": "job-02834710",
     "title": "Product Manager II - Financial Crime Operations",
     "company": "Kraken",
     "companyInitials": "KR",
-    "companyColor": "#E11D48",
+    "companyColor": "#0891B2",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "3-6 yrs",
@@ -9487,14 +9487,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 26
+    "applicantCount": 41
   },
   {
     "id": "job-615061ce",
     "title": "Product Manager, Finance Engineering",
     "company": "Deliveroo",
     "companyInitials": "DE",
-    "companyColor": "#DC2626",
+    "companyColor": "#0284C7",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "3-6 yrs",
@@ -9529,14 +9529,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 28
+    "applicantCount": 27
   },
   {
     "id": "job-cb57708d",
     "title": "Senior / Lead Product Manager",
     "company": "Kwalee",
     "companyInitials": "KW",
-    "companyColor": "#9333EA",
+    "companyColor": "#2563EB",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -9573,14 +9573,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 41
+    "applicantCount": 20
   },
   {
     "id": "job-9619ddb7",
     "title": "People Partner Lead, Corporate Functions, Product & Tech",
     "company": "Neko Health",
     "companyInitials": "NE",
-    "companyColor": "#0D9488",
+    "companyColor": "#DC2626",
     "roleCategory": "Product Owner",
     "shortRoleType": "PO",
     "experience": "3-6 yrs",
@@ -9617,7 +9617,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 23
+    "applicantCount": 37
   },
   {
     "id": "job-7d64ae81",
@@ -9668,7 +9668,7 @@
     "title": "Senior Product Manager - Paris",
     "company": "Yubo",
     "companyInitials": "YU",
-    "companyColor": "#2563EB",
+    "companyColor": "#059669",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -9705,14 +9705,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 10
+    "applicantCount": 13
   },
   {
     "id": "job-aa9fbbf2",
     "title": "Product Manager Intern",
     "company": "Aircall",
     "companyInitials": "AI",
-    "companyColor": "#0D9488",
+    "companyColor": "#DC2626",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "5-8 yrs",
@@ -9749,14 +9749,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 40
+    "applicantCount": 32
   },
   {
     "id": "job-0fdba115",
     "title": "Senior Product Manager, Mobile",
     "company": "mozilla",
     "companyInitials": "MO",
-    "companyColor": "#DC2626",
+    "companyColor": "#7C3AED",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -9793,7 +9793,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 33
+    "applicantCount": 16
   },
   {
     "id": "job-6b677700",
@@ -9888,7 +9888,7 @@
     "title": "Principal Product Manager",
     "company": "Oportun",
     "companyInitials": "OP",
-    "companyColor": "#E11D48",
+    "companyColor": "#EA580C",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -9927,9 +9927,9 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
-    "isUrgent": true,
-    "applicantCount": 19
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 43
   },
   {
     "id": "job-79323bda",
@@ -10333,7 +10333,7 @@
     "title": "Lead Product Manager, Inference",
     "company": "Mistral.ai",
     "companyInitials": "MI",
-    "companyColor": "#EA580C",
+    "companyColor": "#0D9488",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -10370,14 +10370,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 32
+    "applicantCount": 21
   },
   {
     "id": "job-9b03714a",
     "title": "Staff Product Manager – Decathlon App [Permanent - CDI] (f/m/d)",
     "company": "Decathlontechnology",
     "companyInitials": "DE",
-    "companyColor": "#E11D48",
+    "companyColor": "#0284C7",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -10414,14 +10414,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 24
+    "applicantCount": 30
   },
   {
     "id": "job-ab8c5bce",
     "title": "Product Manager",
     "company": "ionq",
     "companyInitials": "IO",
-    "companyColor": "#9333EA",
+    "companyColor": "#D97706",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "3-6 yrs",
@@ -10458,7 +10458,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 36
+    "applicantCount": 42
   },
   {
     "id": "job-9848bee8",
@@ -10505,7 +10505,7 @@
     ],
     "isFeatured": true,
     "isUrgent": true,
-    "applicantCount": 105
+    "applicantCount": 59
   },
   {
     "id": "job-3e8540a9",
@@ -10552,7 +10552,7 @@
     ],
     "isFeatured": true,
     "isUrgent": true,
-    "applicantCount": 89
+    "applicantCount": 85
   },
   {
     "id": "job-b64acadb",
@@ -10600,7 +10600,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 112
+    "applicantCount": 99
   },
   {
     "id": "job-fd0de674",
@@ -10648,7 +10648,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 101
+    "applicantCount": 127
   },
   {
     "id": "job-27948da3",
@@ -10695,7 +10695,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 105
+    "applicantCount": 78
   },
   {
     "id": "job-401fff6a",
@@ -10743,7 +10743,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 91
+    "applicantCount": 29
   },
   {
     "id": "job-94148ccd",
@@ -10790,7 +10790,7 @@
     ],
     "isFeatured": true,
     "isUrgent": true,
-    "applicantCount": 28
+    "applicantCount": 45
   },
   {
     "id": "job-b8c7657f",
@@ -10837,15 +10837,15 @@
       "Roadmapping"
     ],
     "isFeatured": true,
-    "isUrgent": true,
-    "applicantCount": 55
+    "isUrgent": false,
+    "applicantCount": 69
   },
   {
     "id": "job-a060d229",
     "title": "Product Lead Agentic Ads Platform",
     "company": "Hightouch",
     "companyInitials": "HI",
-    "companyColor": "#16A34A",
+    "companyColor": "#0284C7",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "2-5 yrs",
@@ -10884,16 +10884,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
+    "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 31
+    "applicantCount": 25
   },
   {
     "id": "job-d57f499d",
     "title": "Manager Product Development",
     "company": "C1",
     "companyInitials": "C1",
-    "companyColor": "#059669",
+    "companyColor": "#E11D48",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -10933,15 +10933,15 @@
       "Roadmapping"
     ],
     "isFeatured": false,
-    "isUrgent": true,
-    "applicantCount": 25
+    "isUrgent": false,
+    "applicantCount": 15
   },
   {
     "id": "job-dddc7bbd",
     "title": "Technical Product Manager AI Stockbroking App",
     "company": "Bjak",
     "companyInitials": "BJ",
-    "companyColor": "#0891B2",
+    "companyColor": "#DC2626",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "2-5 yrs",
@@ -10980,16 +10980,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
+    "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 18
+    "applicantCount": 73
   },
   {
     "id": "job-36f7999d",
     "title": "Senior Growth Product Manager AI Native",
     "company": "Magic Eden",
     "companyInitials": "MA",
-    "companyColor": "#2563EB",
+    "companyColor": "#CA8A04",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -11030,14 +11030,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 62
+    "applicantCount": 78
   },
   {
     "id": "job-77dba3d8",
     "title": "Principal Product Manager",
     "company": "DomainTools",
     "companyInitials": "DO",
-    "companyColor": "#CA8A04",
+    "companyColor": "#9333EA",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -11077,15 +11077,15 @@
       "Roadmapping"
     ],
     "isFeatured": true,
-    "isUrgent": false,
-    "applicantCount": 76
+    "isUrgent": true,
+    "applicantCount": 88
   },
   {
     "id": "job-1bb31792",
     "title": "Product Manager Â· New York Chicago Charlotte",
     "company": "Oula",
     "companyInitials": "OU",
-    "companyColor": "#CA8A04",
+    "companyColor": "#0891B2",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -11126,14 +11126,14 @@
     ],
     "isFeatured": true,
     "isUrgent": true,
-    "applicantCount": 91
+    "applicantCount": 86
   },
   {
     "id": "job-4af1afd9",
     "title": "Product Manager",
     "company": "360Dialog",
     "companyInitials": "36",
-    "companyColor": "#9333EA",
+    "companyColor": "#0891B2",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -11152,8 +11152,8 @@
       "dev",
       "digital nomad"
     ],
-    "descriptionSnippet": "About Us360dialog is the leading Whatsapp platform for Independent Software Providers. We areâ¦ Please mention the word **EXCITING** and tag RMjAuMTYxLjYwLjIw when applying to sho...",
-    "fullDescription": "About Us360dialog is the leading Whatsapp platform for Independent Software Providers. We areâ¦ Please mention the word **EXCITING** and tag RMjAuMTYxLjYwLjIw when applying to show you read the job post completely (#RMjAuMTYxLjYwLjIw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "descriptionSnippet": "About Us360dialog is the leading Whatsapp platform for Independent Software Providers. We areâ¦ Please mention the word **EXCITING** and tag RMjAuMTYxLjcxLjUw when applying to sho...",
+    "fullDescription": "About Us360dialog is the leading Whatsapp platform for Independent Software Providers. We areâ¦ Please mention the word **EXCITING** and tag RMjAuMTYxLjcxLjUw when applying to show you read the job post completely (#RMjAuMTYxLjcxLjUw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "responsibilities": [
       "Define multi-quarter product vision, KPI milestones, and sprint backlog",
       "Collaborate with engineering, UX designers, and go-to-market teams",
@@ -11171,16 +11171,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
-    "isUrgent": false,
-    "applicantCount": 69
+    "isFeatured": true,
+    "isUrgent": true,
+    "applicantCount": 39
   },
   {
     "id": "job-61d29101",
     "title": "Senior Product Manager Platform",
     "company": "Delinea",
     "companyInitials": "DE",
-    "companyColor": "#059669",
+    "companyColor": "#0284C7",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -11220,15 +11220,15 @@
       "Roadmapping"
     ],
     "isFeatured": true,
-    "isUrgent": false,
-    "applicantCount": 39
+    "isUrgent": true,
+    "applicantCount": 64
   },
   {
     "id": "job-5e16b32b",
     "title": "Product Manager",
     "company": "Blend",
     "companyInitials": "BL",
-    "companyColor": "#CA8A04",
+    "companyColor": "#475569",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -11267,16 +11267,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
+    "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 84
+    "applicantCount": 44
   },
   {
     "id": "job-efb104ad",
     "title": "Product Director EdTech Digital Learning",
     "company": "peopleworth",
     "companyInitials": "PE",
-    "companyColor": "#475569",
+    "companyColor": "#E11D48",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "2-5 yrs",
@@ -11315,16 +11315,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
+    "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 75
+    "applicantCount": 43
   },
   {
     "id": "job-6e119206",
     "title": "Product Manager AI",
     "company": "YipitData",
     "companyInitials": "YI",
-    "companyColor": "#CA8A04",
+    "companyColor": "#475569",
     "roleCategory": "AI & Growth PM",
     "shortRoleType": "AI PM",
     "experience": "2-5 yrs",
@@ -11365,14 +11365,14 @@
     ],
     "isFeatured": true,
     "isUrgent": true,
-    "applicantCount": 77
+    "applicantCount": 75
   },
   {
     "id": "job-a98c1cb7",
     "title": "Product manager",
     "company": "DUÄAST",
     "companyInitials": "DU",
-    "companyColor": "#059669",
+    "companyColor": "#2563EB",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -11391,7 +11391,7 @@
       "product manager"
     ],
     "descriptionSnippet": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high quality because it...",
-    "fullDescription": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high quality because it is disposable where another may be viewed as having poor quality because it is disposable. Please mention the word **EMPOWERMENT** and tag RMjAuMTYxLjYwLjIw when applying to show you read the job post completely (#RMjAuMTYxLjYwLjIw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "fullDescription": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high quality because it is disposable where another may be viewed as having poor quality because it is disposable. Please mention the word **EMPOWERMENT** and tag RMjAuMTYxLjcxLjUw when applying to show you read the job post completely (#RMjAuMTYxLjcxLjUw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "responsibilities": [
       "Define multi-quarter product vision, KPI milestones, and sprint backlog",
       "Collaborate with engineering, UX designers, and go-to-market teams",
@@ -11410,15 +11410,15 @@
       "Roadmapping"
     ],
     "isFeatured": false,
-    "isUrgent": false,
-    "applicantCount": 42
+    "isUrgent": true,
+    "applicantCount": 34
   },
   {
     "id": "job-4f3981d6",
     "title": "Principal Product Manager Acquisition Products",
     "company": "ButterflyMX",
     "companyInitials": "BU",
-    "companyColor": "#0284C7",
+    "companyColor": "#DC2626",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -11457,16 +11457,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
+    "isFeatured": true,
     "isUrgent": true,
-    "applicantCount": 63
+    "applicantCount": 83
   },
   {
     "id": "job-9eb46c3d",
     "title": "Associate Product Manager",
     "company": "CareTalk Health",
     "companyInitials": "CA",
-    "companyColor": "#059669",
+    "companyColor": "#0D9488",
     "roleCategory": "Associate Product Manager",
     "shortRoleType": "APM",
     "experience": "1-3 yrs",
@@ -11487,7 +11487,7 @@
       "ops"
     ],
     "descriptionSnippet": "Posted 12:48:10 PM. Job Title: Associate Product Manager - RemoteLocation: Remote - United StatesEmployment Type: FTâ¦See this and similar jobs on LinkedIn. Please mention the wor...",
-    "fullDescription": "Posted 12:48:10 PM. Job Title: Associate Product Manager - RemoteLocation: Remote - United StatesEmployment Type: FTâ¦See this and similar jobs on LinkedIn. Please mention the word **MERRY** and tag RMjAuMTYxLjYwLjIw when applying to show you read the job post completely (#RMjAuMTYxLjYwLjIw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "fullDescription": "Posted 12:48:10 PM. Job Title: Associate Product Manager - RemoteLocation: Remote - United StatesEmployment Type: FTâ¦See this and similar jobs on LinkedIn. Please mention the word **MERRY** and tag RMjAuMTYxLjcxLjUw when applying to show you read the job post completely (#RMjAuMTYxLjcxLjUw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "responsibilities": [
       "Define multi-quarter product vision, KPI milestones, and sprint backlog",
       "Collaborate with engineering, UX designers, and go-to-market teams",
@@ -11505,16 +11505,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
+    "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 65
+    "applicantCount": 47
   },
   {
     "id": "job-b079a13c",
     "title": "Product Manager",
     "company": "Cambridge Spark",
     "companyInitials": "CA",
-    "companyColor": "#2563EB",
+    "companyColor": "#0D9488",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -11534,8 +11534,8 @@
       "infosec",
       "technical"
     ],
-    "descriptionSnippet": "Department: Product and TechnologyLocation: Home based, UK (with occasional travel to our Londonâ¦ Please mention the word **COMMEND** and tag RMjAuMTYxLjYwLjIw when applying to s...",
-    "fullDescription": "Department: Product and TechnologyLocation: Home based, UK (with occasional travel to our Londonâ¦ Please mention the word **COMMEND** and tag RMjAuMTYxLjYwLjIw when applying to show you read the job post completely (#RMjAuMTYxLjYwLjIw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "descriptionSnippet": "Department: Product and TechnologyLocation: Home based, UK (with occasional travel to our Londonâ¦ Please mention the word **COMMEND** and tag RMjAuMTYxLjcxLjUw when applying to s...",
+    "fullDescription": "Department: Product and TechnologyLocation: Home based, UK (with occasional travel to our Londonâ¦ Please mention the word **COMMEND** and tag RMjAuMTYxLjcxLjUw when applying to show you read the job post completely (#RMjAuMTYxLjcxLjUw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "responsibilities": [
       "Define multi-quarter product vision, KPI milestones, and sprint backlog",
       "Collaborate with engineering, UX designers, and go-to-market teams",
@@ -11553,16 +11553,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
+    "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 41
+    "applicantCount": 21
   },
   {
     "id": "job-f56eba0c",
     "title": "Staff Product Manager Product Information Management",
     "company": "HighLevel",
     "companyInitials": "HI",
-    "companyColor": "#0D9488",
+    "companyColor": "#9333EA",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -11603,14 +11603,14 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 22
+    "applicantCount": 62
   },
   {
     "id": "job-b0a6f58f",
     "title": "Product Manager",
     "company": "Ripjar",
     "companyInitials": "RI",
-    "companyColor": "#475569",
+    "companyColor": "#E11D48",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -11649,16 +11649,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
-    "isUrgent": true,
-    "applicantCount": 35
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 27
   },
   {
     "id": "job-336117c7",
     "title": "Senior Product Manager",
     "company": "Distru",
     "companyInitials": "DI",
-    "companyColor": "#CA8A04",
+    "companyColor": "#7C3AED",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -11698,15 +11698,15 @@
       "Roadmapping"
     ],
     "isFeatured": true,
-    "isUrgent": false,
-    "applicantCount": 36
+    "isUrgent": true,
+    "applicantCount": 33
   },
   {
     "id": "job-921483f0",
     "title": "Product Manager",
     "company": "PadSplit",
     "companyInitials": "PA",
-    "companyColor": "#CA8A04",
+    "companyColor": "#0891B2",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -11747,14 +11747,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 37
+    "applicantCount": 83
   },
   {
     "id": "job-9ec9b7cb",
     "title": "Product Manager Retail Lending &amp; Enablement",
     "company": "RBC",
     "companyInitials": "RB",
-    "companyColor": "#CA8A04",
+    "companyColor": "#D97706",
     "roleCategory": "AI & Growth PM",
     "shortRoleType": "AI PM",
     "experience": "2-5 yrs",
@@ -11793,16 +11793,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
+    "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 80
+    "applicantCount": 20
   },
   {
     "id": "job-ee74030e",
     "title": "Website Product Owner",
     "company": "Ryder System, Inc.",
     "companyInitials": "RY",
-    "companyColor": "#7C3AED",
+    "companyColor": "#E11D48",
     "roleCategory": "Product Owner",
     "shortRoleType": "PO",
     "experience": "2-5 yrs",
@@ -11841,16 +11841,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
-    "isUrgent": true,
-    "applicantCount": 94
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 31
   },
   {
     "id": "job-437f6bbb",
     "title": "Product Manager",
     "company": "Cosuno",
     "companyInitials": "CO",
-    "companyColor": "#CA8A04",
+    "companyColor": "#0D9488",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -11889,16 +11889,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
-    "isUrgent": false,
-    "applicantCount": 27
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 21
   },
   {
     "id": "job-bbc210de",
     "title": "Staff Product Manager Enterprise",
     "company": "LiveKit",
     "companyInitials": "LI",
-    "companyColor": "#059669",
+    "companyColor": "#4F46E5",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -11939,14 +11939,14 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 31
+    "applicantCount": 63
   },
   {
     "id": "job-c70a5a9e",
     "title": "Product Manager Data Feeds",
     "company": "YipitData",
     "companyInitials": "YI",
-    "companyColor": "#D97706",
+    "companyColor": "#EA580C",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -11987,14 +11987,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 45
+    "applicantCount": 56
   },
   {
     "id": "job-3ee4117a",
     "title": "Associate Product Manager",
     "company": "Automox",
     "companyInitials": "AU",
-    "companyColor": "#E11D48",
+    "companyColor": "#059669",
     "roleCategory": "Associate Product Manager",
     "shortRoleType": "APM",
     "experience": "1-3 yrs",
@@ -12032,16 +12032,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
+    "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 16
+    "applicantCount": 89
   },
   {
     "id": "job-de472d3a",
     "title": "Product Manager",
     "company": "Lively",
     "companyInitials": "LI",
-    "companyColor": "#475569",
+    "companyColor": "#059669",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -12081,15 +12081,15 @@
       "Roadmapping"
     ],
     "isFeatured": false,
-    "isUrgent": false,
-    "applicantCount": 95
+    "isUrgent": true,
+    "applicantCount": 54
   },
   {
     "id": "job-e603e50a",
     "title": "Product Manager",
     "company": "WorkOS",
     "companyInitials": "WO",
-    "companyColor": "#E11D48",
+    "companyColor": "#0284C7",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -12129,7 +12129,491 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 80
+    "applicantCount": 78
+  },
+  {
+    "id": "job-7b910b1e",
+    "title": "(Senior) Product Manager – Player Account Management (f/m/d)",
+    "company": "Zeal Network",
+    "companyInitials": "ZE",
+    "companyColor": "#0891B2",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Hamburg",
+    "city": "Hamburg",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/senior-product-manager-player-account-management-hamburg-71221",
+    "datePosted": "2026-10-02",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product & UX"
+    ],
+    "descriptionSnippet": "ZEAL Network SE is an international group shaping the future of digital lotteries and dream-driven experiences. As Germany’s leading online lottery provider through LOTTO24 and Tip...",
+    "fullDescription": "ZEAL Network SE is an international group shaping the future of digital lotteries and dream-driven experiences. As Germany’s leading online lottery provider through LOTTO24 and Tipp24, and a partner of Spain’s ONCE, ZEAL combines innovation, technology, and entertainment to inspire millions of customers. With ventures such as Freiheit+, Traumhausverlosung, Traumautoverlosung and ZEAL Ventures, the company also invests in new business models and emerging e-commerce brands. Driven by a diverse team of 350+ professionals, ZEAL fosters a collaborative, ambitious culture focused on turning dreams into reality. We are looking for a (Senior) Product Manager (f/m/d) to own and shape our KYC, authent",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 23
+  },
+  {
+    "id": "job-4fbebf5e",
+    "title": "Scientific Product Manager (m/fd)",
+    "company": "NeuroNation",
+    "companyInitials": "NE",
+    "companyColor": "#0284C7",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Berlin",
+    "city": "Berlin",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/neuronation/scientific-product-manager-m-fd-berlin-291730",
+    "datePosted": "2026-10-02",
+    "relativeDate": "Today",
+    "salary": "€80k - €120k",
+    "tags": [],
+    "descriptionSnippet": "Your mission Who we are NeuroNation is the personalised training app that empowers more than 20 million people all over the world in staying brain healthy and happy in their lives....",
+    "fullDescription": "Your mission Who we are NeuroNation is the personalised training app that empowers more than 20 million people all over the world in staying brain healthy and happy in their lives. We collaborate closely with scientists and universities to achieve the best results possible. Our engaging apps have received awards from major health insurance companies, such as the AOK, funded by the German Federal Ministry of Health. Also, we've been awarded by Apple and Google as one of the best apps available. To improve the training experience our app provides and make the product more effective and engaging to users and patients, we are looking for a passionate person with a background in science and deep ",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 11
+  },
+  {
+    "id": "job-33cdd8c1",
+    "title": "Junior Product Manager (m,f,d)",
+    "company": "NeuroNation",
+    "companyInitials": "NE",
+    "companyColor": "#9333EA",
+    "roleCategory": "Associate Product Manager",
+    "shortRoleType": "APM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Berlin",
+    "city": "Berlin",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/neuronation/junior-product-manager-mfd-berlin-176442",
+    "datePosted": "2026-10-02",
+    "relativeDate": "Today",
+    "salary": "€80k - €120k",
+    "tags": [],
+    "descriptionSnippet": "Your mission As a Junior Product Manager at NeuroNation, you will join the product team and work on both of our products B2C and Medical Brain-Training, crafting engaging and intui...",
+    "fullDescription": "Your mission As a Junior Product Manager at NeuroNation, you will join the product team and work on both of our products B2C and Medical Brain-Training, crafting engaging and intuitive user experiences for millions worldwide. Working closely with cross-functional teams, you’ll blend creativity, research, and data-driven insights to design features that boost growth, engagement, and long-term user value. Your Roles and Responsibilities Actively engage in improving the end-to-end user experience across NeuroNation products (B2C & MED) - from first touchpoint to long-term engagement and retention Help mapping and optimising user journeys across platforms (web & mobile), identifying drop-off poi",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 13
+  },
+  {
+    "id": "job-4a5111f9",
+    "title": "Workflow Product Owner (f/m/d)",
+    "company": "ecosio",
+    "companyInitials": "EC",
+    "companyColor": "#2563EB",
+    "roleCategory": "Product Owner",
+    "shortRoleType": "PO",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Germany, Austria, Spain, Italy, Hungary, Portugal, Croatia, Poland",
+    "city": "Germany",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ecosio/workflow-product-owner-germany-austria-spain-italy-hungary-portugal-croatia-poland-173215",
+    "datePosted": "2026-10-02",
+    "relativeDate": "Today",
+    "salary": "€80k - €120k",
+    "tags": [
+      "Product"
+    ],
+    "descriptionSnippet": "Company Description ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e...",
+    "fullDescription": "Company Description ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX). Our brand slogan is Connections That Work as we believe strong connections are central to successful business relationships - both external and internal. At ecosio, we hire individuals from all backgrounds and are committed to creating an inclusive work environment. We are technology lovers, set the highest standards for our solutions, and put innovative ideas first. Job Description We’re looking",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 22
+  },
+  {
+    "id": "job-fde99d2c",
+    "title": "Head of Product, AI Enablement (f/m/d)",
+    "company": "Awin",
+    "companyInitials": "AW",
+    "companyColor": "#7C3AED",
+    "roleCategory": "AI & Growth PM",
+    "shortRoleType": "AI PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/awin/head-of-product-ai-enablement-london-219771",
+    "datePosted": "2026-10-02",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product",
+      "Research & Development"
+    ],
+    "descriptionSnippet": "Purpose of Position Own the product agenda for how AI creates real, measurable value across Awin — translating AI capability into shipped product outcomes, not experiments. Context...",
+    "fullDescription": "Purpose of Position Own the product agenda for how AI creates real, measurable value across Awin — translating AI capability into shipped product outcomes, not experiments. Context Thousands of advertisers and publishers who stay on Awin platform because of the people and product behind the service. The next chapter of Awin's product strategy is defined by how deliberately we put AI to work — not as a slogan, but as a set of practical capabilities embedded into what we build and how the business runs. Most companies treat AI as a layer bolted onto existing product thinking. We want the opposite: a Head of Product who treats AI as core to the product strategy itself — where it belongs, what i",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 47
+  },
+  {
+    "id": "job-df8306f1",
+    "title": "Lead Product Manager - Bookings",
+    "company": "loveholidays",
+    "companyInitials": "LO",
+    "companyColor": "#CA8A04",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/loveholidays/lead-product-manager-bookings-london-191646",
+    "datePosted": "2026-10-02",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product"
+    ],
+    "descriptionSnippet": "Why loveholidays? We’re on a mission to open the world to everyone, giving our customers unlimited choice, unmatched ease and unmissable value for their next getaway. Our trailblaz...",
+    "fullDescription": "Why loveholidays? We’re on a mission to open the world to everyone, giving our customers unlimited choice, unmatched ease and unmissable value for their next getaway. Our trailblaze together culture is what drives our success, powered by our people and the way they work. Using progressive technology, we drive cutting-edge innovation and improve how our customers discover, book and experience their holidays. You’ll have the opportunity to accelerate your growth through meaningful challenges, new experiences and the freedom to shape your own path. You’ll create impact for our future by taking ownership, contributing to shared goals and helping shape what comes next, all as part of our enhanced",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 25
+  },
+  {
+    "id": "job-d122e3c3",
+    "title": "Lead Product Manager - Trading",
+    "company": "loveholidays",
+    "companyInitials": "LO",
+    "companyColor": "#059669",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/loveholidays/lead-product-manager-trading-london-479946",
+    "datePosted": "2026-10-02",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product"
+    ],
+    "descriptionSnippet": "Why loveholidays? We’re on a mission to open the world to everyone, giving our customers unlimited choice, unmatched ease and unmissable value for their next getaway. Our trailblaz...",
+    "fullDescription": "Why loveholidays? We’re on a mission to open the world to everyone, giving our customers unlimited choice, unmatched ease and unmissable value for their next getaway. Our trailblaze together culture is what drives our success, powered by our people and the way they work. Using progressive technology, we drive cutting-edge innovation and improve how our customers discover, book and experience their holidays. You’ll have the opportunity to accelerate your growth through meaningful challenges, new experiences and the freedom to shape your own path. You’ll create impact for our future by taking ownership, contributing to shared goals and helping shape what comes next, all as part of our enhanced",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 37
+  },
+  {
+    "id": "job-02f1ea47",
+    "title": "Head of Product",
+    "company": "Avenir Collective",
+    "companyInitials": "AV",
+    "companyColor": "#475569",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London, Greater London, United Kingdom",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/avenir-collective/head-of-product-london-402384",
+    "datePosted": "2026-10-02",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Ecommerce"
+    ],
+    "descriptionSnippet": "About Us Avenir Collective. Building the future of beauty, personal care and lifestyle brands. We acquire and scale high-potential consumer brands, bringing together the capital, p...",
+    "fullDescription": "About Us Avenir Collective. Building the future of beauty, personal care and lifestyle brands. We acquire and scale high-potential consumer brands, bringing together the capital, people and operating expertise to turn strong brands into enduring businesses. Our difference is that we are operators, actively managing our brands and providing the capabilities, infrastructure and expertise they need to scale, while preserving the product, purpose and consumer connection that make each brand special. We’re building a connected house of brands where great people, brands and ideas come together. If you’re excited by building businesses, solving problems and working with a collaborative, entrepreneu",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 15
+  },
+  {
+    "id": "job-624a80f0",
+    "title": "Senior Product Owner - Data & Analytics (m/f/d)",
+    "company": "Yepoda",
+    "companyInitials": "YE",
+    "companyColor": "#7C3AED",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Berlin",
+    "city": "Berlin",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/yepoda/senior-product-owner-data-analytics-berlin-478179",
+    "datePosted": "2026-10-02",
+    "relativeDate": "Today",
+    "salary": "€80k - €120k",
+    "tags": [
+      "Data"
+    ],
+    "descriptionSnippet": "About Yepoda Our mission is to bring Clean K-Beauty Innovations , from Korea straight to Europe, UK, and the US – without ever compromising on our values, quality, and sustainabili...",
+    "fullDescription": "About Yepoda Our mission is to bring Clean K-Beauty Innovations , from Korea straight to Europe, UK, and the US – without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, vegan, cruelty-free, and packed with the best natural and active ingredients. Founded in 2020 by Sander Joonyoung van Bladel and Veronika Strotmann, Yepoda is a fast-growing beauty start-up based in the heart of Berlin. Our products are available across Europe and, since March 2025, at Sephora Europe – online and in over 250 stores. As a certified B Corp™ , we are committed to building a business with purpose. With a team of over 120 b",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 48
+  },
+  {
+    "id": "job-ceb949cc",
+    "title": "Senior Product Manager (Enterprise)",
+    "company": "N8N",
+    "companyInitials": "N8",
+    "companyColor": "#D97706",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Berlin Office",
+    "city": "Berlin Office",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-product-manager-enterprise-berlin-302622",
+    "datePosted": "2026-10-02",
+    "relativeDate": "Today",
+    "salary": "€80k - €120k",
+    "tags": [
+      "Product"
+    ],
+    "descriptionSnippet": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the...",
+    "fullDescription": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approved integrations, we’re changing the way people bring systems together and scale ideas for impact. Since our founding in 2019, we’ve grown into a diverse team of over 260 - working across Europe and the US, connected by a shared builder spirit and with our centre of gravity in Berlin. Along the way, we’ve: Cultivated a community of more than 650,000 active developers and builder",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 47
+  },
+  {
+    "id": "job-28b5c407",
+    "title": "Technical Product Owner (m/w/d)",
+    "company": "Mway",
+    "companyInitials": "MW",
+    "companyColor": "#0891B2",
+    "roleCategory": "Technical Product Manager",
+    "shortRoleType": "TPM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Stuttgart",
+    "city": "Stuttgart",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/mway/technical-product-owner-stuttgart-100527",
+    "datePosted": "2026-10-02",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product Owner",
+      "Productmanagement",
+      "MDM",
+      "UEM"
+    ],
+    "descriptionSnippet": "Your mission You want to do more than just contribute ideas — you want to actively shape a software product from the first concept through to release? As Product Owner at Relution,...",
+    "fullDescription": "Your mission You want to do more than just contribute ideas — you want to actively shape a software product from the first concept through to release? As Product Owner at Relution, you take responsibility for the continued development of our “Made in Germany” UEM and MDM platform. You will work closely with customers, Engineering, UX, Sales and Management. You understand requirements, challenge assumptions and work with the team to turn real problems into meaningful product solutions. You monitor the UEM and MDM market, analyse competitors and technology trends, and contribute insights to our product strategy and roadmap You gather and evaluate requirements from customers across education, p",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 20
   },
   {
     "id": "job-6900691e",
@@ -12319,7 +12803,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 132
+    "applicantCount": 34
   },
   {
     "id": "job-d4ff3cdd",
@@ -12367,7 +12851,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 40
+    "applicantCount": 43
   },
   {
     "id": "job-e88c8870",
@@ -12414,7 +12898,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 138
+    "applicantCount": 57
   },
   {
     "id": "job-cbfe9db0",
@@ -12461,7 +12945,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 87
+    "applicantCount": 102
   },
   {
     "id": "job-4f377857",
@@ -12508,7 +12992,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 136
+    "applicantCount": 61
   },
   {
     "id": "job-e7f705b2",
@@ -12555,7 +13039,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 138
+    "applicantCount": 35
   },
   {
     "id": "job-536d5b70",
@@ -12602,7 +13086,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 108
+    "applicantCount": 134
   },
   {
     "id": "job-3de21b74",
@@ -12650,7 +13134,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 126
+    "applicantCount": 134
   },
   {
     "id": "job-71b7bdec",
@@ -12697,7 +13181,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 67
+    "applicantCount": 131
   },
   {
     "id": "job-4ba53d5a",
@@ -12745,7 +13229,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 129
+    "applicantCount": 137
   },
   {
     "id": "job-f6d5c00f",
@@ -12792,7 +13276,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 111
+    "applicantCount": 54
   },
   {
     "id": "job-1f9f933b",
@@ -12840,7 +13324,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 42
+    "applicantCount": 110
   },
   {
     "id": "job-bc11a2f9",
@@ -12888,7 +13372,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 33
+    "applicantCount": 117
   },
   {
     "id": "job-434597e6",
@@ -12936,7 +13420,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 35
+    "applicantCount": 83
   },
   {
     "id": "job-20c875b1",
@@ -12984,7 +13468,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 30
+    "applicantCount": 91
   },
   {
     "id": "job-d64f31ec",
@@ -13031,7 +13515,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 84
+    "applicantCount": 37
   },
   {
     "id": "job-7177876b",
@@ -13078,7 +13562,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 66
+    "applicantCount": 38
   },
   {
     "id": "job-c99f67eb",
@@ -13126,7 +13610,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 111
+    "applicantCount": 34
   },
   {
     "id": "job-92ecbbb9",
@@ -13174,7 +13658,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 134
+    "applicantCount": 97
   },
   {
     "id": "job-6d731b42",
@@ -13222,7 +13706,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 92
+    "applicantCount": 87
   },
   {
     "id": "job-846970a0",
@@ -13270,7 +13754,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 25
+    "applicantCount": 119
   },
   {
     "id": "job-05d354a5",
@@ -13317,7 +13801,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 104
+    "applicantCount": 89
   },
   {
     "id": "job-6bfb895a",
@@ -13365,7 +13849,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 67
+    "applicantCount": 68
   },
   {
     "id": "job-701aef85",
@@ -13413,6 +13897,6 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 105
+    "applicantCount": 82
   }
 ]
