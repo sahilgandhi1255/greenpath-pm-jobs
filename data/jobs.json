@@ -9917,7 +9917,7 @@
     "title": "Product Manager Intern - Platform",
     "company": "mirakllabs",
     "companyInitials": "MI",
-    "companyColor": "#CA8A04",
+    "companyColor": "#0284C7",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "5-8 yrs",
@@ -9954,14 +9954,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 37
+    "applicantCount": 33
   },
   {
     "id": "job-8a4730f4",
     "title": "Product Manager Intern - Connect",
     "company": "mirakllabs",
     "companyInitials": "MI",
-    "companyColor": "#EA580C",
+    "companyColor": "#4F46E5",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "5-8 yrs",
@@ -9998,7 +9998,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 32
+    "applicantCount": 38
   },
   {
     "id": "job-f15f1c9a",
@@ -10091,7 +10091,7 @@
     "title": "Product Manager",
     "company": "ionq",
     "companyInitials": "IO",
-    "companyColor": "#E11D48",
+    "companyColor": "#9333EA",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "3-6 yrs",
@@ -10128,7 +10128,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 36
+    "applicantCount": 34
   },
   {
     "id": "job-db3ed65e",
@@ -10359,7 +10359,7 @@
     "title": "Product DirectorH/F",
     "company": "capco",
     "companyInitials": "CA",
-    "companyColor": "#0284C7",
+    "companyColor": "#2563EB",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -10396,14 +10396,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 29
+    "applicantCount": 44
   },
   {
     "id": "job-a72e7df6",
     "title": "Tech Lead, Android Core Product - Toulouse, France",
     "company": "speechify",
     "companyInitials": "SP",
-    "companyColor": "#059669",
+    "companyColor": "#0D9488",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -10440,14 +10440,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 37
+    "applicantCount": 20
   },
   {
     "id": "job-8e84773f",
     "title": "Tech Lead, Android Core Product - Paris, France",
     "company": "speechify",
     "companyInitials": "SP",
-    "companyColor": "#16A34A",
+    "companyColor": "#2563EB",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -10484,14 +10484,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 36
+    "applicantCount": 43
   },
   {
     "id": "job-fba2440f",
     "title": "Tech Lead, Android Core Product - Nantes, France",
     "company": "speechify",
     "companyInitials": "SP",
-    "companyColor": "#0891B2",
+    "companyColor": "#E11D48",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -10528,14 +10528,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 39
+    "applicantCount": 27
   },
   {
     "id": "job-db6573b7",
     "title": "Tech Lead, Android Core Product - Lyon, France",
     "company": "speechify",
     "companyInitials": "SP",
-    "companyColor": "#7C3AED",
+    "companyColor": "#CA8A04",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -10572,14 +10572,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 39
+    "applicantCount": 15
   },
   {
     "id": "job-3656a645",
     "title": "Tech Lead, Android Core Product - Lille, France",
     "company": "speechify",
     "companyInitials": "SP",
-    "companyColor": "#E11D48",
+    "companyColor": "#059669",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -10616,14 +10616,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 21
+    "applicantCount": 20
   },
   {
     "id": "job-42fe9dca",
     "title": "Tech Lead, Android Core Product - Bordeaux, France",
     "company": "speechify",
     "companyInitials": "SP",
-    "companyColor": "#0D9488",
+    "companyColor": "#DC2626",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -10660,14 +10660,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 12
+    "applicantCount": 15
   },
   {
     "id": "job-aa9fbbf2",
     "title": "Product Manager Intern",
     "company": "Aircall",
     "companyInitials": "AI",
-    "companyColor": "#0284C7",
+    "companyColor": "#CA8A04",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "5-8 yrs",
@@ -10704,14 +10704,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 31
+    "applicantCount": 32
   },
   {
     "id": "job-cb5d0f0a",
     "title": "Product Manager, Healthcare (H/F)",
     "company": "Withings",
     "companyInitials": "WI",
-    "companyColor": "#E11D48",
+    "companyColor": "#0D9488",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "3-6 yrs",
@@ -10750,14 +10750,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 23
+    "applicantCount": 10
   },
   {
     "id": "job-127231fe",
     "title": "Principal Product Manager",
     "company": "Oportun",
     "companyInitials": "OP",
-    "companyColor": "#9333EA",
+    "companyColor": "#16A34A",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -10797,15 +10797,15 @@
       "Roadmapping"
     ],
     "isFeatured": false,
-    "isUrgent": true,
-    "applicantCount": 84
+    "isUrgent": false,
+    "applicantCount": 55
   },
   {
     "id": "job-b8c7657f",
     "title": "VP Product",
     "company": "Spark Advisors",
     "companyInitials": "SP",
-    "companyColor": "#7C3AED",
+    "companyColor": "#2563EB",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "2-5 yrs",
@@ -10845,8 +10845,8 @@
       "Roadmapping"
     ],
     "isFeatured": false,
-    "isUrgent": true,
-    "applicantCount": 46
+    "isUrgent": false,
+    "applicantCount": 56
   },
   {
     "id": "job-a060d229",
@@ -10893,8 +10893,8 @@
       "Roadmapping"
     ],
     "isFeatured": true,
-    "isUrgent": false,
-    "applicantCount": 42
+    "isUrgent": true,
+    "applicantCount": 54
   },
   {
     "id": "job-3cb572db",
@@ -11071,7 +11071,7 @@
     ],
     "isFeatured": true,
     "isUrgent": true,
-    "applicantCount": 108
+    "applicantCount": 30
   },
   {
     "id": "job-3e8540a9",
@@ -11118,7 +11118,7 @@
     ],
     "isFeatured": true,
     "isUrgent": true,
-    "applicantCount": 58
+    "applicantCount": 112
   },
   {
     "id": "job-b64acadb",
@@ -11166,7 +11166,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 40
+    "applicantCount": 85
   },
   {
     "id": "job-fd0de674",
@@ -11214,7 +11214,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 42
+    "applicantCount": 52
   },
   {
     "id": "job-27948da3",
@@ -11261,7 +11261,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 130
+    "applicantCount": 83
   },
   {
     "id": "job-401fff6a",
@@ -11309,7 +11309,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 128
+    "applicantCount": 90
   },
   {
     "id": "job-94148ccd",
@@ -11356,14 +11356,14 @@
     ],
     "isFeatured": true,
     "isUrgent": true,
-    "applicantCount": 65
+    "applicantCount": 69
   },
   {
     "id": "job-dddc7bbd",
     "title": "Technical Product Manager AI Stockbroking App",
     "company": "Bjak",
     "companyInitials": "BJ",
-    "companyColor": "#CA8A04",
+    "companyColor": "#16A34A",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "2-5 yrs",
@@ -11402,16 +11402,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
+    "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 88
+    "applicantCount": 75
   },
   {
     "id": "job-36f7999d",
     "title": "Senior Growth Product Manager AI Native",
     "company": "Magic Eden",
     "companyInitials": "MA",
-    "companyColor": "#EA580C",
+    "companyColor": "#059669",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -11450,16 +11450,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
+    "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 23
+    "applicantCount": 56
   },
   {
     "id": "job-77dba3d8",
     "title": "Principal Product Manager",
     "company": "DomainTools",
     "companyInitials": "DO",
-    "companyColor": "#475569",
+    "companyColor": "#9333EA",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -11498,16 +11498,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
+    "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 55
+    "applicantCount": 79
   },
   {
     "id": "job-1bb31792",
     "title": "Product Manager Â· New York Chicago Charlotte",
     "company": "Oula",
     "companyInitials": "OU",
-    "companyColor": "#CA8A04",
+    "companyColor": "#DC2626",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -11548,14 +11548,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 84
+    "applicantCount": 86
   },
   {
     "id": "job-4af1afd9",
     "title": "Product Manager",
     "company": "360Dialog",
     "companyInitials": "36",
-    "companyColor": "#0D9488",
+    "companyColor": "#EA580C",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -11574,8 +11574,8 @@
       "dev",
       "digital nomad"
     ],
-    "descriptionSnippet": "About Us360dialog is the leading Whatsapp platform for Independent Software Providers. We areâ¦ Please mention the word **EXCITING** and tag RMjAuMTY5LjUzLjQz when applying to sho...",
-    "fullDescription": "About Us360dialog is the leading Whatsapp platform for Independent Software Providers. We areâ¦ Please mention the word **EXCITING** and tag RMjAuMTY5LjUzLjQz when applying to show you read the job post completely (#RMjAuMTY5LjUzLjQz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "descriptionSnippet": "About Us360dialog is the leading Whatsapp platform for Independent Software Providers. We areâ¦ Please mention the word **EXCITING** and tag RNTIuMjQwLjE3Ni4xNjI= when applying to...",
+    "fullDescription": "About Us360dialog is the leading Whatsapp platform for Independent Software Providers. We areâ¦ Please mention the word **EXCITING** and tag RNTIuMjQwLjE3Ni4xNjI= when applying to show you read the job post completely (#RNTIuMjQwLjE3Ni4xNjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "responsibilities": [
       "Define multi-quarter product vision, KPI milestones, and sprint backlog",
       "Collaborate with engineering, UX designers, and go-to-market teams",
@@ -11594,15 +11594,15 @@
       "Roadmapping"
     ],
     "isFeatured": false,
-    "isUrgent": true,
-    "applicantCount": 30
+    "isUrgent": false,
+    "applicantCount": 38
   },
   {
     "id": "job-61d29101",
     "title": "Senior Product Manager Platform",
     "company": "Delinea",
     "companyInitials": "DE",
-    "companyColor": "#475569",
+    "companyColor": "#7C3AED",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -11641,16 +11641,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
+    "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 88
+    "applicantCount": 26
   },
   {
     "id": "job-5e16b32b",
     "title": "Product Manager",
     "company": "Blend",
     "companyInitials": "BL",
-    "companyColor": "#059669",
+    "companyColor": "#0891B2",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -11689,16 +11689,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
+    "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 23
+    "applicantCount": 21
   },
   {
     "id": "job-efb104ad",
     "title": "Product Director EdTech Digital Learning",
     "company": "peopleworth",
     "companyInitials": "PE",
-    "companyColor": "#DC2626",
+    "companyColor": "#D97706",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "2-5 yrs",
@@ -11737,16 +11737,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
-    "isUrgent": false,
-    "applicantCount": 54
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 28
   },
   {
     "id": "job-6e119206",
     "title": "Product Manager AI",
     "company": "YipitData",
     "companyInitials": "YI",
-    "companyColor": "#CA8A04",
+    "companyColor": "#0284C7",
     "roleCategory": "AI & Growth PM",
     "shortRoleType": "AI PM",
     "experience": "2-5 yrs",
@@ -11786,15 +11786,15 @@
       "Roadmapping"
     ],
     "isFeatured": false,
-    "isUrgent": true,
-    "applicantCount": 60
+    "isUrgent": false,
+    "applicantCount": 77
   },
   {
     "id": "job-a98c1cb7",
     "title": "Product manager",
     "company": "DUÄAST",
     "companyInitials": "DU",
-    "companyColor": "#2563EB",
+    "companyColor": "#EA580C",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -11813,7 +11813,7 @@
       "product manager"
     ],
     "descriptionSnippet": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high quality because it...",
-    "fullDescription": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high quality because it is disposable where another may be viewed as having poor quality because it is disposable. Please mention the word **EMPOWERMENT** and tag RMjAuMTY5LjUzLjQz when applying to show you read the job post completely (#RMjAuMTY5LjUzLjQz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "fullDescription": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high quality because it is disposable where another may be viewed as having poor quality because it is disposable. Please mention the word **EMPOWERMENT** and tag RNTIuMjQwLjE3Ni4xNjI= when applying to show you read the job post completely (#RNTIuMjQwLjE3Ni4xNjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "responsibilities": [
       "Define multi-quarter product vision, KPI milestones, and sprint backlog",
       "Collaborate with engineering, UX designers, and go-to-market teams",
@@ -11831,16 +11831,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
+    "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 75
+    "applicantCount": 57
   },
   {
     "id": "job-4f3981d6",
     "title": "Principal Product Manager Acquisition Products",
     "company": "ButterflyMX",
     "companyInitials": "BU",
-    "companyColor": "#4F46E5",
+    "companyColor": "#2563EB",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -11879,16 +11879,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
+    "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 45
+    "applicantCount": 15
   },
   {
     "id": "job-9eb46c3d",
     "title": "Associate Product Manager",
     "company": "CareTalk Health",
     "companyInitials": "CA",
-    "companyColor": "#0D9488",
+    "companyColor": "#0891B2",
     "roleCategory": "Associate Product Manager",
     "shortRoleType": "APM",
     "experience": "1-3 yrs",
@@ -11909,7 +11909,7 @@
       "ops"
     ],
     "descriptionSnippet": "Posted 12:48:10 PM. Job Title: Associate Product Manager - RemoteLocation: Remote - United StatesEmployment Type: FTâ¦See this and similar jobs on LinkedIn. Please mention the wor...",
-    "fullDescription": "Posted 12:48:10 PM. Job Title: Associate Product Manager - RemoteLocation: Remote - United StatesEmployment Type: FTâ¦See this and similar jobs on LinkedIn. Please mention the word **MERRY** and tag RMjAuMTY5LjUzLjQz when applying to show you read the job post completely (#RMjAuMTY5LjUzLjQz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "fullDescription": "Posted 12:48:10 PM. Job Title: Associate Product Manager - RemoteLocation: Remote - United StatesEmployment Type: FTâ¦See this and similar jobs on LinkedIn. Please mention the word **MERRY** and tag RNTIuMjQwLjE3Ni4xNjI= when applying to show you read the job post completely (#RNTIuMjQwLjE3Ni4xNjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "responsibilities": [
       "Define multi-quarter product vision, KPI milestones, and sprint backlog",
       "Collaborate with engineering, UX designers, and go-to-market teams",
@@ -11928,15 +11928,15 @@
       "Roadmapping"
     ],
     "isFeatured": false,
-    "isUrgent": false,
-    "applicantCount": 37
+    "isUrgent": true,
+    "applicantCount": 55
   },
   {
     "id": "job-b079a13c",
     "title": "Product Manager",
     "company": "Cambridge Spark",
     "companyInitials": "CA",
-    "companyColor": "#16A34A",
+    "companyColor": "#0D9488",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -11956,8 +11956,8 @@
       "infosec",
       "technical"
     ],
-    "descriptionSnippet": "Department: Product and TechnologyLocation: Home based, UK (with occasional travel to our Londonâ¦ Please mention the word **COMMEND** and tag RMjAuMTY5LjUzLjQz when applying to s...",
-    "fullDescription": "Department: Product and TechnologyLocation: Home based, UK (with occasional travel to our Londonâ¦ Please mention the word **COMMEND** and tag RMjAuMTY5LjUzLjQz when applying to show you read the job post completely (#RMjAuMTY5LjUzLjQz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "descriptionSnippet": "Department: Product and TechnologyLocation: Home based, UK (with occasional travel to our Londonâ¦ Please mention the word **COMMEND** and tag RNTIuMjQwLjE3Ni4xNjI= when applying...",
+    "fullDescription": "Department: Product and TechnologyLocation: Home based, UK (with occasional travel to our Londonâ¦ Please mention the word **COMMEND** and tag RNTIuMjQwLjE3Ni4xNjI= when applying to show you read the job post completely (#RNTIuMjQwLjE3Ni4xNjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "responsibilities": [
       "Define multi-quarter product vision, KPI milestones, and sprint backlog",
       "Collaborate with engineering, UX designers, and go-to-market teams",
@@ -11977,14 +11977,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 62
+    "applicantCount": 58
   },
   {
     "id": "job-f56eba0c",
     "title": "Staff Product Manager Product Information Management",
     "company": "HighLevel",
     "companyInitials": "HI",
-    "companyColor": "#0891B2",
+    "companyColor": "#CA8A04",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -12025,14 +12025,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 25
+    "applicantCount": 40
   },
   {
     "id": "job-b0a6f58f",
     "title": "Product Manager",
     "company": "Ripjar",
     "companyInitials": "RI",
-    "companyColor": "#E11D48",
+    "companyColor": "#2563EB",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -12071,16 +12071,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
+    "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 25
+    "applicantCount": 45
   },
   {
     "id": "job-336117c7",
     "title": "Senior Product Manager",
     "company": "Distru",
     "companyInitials": "DI",
-    "companyColor": "#4F46E5",
+    "companyColor": "#D97706",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -12119,16 +12119,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
+    "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 39
+    "applicantCount": 55
   },
   {
     "id": "job-921483f0",
     "title": "Product Manager",
     "company": "PadSplit",
     "companyInitials": "PA",
-    "companyColor": "#0891B2",
+    "companyColor": "#7C3AED",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -12167,9 +12167,9 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
-    "isUrgent": false,
-    "applicantCount": 76
+    "isFeatured": true,
+    "isUrgent": true,
+    "applicantCount": 50
   },
   {
     "id": "job-9ec9b7cb",
@@ -12215,16 +12215,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
+    "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 73
+    "applicantCount": 26
   },
   {
     "id": "job-ee74030e",
     "title": "Website Product Owner",
     "company": "Ryder System, Inc.",
     "companyInitials": "RY",
-    "companyColor": "#0D9488",
+    "companyColor": "#EA580C",
     "roleCategory": "Product Owner",
     "shortRoleType": "PO",
     "experience": "2-5 yrs",
@@ -12263,9 +12263,9 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
-    "isUrgent": false,
-    "applicantCount": 80
+    "isFeatured": true,
+    "isUrgent": true,
+    "applicantCount": 61
   },
   {
     "id": "job-437f6bbb",
@@ -12313,14 +12313,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 26
+    "applicantCount": 51
   },
   {
     "id": "job-bbc210de",
     "title": "Staff Product Manager Enterprise",
     "company": "LiveKit",
     "companyInitials": "LI",
-    "companyColor": "#D97706",
+    "companyColor": "#475569",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -12360,7 +12360,7 @@
       "Roadmapping"
     ],
     "isFeatured": false,
-    "isUrgent": false,
+    "isUrgent": true,
     "applicantCount": 66
   },
   {
@@ -12368,7 +12368,7 @@
     "title": "Product Manager Data Feeds",
     "company": "YipitData",
     "companyInitials": "YI",
-    "companyColor": "#0284C7",
+    "companyColor": "#DC2626",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -12407,16 +12407,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
-    "isUrgent": false,
-    "applicantCount": 53
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 46
   },
   {
     "id": "job-3ee4117a",
     "title": "Associate Product Manager",
     "company": "Automox",
     "companyInitials": "AU",
-    "companyColor": "#D97706",
+    "companyColor": "#E11D48",
     "roleCategory": "Associate Product Manager",
     "shortRoleType": "APM",
     "experience": "1-3 yrs",
@@ -12454,16 +12454,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
+    "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 75
+    "applicantCount": 43
   },
   {
     "id": "job-de472d3a",
     "title": "Product Manager",
     "company": "Lively",
     "companyInitials": "LI",
-    "companyColor": "#059669",
+    "companyColor": "#475569",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -12503,15 +12503,15 @@
       "Roadmapping"
     ],
     "isFeatured": false,
-    "isUrgent": true,
-    "applicantCount": 73
+    "isUrgent": false,
+    "applicantCount": 90
   },
   {
     "id": "job-e603e50a",
     "title": "Product Manager",
     "company": "WorkOS",
     "companyInitials": "WO",
-    "companyColor": "#0284C7",
+    "companyColor": "#D97706",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -12549,9 +12549,9 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
-    "isUrgent": false,
-    "applicantCount": 61
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 77
   },
   {
     "id": "job-66d7d114",
@@ -12595,14 +12595,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 41
+    "applicantCount": 29
   },
   {
     "id": "job-574663e1",
     "title": "Product Feature Owner ADAS",
     "company": "Wayve",
     "companyInitials": "WA",
-    "companyColor": "#0891B2",
+    "companyColor": "#D97706",
     "roleCategory": "Product Owner",
     "shortRoleType": "PO",
     "experience": "3-6 yrs",
@@ -12639,14 +12639,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 27
+    "applicantCount": 32
   },
   {
     "id": "job-db2829f8",
     "title": "Product Feature Owner - Parking",
     "company": "Wayve",
     "companyInitials": "WA",
-    "companyColor": "#D97706",
+    "companyColor": "#475569",
     "roleCategory": "Product Owner",
     "shortRoleType": "PO",
     "experience": "3-6 yrs",
@@ -12683,7 +12683,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 18
+    "applicantCount": 46
   },
   {
     "id": "job-6150f58d",
@@ -12774,7 +12774,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 39
+    "applicantCount": 27
   },
   {
     "id": "job-11c32243",
@@ -12914,7 +12914,7 @@
     "title": "Senior Product Manager - Fraud (all genders)",
     "company": "JustPlay GmbH",
     "companyInitials": "JU",
-    "companyColor": "#0284C7",
+    "companyColor": "#9333EA",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -12951,14 +12951,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 12
+    "applicantCount": 15
   },
   {
     "id": "job-2718370d",
     "title": "Product Owner - Data Analytics (m/w/d)",
     "company": "Berliner Verlag GmbH",
     "companyInitials": "BE",
-    "companyColor": "#D97706",
+    "companyColor": "#9333EA",
     "roleCategory": "Product Owner",
     "shortRoleType": "PO",
     "experience": "3-6 yrs",
@@ -12995,14 +12995,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 44
+    "applicantCount": 28
   },
   {
     "id": "job-f3df3e44",
     "title": "Principal Product Manager- Conversational AI",
     "company": "Hopper",
     "companyInitials": "HO",
-    "companyColor": "#7C3AED",
+    "companyColor": "#E11D48",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -13039,14 +13039,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 43
+    "applicantCount": 35
   },
   {
     "id": "job-91930e11",
     "title": "Lead Product Manager",
     "company": "Haut Ai",
     "companyInitials": "HA",
-    "companyColor": "#0891B2",
+    "companyColor": "#E11D48",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -13083,14 +13083,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 19
+    "applicantCount": 28
   },
   {
     "id": "job-e4748d1a",
     "title": "Product Director",
     "company": "Dotfile",
     "companyInitials": "DO",
-    "companyColor": "#D97706",
+    "companyColor": "#059669",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -13127,14 +13127,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 43
+    "applicantCount": 45
   },
   {
     "id": "job-15a7015f",
     "title": "Staff Product Manager",
     "company": "98Cd1A00 2706 4Aa8 Ab72 38A7B8C9C20C",
     "companyInitials": "98",
-    "companyColor": "#DC2626",
+    "companyColor": "#E11D48",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -13171,14 +13171,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 29
+    "applicantCount": 40
   },
   {
     "id": "job-dfda55e2",
     "title": "Staff Product Manager",
     "company": "Snyk",
     "companyInitials": "SN",
-    "companyColor": "#E11D48",
+    "companyColor": "#0D9488",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -13215,14 +13215,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 43
+    "applicantCount": 14
   },
   {
     "id": "job-b6590fe6",
     "title": "Tech Lead, Android Core Product - Zurich, Switzerland",
     "company": "speechify",
     "companyInitials": "SP",
-    "companyColor": "#7C3AED",
+    "companyColor": "#DC2626",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -13259,14 +13259,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 36
+    "applicantCount": 47
   },
   {
     "id": "job-af6f24c6",
     "title": "Tech Lead, Android Core Product - Lausanne, Switzerland",
     "company": "speechify",
     "companyInitials": "SP",
-    "companyColor": "#CA8A04",
+    "companyColor": "#EA580C",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -13303,14 +13303,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 17
+    "applicantCount": 36
   },
   {
     "id": "job-afe0f0b5",
     "title": "Tech Lead, Android Core Product - Geneva, Switzerland",
     "company": "speechify",
     "companyInitials": "SP",
-    "companyColor": "#7C3AED",
+    "companyColor": "#2563EB",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -13347,14 +13347,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 22
+    "applicantCount": 33
   },
   {
     "id": "job-ae778476",
     "title": "Tech Lead, Android Core Product - Basel, Switzerland",
     "company": "speechify",
     "companyInitials": "SP",
-    "companyColor": "#4F46E5",
+    "companyColor": "#475569",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -13391,7 +13391,1453 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
+    "applicantCount": 40
+  },
+  {
+    "id": "job-77d4e69b",
+    "title": "Senior Product Manager, Technical (m/f/d)",
+    "company": "affinidi",
+    "companyInitials": "AF",
+    "companyColor": "#7C3AED",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Berlin",
+    "city": "Berlin",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/affinidi/senior-product-manager-technical-berlin-464502",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "€80k - €120k",
+    "tags": [
+      "Product"
+    ],
+    "descriptionSnippet": "About the Company Affinidi is a technology company dedicated to changing data ownership for good. We empower businesses and individuals with control and ownership of their data, wi...",
+    "fullDescription": "About the Company Affinidi is a technology company dedicated to changing data ownership for good. We empower businesses and individuals with control and ownership of their data, with a comprehensive approach to managing their holistic identity – accounting for all aspects of their digital footprint while ensuring privacy and security. Affinidi’s technology enables users to benefit from decentralised digital identity solutions. We believe that everyone has the right to own and control their data, and we are committed to creating a trusted digital credentials ecosystem that empowers businesses and individuals to securely exchange data and services across borders and industries. We’re looking f",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 28
+  },
+  {
+    "id": "job-f9027fa9",
+    "title": "Tech Lead, Android Core Product - Stuttgart, Germany",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#4F46E5",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Stuttgart",
+    "city": "Stuttgart",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-stuttgart-germany-480441",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 20
+  },
+  {
+    "id": "job-5e7484de",
+    "title": "Tech Lead, Android Core Product - Munich, Germany",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#059669",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Munich",
+    "city": "Munich",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-munich-germany-77201",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 15
+  },
+  {
+    "id": "job-f92a5d29",
+    "title": "Tech Lead, Android Core Product - Hamburg, Germany",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#EA580C",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Hamburg",
+    "city": "Hamburg",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-hamburg-germany-196551",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 35
+  },
+  {
+    "id": "job-f3cc97ce",
+    "title": "Tech Lead, Android Core Product - Frankfurt, Germany",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#16A34A",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Frankfurt",
+    "city": "Frankfurt",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-frankfurt-germany-410374",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 12
+  },
+  {
+    "id": "job-16687fda",
+    "title": "Tech Lead, Android Core Product - Düsseldorf, Germany",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#EA580C",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Düsseldorf",
+    "city": "Düsseldorf",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-dusseldorf-germany-384374",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 13
+  },
+  {
+    "id": "job-57d3f04a",
+    "title": "Tech Lead, Android Core Product - Cologne, Germany",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#9333EA",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Cologne",
+    "city": "Cologne",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-cologne-germany-91697",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 49
+  },
+  {
+    "id": "job-6aa2a3f6",
+    "title": "Tech Lead, Android Core Product - Berlin, Germany",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#475569",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Berlin",
+    "city": "Berlin",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-berlin-germany-467498",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "€80k - €120k",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 34
+  },
+  {
+    "id": "job-4fbebf5e",
+    "title": "Scientific Product Manager (m/fd)",
+    "company": "NeuroNation",
+    "companyInitials": "NE",
+    "companyColor": "#9333EA",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Berlin",
+    "city": "Berlin",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/neuronation/scientific-product-manager-m-fd-berlin-214952",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "€80k - €120k",
+    "tags": [],
+    "descriptionSnippet": "Your mission Who we are NeuroNation is the personalised training app that empowers more than 20 million people all over the world in staying brain healthy and happy in their lives....",
+    "fullDescription": "Your mission Who we are NeuroNation is the personalised training app that empowers more than 20 million people all over the world in staying brain healthy and happy in their lives. We collaborate closely with scientists and universities to achieve the best results possible. Our engaging apps have received awards from major health insurance companies, such as the AOK, funded by the German Federal Ministry of Health. Also, we've been awarded by Apple and Google as one of the best apps available. To improve the training experience our app provides and make the product more effective and engaging to users and patients, we are looking for a passionate person with a background in science and deep ",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 14
+  },
+  {
+    "id": "job-33cdd8c1",
+    "title": "Junior Product Manager (m,f,d)",
+    "company": "NeuroNation",
+    "companyInitials": "NE",
+    "companyColor": "#059669",
+    "roleCategory": "Associate Product Manager",
+    "shortRoleType": "APM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Berlin",
+    "city": "Berlin",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/neuronation/junior-product-manager-mfd-berlin-169580",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "€80k - €120k",
+    "tags": [],
+    "descriptionSnippet": "Your mission As a Junior Product Manager at NeuroNation, you will join the product team and work on both of our products B2C and Medical Brain-Training, crafting engaging and intui...",
+    "fullDescription": "Your mission As a Junior Product Manager at NeuroNation, you will join the product team and work on both of our products B2C and Medical Brain-Training, crafting engaging and intuitive user experiences for millions worldwide. Working closely with cross-functional teams, you’ll blend creativity, research, and data-driven insights to design features that boost growth, engagement, and long-term user value. Your Roles and Responsibilities Actively engage in improving the end-to-end user experience across NeuroNation products (B2C & MED) - from first touchpoint to long-term engagement and retention Help mapping and optimising user journeys across platforms (web & mobile), identifying drop-off poi",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 33
+  },
+  {
+    "id": "job-d4f4dfc0",
+    "title": "Product Manager*in (m/w/d)",
+    "company": "Loopario",
+    "companyInitials": "LO",
+    "companyColor": "#D97706",
+    "roleCategory": "Product Manager",
+    "shortRoleType": "PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Dortmund",
+    "city": "Dortmund",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.com/jobs/companies/loopario/product-managerin-dortmund-233401",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "IT"
+    ],
+    "descriptionSnippet": "Lust auf Produktgestaltung und Innovation? Willst du Features bauen oder echte Probleme lösen? Wir suchen keinen bloßen „Verwalter von Anforderungen“, sondern einen strategischen K...",
+    "fullDescription": "Lust auf Produktgestaltung und Innovation? Willst du Features bauen oder echte Probleme lösen? Wir suchen keinen bloßen „Verwalter von Anforderungen“, sondern einen strategischen Kopf, der unser Produkt zum Marktführer macht. Wir sind ein SaaS-Startup mit einer klaren Mission: Mehrweg in der Logistik so einfach wie Einweg zu machen. Wir reduzieren nicht nur den CO₂-Fußabdruck einer ganzen Branche, sondern optimieren einen ihrer nervigsten Prozesse. Als Product Manager bist du nicht dafür da, Tickets zu schreiben. Du bist dafür verantwortlich, dass unser Produkt wertvoll für den Kunden und rentabel für unser Business ist. Aufgaben Product Discovery statt bloßer Ausführung: Du bekommst keine f",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 29
+  },
+  {
+    "id": "job-b95c656f",
+    "title": "Tech Lead, Android Core Product - Reading, United Kingdom",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#9333EA",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Reading",
+    "city": "Reading",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/tech-lead-android-core-product-reading-united-kingdom-392125",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 30
+  },
+  {
+    "id": "job-97584062",
+    "title": "Tech Lead, Android Core Product - Oxford, United Kingdom",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#0891B2",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Oxford",
+    "city": "Oxford",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/tech-lead-android-core-product-oxford-united-kingdom-480939",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 35
+  },
+  {
+    "id": "job-51aa7de2",
+    "title": "Tech Lead, Android Core Product - Nottingham, United Kingdom",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#2563EB",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Nottingham",
+    "city": "Nottingham",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/tech-lead-android-core-product-nottingham-united-kingdom-19159",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
     "applicantCount": 50
+  },
+  {
+    "id": "job-ae5b625b",
+    "title": "Tech Lead, Android Core Product - Newcastle, United Kingdom",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#DC2626",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Newcastle",
+    "city": "Newcastle",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/tech-lead-android-core-product-newcastle-united-kingdom-334157",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 32
+  },
+  {
+    "id": "job-b8085f75",
+    "title": "Tech Lead, Android Core Product - Manchester, United Kingdom",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#0D9488",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Manchester",
+    "city": "Manchester",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/tech-lead-android-core-product-manchester-united-kingdom-354523",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 37
+  },
+  {
+    "id": "job-c9cd0211",
+    "title": "Tech Lead, Android Core Product - London, United Kingdom",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#E11D48",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/tech-lead-android-core-product-london-united-kingdom-338982",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 27
+  },
+  {
+    "id": "job-b7fd3ab5",
+    "title": "Tech Lead, Android Core Product - Leeds, United Kingdom",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#CA8A04",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Leeds",
+    "city": "Leeds",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/tech-lead-android-core-product-leeds-united-kingdom-342814",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 37
+  },
+  {
+    "id": "job-472085db",
+    "title": "Tech Lead, Android Core Product - Glasgow, United Kingdom",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#16A34A",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Glasgow",
+    "city": "Glasgow",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/tech-lead-android-core-product-glasgow-united-kingdom-198280",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 14
+  },
+  {
+    "id": "job-343cf139",
+    "title": "Tech Lead, Android Core Product - Edinburgh, United Kingdom",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#7C3AED",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Edinburgh",
+    "city": "Edinburgh",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/tech-lead-android-core-product-edinburgh-united-kingdom-270780",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 45
+  },
+  {
+    "id": "job-9df1b984",
+    "title": "Tech Lead, Android Core Product - Cardiff, United Kingdom",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#4F46E5",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Cardiff",
+    "city": "Cardiff",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/tech-lead-android-core-product-cardiff-united-kingdom-78332",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 14
+  },
+  {
+    "id": "job-9ea20b28",
+    "title": "Tech Lead, Android Core Product - Cambridge, United Kingdom",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#4F46E5",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Cambridge",
+    "city": "Cambridge",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/tech-lead-android-core-product-cambridge-united-kingdom-284923",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 29
+  },
+  {
+    "id": "job-e341895d",
+    "title": "Tech Lead, Android Core Product - Bristol, United Kingdom",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#059669",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Bristol",
+    "city": "Bristol",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/tech-lead-android-core-product-bristol-united-kingdom-496952",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 22
+  },
+  {
+    "id": "job-4e94e293",
+    "title": "Tech Lead, Android Core Product - Brighton, United Kingdom",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#16A34A",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Brighton",
+    "city": "Brighton",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/tech-lead-android-core-product-brighton-united-kingdom-457696",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 42
+  },
+  {
+    "id": "job-7cb40dd7",
+    "title": "Tech Lead, Android Core Product - Birmingham, United Kingdom",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#16A34A",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Birmingham",
+    "city": "Birmingham",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/tech-lead-android-core-product-birmingham-united-kingdom-319556",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 13
+  },
+  {
+    "id": "job-9c966a61",
+    "title": "Tech Lead, Android Core Product - Belfast, United Kingdom",
+    "company": "speechify",
+    "companyInitials": "SP",
+    "companyColor": "#D97706",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Belfast",
+    "city": "Belfast",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/tech-lead-android-core-product-belfast-united-kingdom-477720",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Global"
+    ],
+    "descriptionSnippet": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re readin...",
+    "fullDescription": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include fronten",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 34
+  },
+  {
+    "id": "job-5701d7fa",
+    "title": "Senior/Principal Product Manager - Storage",
+    "company": "Radiant",
+    "companyInitials": "RA",
+    "companyColor": "#059669",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/senior-principal-product-manager-storage-london-291404",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product"
+    ],
+    "descriptionSnippet": "About our team: Radiant is redefining how AI infrastructure is built. We design and operate AI-native infrastructure platforms engineered for sovereignty, performance, and scale —...",
+    "fullDescription": "About our team: Radiant is redefining how AI infrastructure is built. We design and operate AI-native infrastructure platforms engineered for sovereignty, performance, and scale — powering GPU-native workloads, multi-tenant control planes, and high-performance AI systems for the most demanding environments. We are building purpose-built AI infrastructure from powered land, to compute, to software. As we scale our operations and deploy capital into the next generation of AI infrastructure, we are looking to expand our finance team with leaders who can combine technical strength with execution excellence and are driven to build. Radiant was established by Brookfield, a leading global alternati",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 40
+  },
+  {
+    "id": "job-056cc6c3",
+    "title": "Senior/Principal Product Manager - Infrastructure",
+    "company": "Radiant",
+    "companyInitials": "RA",
+    "companyColor": "#2563EB",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/senior-principal-product-manager-infrastructure-london-23148",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product"
+    ],
+    "descriptionSnippet": "About our team: Radiant is redefining how AI infrastructure is built. We design and operate AI-native infrastructure platforms engineered for sovereignty, performance, and scale —...",
+    "fullDescription": "About our team: Radiant is redefining how AI infrastructure is built. We design and operate AI-native infrastructure platforms engineered for sovereignty, performance, and scale — powering GPU-native workloads, multi-tenant control planes, and high-performance AI systems for the most demanding environments. We are building purpose-built AI infrastructure from powered land, to compute, to software. As we scale our operations and deploy capital into the next generation of AI infrastructure, we are looking to expand our finance team with leaders who can combine technical strength with execution excellence and are driven to build. Radiant was established by Brookfield, a leading global alternati",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 36
+  },
+  {
+    "id": "job-985c58d7",
+    "title": "Lead ML Product Engineer",
+    "company": "Radiant",
+    "companyInitials": "RA",
+    "companyColor": "#DC2626",
+    "roleCategory": "AI & Growth PM",
+    "shortRoleType": "AI PM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/lead-ml-product-engineer-london-29111",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product"
+    ],
+    "descriptionSnippet": "About our team: Radiant is redefining how AI infrastructure is built. We design and operate AI-native infrastructure platforms engineered for sovereignty, performance, and scale —...",
+    "fullDescription": "About our team: Radiant is redefining how AI infrastructure is built. We design and operate AI-native infrastructure platforms engineered for sovereignty, performance, and scale — powering GPU-native workloads, multi-tenant control planes, and high-performance AI systems for the most demanding environments. We are building purpose-built AI infrastructure from powered land, to compute, to software. As we scale our operations and deploy capital into the next generation of AI infrastructure, we are looking to expand our finance team with leaders who can combine technical strength with execution excellence and are driven to build. Radiant was established by Brookfield, a leading global alternati",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 38
+  },
+  {
+    "id": "job-0b2f0d97",
+    "title": "Senior/Principal Product Manager - MLOps",
+    "company": "Radiant",
+    "companyInitials": "RA",
+    "companyColor": "#4F46E5",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/senior-principal-product-manager-mlops-london-494690",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product"
+    ],
+    "descriptionSnippet": "About our team: Radiant is redefining how AI infrastructure is built. We design and operate AI-native infrastructure platforms engineered for sovereignty, performance, and scale —...",
+    "fullDescription": "About our team: Radiant is redefining how AI infrastructure is built. We design and operate AI-native infrastructure platforms engineered for sovereignty, performance, and scale — powering GPU-native workloads, multi-tenant control planes, and high-performance AI systems for the most demanding environments. We are building purpose-built AI infrastructure from powered land, to compute, to software. As we scale our operations and deploy capital into the next generation of AI infrastructure, we are looking to expand our finance team with leaders who can combine technical strength with execution excellence and are driven to build. Radiant was established by Brookfield, a leading global alternati",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 23
+  },
+  {
+    "id": "job-d9189e3c",
+    "title": "Lead Product Data Scientist",
+    "company": "Zego",
+    "companyInitials": "ZE",
+    "companyColor": "#475569",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zego/lead-product-data-scientist-london-394544",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Data & Engineering"
+    ],
+    "descriptionSnippet": "About Zego 🚀 At Zego, we're on a mission to do the good thing, not the insurance thing. Insurance hasn't changed much in over a century. The way we live, work and travel has. We're...",
+    "fullDescription": "About Zego 🚀 At Zego, we're on a mission to do the good thing, not the insurance thing. Insurance hasn't changed much in over a century. The way we live, work and travel has. We're building the real-time, AI-driven infrastructure that powers innovative insurance, so good drivers get cover that works the way they actually drive. We're not just updating insurance; We're leading the AI evolution in insurance 🤖 For us, AI isn't a line on a roadmap or a buzzword on a slide. It's our operating reality, and it's how we build products that back drivers instead of the old insurance playbook. We don't do things slowly, and we don't do bureaucracy. We back high-performance builders who want ownership, ",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 37
+  },
+  {
+    "id": "job-56b1f511",
+    "title": "Senior Product Manager - F/H",
+    "company": "Hubvisory",
+    "companyInitials": "HU",
+    "companyColor": "#7C3AED",
+    "roleCategory": "Senior Product Manager",
+    "shortRoleType": "SPM",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Lille, Hauts-de-France, France",
+    "city": "Lille",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/senior-product-manager-f-h-lille-434434",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [],
+    "descriptionSnippet": "Le Product Management, c'est notre ADN. Chez Hubvisory, tu ne te contentes pas de gérer un backlog : tu deviens la référence produit incontournable pour accompagner nos clients gra...",
+    "fullDescription": "Le Product Management, c'est notre ADN. Chez Hubvisory, tu ne te contentes pas de gérer un backlog : tu deviens la référence produit incontournable pour accompagner nos clients grands comptes dans la transformation de leurs produits digitaux et de leurs organisations. Ton rôle est d'allier vision stratégique et excellence opérationnelle pour délivrer de la valeur tangible dans des environnements complexes. Ce que tu fais concrètement : Tu prends la main sur un périmètre produit à fort enjeu business. Tu analyses les processus en place, tu identifies les leviers d'amélioration réels et tu formalises une vision produit et une feuille de route alignées sur les priorités métier. Tu décides avec ",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 39
+  },
+  {
+    "id": "job-0a38ff79",
+    "title": "Product Owner (H/F/N)",
+    "company": "Ekimetrics",
+    "companyInitials": "EK",
+    "companyColor": "#059669",
+    "roleCategory": "Product Owner",
+    "shortRoleType": "PO",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "Paris",
+    "city": "Paris",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.fr/jobs/companies/ekimetrics/product-owner-paris-343996",
+    "datePosted": "2026-10-06",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Product Engineering"
+    ],
+    "descriptionSnippet": "Les entreprises qui performent décident mieux. Depuis 2006, Ekimetrics aide les organisations à transformer leurs décisions en avantage concurrentiel durable grâce à des solutions...",
+    "fullDescription": "Les entreprises qui performent décident mieux. Depuis 2006, Ekimetrics aide les organisations à transformer leurs décisions en avantage concurrentiel durable grâce à des solutions d’IA. Notre double ambition est d’allier performance et durabilité, pour construire un leadership pérenne. Nos solutions sont une combinaison unique de People et de technologie. Notre plateforme Eki.Decisions complète l’expertise de nos équipes en marketing, efficacité commerciale et data science, pour connecter l’IA aux décisions qui structurent toute l’organisation. Avec une équipe 100% internalisée et des bureaux à Paris, Londres, New York, Hong Kong et Shanghai, nous nous engageons pour une IA responsable et fr",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 25
   },
   {
     "id": "job-6900691e",
@@ -13581,7 +15027,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 108
+    "applicantCount": 109
   },
   {
     "id": "job-d4ff3cdd",
@@ -13629,7 +15075,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 116
+    "applicantCount": 97
   },
   {
     "id": "job-e88c8870",
@@ -13676,7 +15122,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 30
+    "applicantCount": 48
   },
   {
     "id": "job-cbfe9db0",
@@ -13723,7 +15169,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 132
+    "applicantCount": 48
   },
   {
     "id": "job-4f377857",
@@ -13770,7 +15216,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 88
+    "applicantCount": 60
   },
   {
     "id": "job-e7f705b2",
@@ -13817,7 +15263,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 75
+    "applicantCount": 133
   },
   {
     "id": "job-536d5b70",
@@ -13864,7 +15310,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 109
+    "applicantCount": 103
   },
   {
     "id": "job-3de21b74",
@@ -13912,7 +15358,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 81
+    "applicantCount": 62
   },
   {
     "id": "job-71b7bdec",
@@ -14007,7 +15453,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 77
+    "applicantCount": 60
   },
   {
     "id": "job-f6d5c00f",
@@ -14054,7 +15500,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 137
+    "applicantCount": 36
   },
   {
     "id": "job-1f9f933b",
@@ -14102,7 +15548,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 114
+    "applicantCount": 61
   },
   {
     "id": "job-bc11a2f9",
@@ -14150,7 +15596,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 42
+    "applicantCount": 40
   },
   {
     "id": "job-434597e6",
@@ -14198,7 +15644,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 106
+    "applicantCount": 81
   },
   {
     "id": "job-20c875b1",
@@ -14246,7 +15692,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 48
+    "applicantCount": 47
   },
   {
     "id": "job-d64f31ec",
@@ -14293,7 +15739,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 125
+    "applicantCount": 72
   },
   {
     "id": "job-7177876b",
@@ -14340,7 +15786,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 131
+    "applicantCount": 124
   },
   {
     "id": "job-c99f67eb",
@@ -14388,7 +15834,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 123
+    "applicantCount": 61
   },
   {
     "id": "job-92ecbbb9",
@@ -14436,7 +15882,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 136
+    "applicantCount": 30
   },
   {
     "id": "job-6d731b42",
@@ -14484,7 +15930,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 45
+    "applicantCount": 112
   },
   {
     "id": "job-846970a0",
@@ -14532,7 +15978,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 133
+    "applicantCount": 69
   },
   {
     "id": "job-05d354a5",
@@ -14579,7 +16025,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 92
+    "applicantCount": 49
   },
   {
     "id": "job-6bfb895a",
@@ -14627,7 +16073,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 128
+    "applicantCount": 136
   },
   {
     "id": "job-701aef85",
@@ -14675,6 +16121,6 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 79
+    "applicantCount": 68
   }
 ]
