@@ -10111,7 +10111,7 @@
     "title": "Product Owner - Mobile Integrations (f/m/d)",
     "company": "adjoe",
     "companyInitials": "AD",
-    "companyColor": "#EA580C",
+    "companyColor": "#475569",
     "roleCategory": "Product Owner",
     "shortRoleType": "PO",
     "experience": "3-6 yrs",
@@ -10148,14 +10148,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 28
+    "applicantCount": 47
   },
   {
     "id": "job-eec28245",
     "title": "Senior Product Manager",
     "company": "Pergolux",
     "companyInitials": "PE",
-    "companyColor": "#9333EA",
+    "companyColor": "#475569",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -10192,14 +10192,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 40
+    "applicantCount": 26
   },
   {
     "id": "job-e3237bea",
     "title": "Product Manager - Product Launches",
     "company": "Pergolux",
     "companyInitials": "PE",
-    "companyColor": "#2563EB",
+    "companyColor": "#CA8A04",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "3-6 yrs",
@@ -10236,14 +10236,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 17
+    "applicantCount": 45
   },
   {
     "id": "job-fcd98856",
     "title": "Product Manager, Marketplace",
     "company": "Vinteden",
     "companyInitials": "VI",
-    "companyColor": "#0D9488",
+    "companyColor": "#0891B2",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "3-6 yrs",
@@ -10280,14 +10280,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 21
+    "applicantCount": 37
   },
   {
     "id": "job-2558f1c1",
     "title": "Staff Product Manager, Generative AI Platform",
     "company": "Deliveroo",
     "companyInitials": "DE",
-    "companyColor": "#DC2626",
+    "companyColor": "#059669",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -10324,14 +10324,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 34
+    "applicantCount": 39
   },
   {
     "id": "job-916b71b1",
     "title": "Technical Product Lead - AI Stockbroking",
     "company": "Bjak",
     "companyInitials": "BJ",
-    "companyColor": "#DC2626",
+    "companyColor": "#CA8A04",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "3-6 yrs",
@@ -10368,14 +10368,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 48
+    "applicantCount": 20
   },
   {
     "id": "job-37ea4a30",
     "title": "Technical Product Lead - AI Investing",
     "company": "Bjak",
     "companyInitials": "BJ",
-    "companyColor": "#7C3AED",
+    "companyColor": "#0D9488",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "3-6 yrs",
@@ -10412,14 +10412,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 46
+    "applicantCount": 37
   },
   {
     "id": "job-2476f049",
     "title": "Technical Product Lead - AI Neobank",
     "company": "Bjak",
     "companyInitials": "BJ",
-    "companyColor": "#0D9488",
+    "companyColor": "#16A34A",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "3-6 yrs",
@@ -10456,14 +10456,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 46
+    "applicantCount": 18
   },
   {
     "id": "job-6db8053c",
     "title": "Technical Product Lead - AI Finance",
     "company": "Bjak",
     "companyInitials": "BJ",
-    "companyColor": "#9333EA",
+    "companyColor": "#0284C7",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "3-6 yrs",
@@ -10500,14 +10500,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 29
+    "applicantCount": 39
   },
   {
     "id": "job-b54710d7",
     "title": "Technical Product Lead - AI Stockbroking App",
     "company": "Bjak",
     "companyInitials": "BJ",
-    "companyColor": "#16A34A",
+    "companyColor": "#DC2626",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "3-6 yrs",
@@ -10544,7 +10544,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 10
+    "applicantCount": 29
   },
   {
     "id": "job-797f47c0",
@@ -10588,14 +10588,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 29
+    "applicantCount": 19
   },
   {
     "id": "job-83d763de",
     "title": "Technical Product Lead - AI Finance App",
     "company": "Bjak",
     "companyInitials": "BJ",
-    "companyColor": "#0284C7",
+    "companyColor": "#7C3AED",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "3-6 yrs",
@@ -10632,14 +10632,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 47
+    "applicantCount": 21
   },
   {
     "id": "job-f81a2ea9",
     "title": "Technical Product Manager - AI Stockbroking",
     "company": "Bjak",
     "companyInitials": "BJ",
-    "companyColor": "#EA580C",
+    "companyColor": "#4F46E5",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "3-6 yrs",
@@ -10676,14 +10676,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 11
+    "applicantCount": 23
   },
   {
     "id": "job-429b09d6",
     "title": "Technical Product Manager - AI Investing",
     "company": "Bjak",
     "companyInitials": "BJ",
-    "companyColor": "#CA8A04",
+    "companyColor": "#EA580C",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "3-6 yrs",
@@ -10720,14 +10720,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 10
+    "applicantCount": 37
   },
   {
     "id": "job-e73156a1",
     "title": "Technical Product Manager - AI Neobank",
     "company": "Bjak",
     "companyInitials": "BJ",
-    "companyColor": "#0891B2",
+    "companyColor": "#D97706",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "3-6 yrs",
@@ -10764,14 +10764,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 48
+    "applicantCount": 24
   },
   {
     "id": "job-92f80960",
     "title": "Technical Product Manager - AI Finance",
     "company": "Bjak",
     "companyInitials": "BJ",
-    "companyColor": "#4F46E5",
+    "companyColor": "#DC2626",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "3-6 yrs",
@@ -10808,14 +10808,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 14
+    "applicantCount": 40
   },
   {
     "id": "job-f32062db",
     "title": "Product Manager Connectivité IoT (H/F)",
     "company": "MV Consulting",
     "companyInitials": "MV",
-    "companyColor": "#DC2626",
+    "companyColor": "#0891B2",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "3-6 yrs",
@@ -10852,14 +10852,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 15
+    "applicantCount": 21
   },
   {
     "id": "job-4a7442e7",
     "title": "English to German (Switzerland) Review Lead for UI, Marketing & Product Content",
     "company": "Welo Global",
     "companyInitials": "WE",
-    "companyColor": "#E11D48",
+    "companyColor": "#0284C7",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -10896,14 +10896,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 38
+    "applicantCount": 11
   },
   {
     "id": "job-ea4ce65f",
     "title": "Product Manager - Oracle HCM Consultant",
     "company": "Infosys Consulting Europe",
     "companyInitials": "IN",
-    "companyColor": "#0284C7",
+    "companyColor": "#7C3AED",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "3-6 yrs",
@@ -10941,14 +10941,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 28
+    "applicantCount": 18
   },
   {
     "id": "job-16d5418a",
     "title": "Scientific Product Manager",
     "company": "Cuspai",
     "companyInitials": "CU",
-    "companyColor": "#DC2626",
+    "companyColor": "#059669",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "3-6 yrs",
@@ -10985,14 +10985,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 28
+    "applicantCount": 31
   },
   {
     "id": "job-8a2c50b2",
     "title": "Senior Product Manager – JetBrains Air (Agentic Development in IDEs)",
     "company": "jetbrains",
     "companyInitials": "JE",
-    "companyColor": "#0284C7",
+    "companyColor": "#D97706",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -11029,14 +11029,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 22
+    "applicantCount": 28
   },
   {
     "id": "job-5a311b2a",
     "title": "Senior Product Manager Transport (Equipment)",
     "company": "Rentman",
     "companyInitials": "RE",
-    "companyColor": "#0891B2",
+    "companyColor": "#2563EB",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -11073,14 +11073,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 41
+    "applicantCount": 50
   },
   {
     "id": "job-1af756e3",
     "title": "Product Manager (m/w/d) – B2C-Plattform",
     "company": "EDTELLIGENT",
     "companyInitials": "ED",
-    "companyColor": "#4F46E5",
+    "companyColor": "#0D9488",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "3-6 yrs",
@@ -11117,7 +11117,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 32
+    "applicantCount": 39
   },
   {
     "id": "job-62bb0723",
@@ -11162,14 +11162,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 30
+    "applicantCount": 46
   },
   {
     "id": "job-a73b2847",
     "title": "Technical Product Manager - AI Stockbroking App",
     "company": "Bjak",
     "companyInitials": "BJ",
-    "companyColor": "#2563EB",
+    "companyColor": "#DC2626",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "3-6 yrs",
@@ -11206,14 +11206,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 44
+    "applicantCount": 15
   },
   {
     "id": "job-2c04bff6",
     "title": "Technical Product Manager - AI Investing App",
     "company": "Bjak",
     "companyInitials": "BJ",
-    "companyColor": "#9333EA",
+    "companyColor": "#D97706",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "3-6 yrs",
@@ -11250,14 +11250,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 38
+    "applicantCount": 44
   },
   {
     "id": "job-c5c9ff32",
     "title": "Technical Product Manager - AI Neobank App",
     "company": "Bjak",
     "companyInitials": "BJ",
-    "companyColor": "#475569",
+    "companyColor": "#059669",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "3-6 yrs",
@@ -11294,14 +11294,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 42
+    "applicantCount": 47
   },
   {
     "id": "job-e5e3f6b4",
     "title": "Product Lead - AI Stockbroking",
     "company": "Bjak",
     "companyInitials": "BJ",
-    "companyColor": "#E11D48",
+    "companyColor": "#16A34A",
     "roleCategory": "AI & Growth PM",
     "shortRoleType": "AI PM",
     "experience": "3-6 yrs",
@@ -11338,7 +11338,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 31
+    "applicantCount": 42
   },
   {
     "id": "job-e7816579",
@@ -11382,14 +11382,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 21
+    "applicantCount": 39
   },
   {
     "id": "job-b8c7657f",
     "title": "VP Product",
     "company": "Spark Advisors",
     "companyInitials": "SP",
-    "companyColor": "#2563EB",
+    "companyColor": "#CA8A04",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "2-5 yrs",
@@ -11428,9 +11428,9 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
+    "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 52
+    "applicantCount": 35
   },
   {
     "id": "job-9848bee8",
@@ -11477,7 +11477,7 @@
     ],
     "isFeatured": true,
     "isUrgent": true,
-    "applicantCount": 44
+    "applicantCount": 45
   },
   {
     "id": "job-3e8540a9",
@@ -11524,7 +11524,7 @@
     ],
     "isFeatured": true,
     "isUrgent": true,
-    "applicantCount": 38
+    "applicantCount": 139
   },
   {
     "id": "job-b64acadb",
@@ -11572,7 +11572,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 77
+    "applicantCount": 50
   },
   {
     "id": "job-fd0de674",
@@ -11620,7 +11620,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 65
+    "applicantCount": 115
   },
   {
     "id": "job-27948da3",
@@ -11667,7 +11667,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 64
+    "applicantCount": 102
   },
   {
     "id": "job-401fff6a",
@@ -11715,7 +11715,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 40
+    "applicantCount": 120
   },
   {
     "id": "job-94148ccd",
@@ -11762,14 +11762,14 @@
     ],
     "isFeatured": true,
     "isUrgent": true,
-    "applicantCount": 87
+    "applicantCount": 61
   },
   {
     "id": "job-7f54e664",
     "title": "Director of Product Management and IT Operations",
     "company": "Self Bill Pro",
     "companyInitials": "SE",
-    "companyColor": "#475569",
+    "companyColor": "#2563EB",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "2-5 yrs",
@@ -11810,14 +11810,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 44
+    "applicantCount": 18
   },
   {
     "id": "job-fd0fb2fb",
     "title": "Principal Product Manager Strategic Initiatives",
     "company": "Thyme Care",
     "companyInitials": "TH",
-    "companyColor": "#9333EA",
+    "companyColor": "#059669",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -11856,16 +11856,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
+    "isFeatured": true,
     "isUrgent": true,
-    "applicantCount": 77
+    "applicantCount": 73
   },
   {
     "id": "job-dddc7bbd",
     "title": "Technical Product Manager AI Stockbroking App",
     "company": "Bjak",
     "companyInitials": "BJ",
-    "companyColor": "#7C3AED",
+    "companyColor": "#059669",
     "roleCategory": "Technical Product Manager",
     "shortRoleType": "TPM",
     "experience": "2-5 yrs",
@@ -11904,16 +11904,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
-    "isUrgent": true,
-    "applicantCount": 68
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 35
   },
   {
     "id": "job-36f7999d",
     "title": "Senior Growth Product Manager AI Native",
     "company": "Magic Eden",
     "companyInitials": "MA",
-    "companyColor": "#CA8A04",
+    "companyColor": "#2563EB",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -11954,14 +11954,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 46
+    "applicantCount": 50
   },
   {
     "id": "job-1bb31792",
     "title": "Product Manager Â· New York Chicago Charlotte",
     "company": "Oula",
     "companyInitials": "OU",
-    "companyColor": "#CA8A04",
+    "companyColor": "#7C3AED",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -12001,8 +12001,8 @@
       "Roadmapping"
     ],
     "isFeatured": false,
-    "isUrgent": true,
-    "applicantCount": 76
+    "isUrgent": false,
+    "applicantCount": 22
   },
   {
     "id": "job-4af1afd9",
@@ -12028,8 +12028,8 @@
       "dev",
       "digital nomad"
     ],
-    "descriptionSnippet": "About Us360dialog is the leading Whatsapp platform for Independent Software Providers. We areâ¦ Please mention the word **EXCITING** and tag RMTU4LjIzLjE5LjE0Nw== when applying to...",
-    "fullDescription": "About Us360dialog is the leading Whatsapp platform for Independent Software Providers. We areâ¦ Please mention the word **EXCITING** and tag RMTU4LjIzLjE5LjE0Nw== when applying to show you read the job post completely (#RMTU4LjIzLjE5LjE0Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "descriptionSnippet": "About Us360dialog is the leading Whatsapp platform for Independent Software Providers. We areâ¦ Please mention the word **EXCITING** and tag RMjAuMTIwLjg0Ljgw when applying to sho...",
+    "fullDescription": "About Us360dialog is the leading Whatsapp platform for Independent Software Providers. We areâ¦ Please mention the word **EXCITING** and tag RMjAuMTIwLjg0Ljgw when applying to show you read the job post completely (#RMjAuMTIwLjg0Ljgw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "responsibilities": [
       "Define multi-quarter product vision, KPI milestones, and sprint backlog",
       "Collaborate with engineering, UX designers, and go-to-market teams",
@@ -12047,9 +12047,9 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
-    "isUrgent": true,
-    "applicantCount": 58
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 64
   },
   {
     "id": "job-61d29101",
@@ -12097,14 +12097,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 63
+    "applicantCount": 37
   },
   {
     "id": "job-5e16b32b",
     "title": "Product Manager",
     "company": "Blend",
     "companyInitials": "BL",
-    "companyColor": "#DC2626",
+    "companyColor": "#16A34A",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -12145,14 +12145,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 35
+    "applicantCount": 73
   },
   {
     "id": "job-efb104ad",
     "title": "Product Director EdTech Digital Learning",
     "company": "peopleworth",
     "companyInitials": "PE",
-    "companyColor": "#16A34A",
+    "companyColor": "#E11D48",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "2-5 yrs",
@@ -12191,16 +12191,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
-    "isUrgent": false,
-    "applicantCount": 33
+    "isFeatured": false,
+    "isUrgent": true,
+    "applicantCount": 39
   },
   {
     "id": "job-6e119206",
     "title": "Product Manager AI",
     "company": "YipitData",
     "companyInitials": "YI",
-    "companyColor": "#4F46E5",
+    "companyColor": "#DC2626",
     "roleCategory": "AI & Growth PM",
     "shortRoleType": "AI PM",
     "experience": "2-5 yrs",
@@ -12240,15 +12240,15 @@
       "Roadmapping"
     ],
     "isFeatured": true,
-    "isUrgent": false,
-    "applicantCount": 36
+    "isUrgent": true,
+    "applicantCount": 72
   },
   {
     "id": "job-a98c1cb7",
     "title": "Product manager",
     "company": "DUÄAST",
     "companyInitials": "DU",
-    "companyColor": "#16A34A",
+    "companyColor": "#7C3AED",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -12267,7 +12267,7 @@
       "product manager"
     ],
     "descriptionSnippet": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high quality because it...",
-    "fullDescription": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high quality because it is disposable where another may be viewed as having poor quality because it is disposable. Please mention the word **EMPOWERMENT** and tag RMTU4LjIzLjE5LjE0Nw== when applying to show you read the job post completely (#RMTU4LjIzLjE5LjE0Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "fullDescription": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high quality because it is disposable where another may be viewed as having poor quality because it is disposable. Please mention the word **EMPOWERMENT** and tag RMjAuMTIwLjg0Ljgw when applying to show you read the job post completely (#RMjAuMTIwLjg0Ljgw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "responsibilities": [
       "Define multi-quarter product vision, KPI milestones, and sprint backlog",
       "Collaborate with engineering, UX designers, and go-to-market teams",
@@ -12287,14 +12287,14 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 58
+    "applicantCount": 21
   },
   {
     "id": "job-4f3981d6",
     "title": "Principal Product Manager Acquisition Products",
     "company": "ButterflyMX",
     "companyInitials": "BU",
-    "companyColor": "#16A34A",
+    "companyColor": "#0D9488",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -12333,16 +12333,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
+    "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 28
+    "applicantCount": 22
   },
   {
     "id": "job-9eb46c3d",
     "title": "Associate Product Manager",
     "company": "CareTalk Health",
     "companyInitials": "CA",
-    "companyColor": "#7C3AED",
+    "companyColor": "#2563EB",
     "roleCategory": "Associate Product Manager",
     "shortRoleType": "APM",
     "experience": "1-3 yrs",
@@ -12363,7 +12363,7 @@
       "ops"
     ],
     "descriptionSnippet": "Posted 12:48:10 PM. Job Title: Associate Product Manager - RemoteLocation: Remote - United StatesEmployment Type: FTâ¦See this and similar jobs on LinkedIn. Please mention the wor...",
-    "fullDescription": "Posted 12:48:10 PM. Job Title: Associate Product Manager - RemoteLocation: Remote - United StatesEmployment Type: FTâ¦See this and similar jobs on LinkedIn. Please mention the word **MERRY** and tag RMTU4LjIzLjE5LjE0Nw== when applying to show you read the job post completely (#RMTU4LjIzLjE5LjE0Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "fullDescription": "Posted 12:48:10 PM. Job Title: Associate Product Manager - RemoteLocation: Remote - United StatesEmployment Type: FTâ¦See this and similar jobs on LinkedIn. Please mention the word **MERRY** and tag RMjAuMTIwLjg0Ljgw when applying to show you read the job post completely (#RMjAuMTIwLjg0Ljgw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "responsibilities": [
       "Define multi-quarter product vision, KPI milestones, and sprint backlog",
       "Collaborate with engineering, UX designers, and go-to-market teams",
@@ -12383,14 +12383,14 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 53
+    "applicantCount": 41
   },
   {
     "id": "job-b079a13c",
     "title": "Product Manager",
     "company": "Cambridge Spark",
     "companyInitials": "CA",
-    "companyColor": "#7C3AED",
+    "companyColor": "#16A34A",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -12410,8 +12410,8 @@
       "infosec",
       "technical"
     ],
-    "descriptionSnippet": "Department: Product and TechnologyLocation: Home based, UK (with occasional travel to our Londonâ¦ Please mention the word **COMMEND** and tag RMTU4LjIzLjE5LjE0Nw== when applying...",
-    "fullDescription": "Department: Product and TechnologyLocation: Home based, UK (with occasional travel to our Londonâ¦ Please mention the word **COMMEND** and tag RMTU4LjIzLjE5LjE0Nw== when applying to show you read the job post completely (#RMTU4LjIzLjE5LjE0Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "descriptionSnippet": "Department: Product and TechnologyLocation: Home based, UK (with occasional travel to our Londonâ¦ Please mention the word **COMMEND** and tag RMjAuMTIwLjg0Ljgw when applying to s...",
+    "fullDescription": "Department: Product and TechnologyLocation: Home based, UK (with occasional travel to our Londonâ¦ Please mention the word **COMMEND** and tag RMjAuMTIwLjg0Ljgw when applying to show you read the job post completely (#RMjAuMTIwLjg0Ljgw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "responsibilities": [
       "Define multi-quarter product vision, KPI milestones, and sprint backlog",
       "Collaborate with engineering, UX designers, and go-to-market teams",
@@ -12429,16 +12429,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
-    "isUrgent": false,
-    "applicantCount": 26
+    "isFeatured": true,
+    "isUrgent": true,
+    "applicantCount": 45
   },
   {
     "id": "job-b0a6f58f",
     "title": "Product Manager",
     "company": "Ripjar",
     "companyInitials": "RI",
-    "companyColor": "#0284C7",
+    "companyColor": "#D97706",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -12477,16 +12477,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
-    "isUrgent": true,
-    "applicantCount": 22
+    "isFeatured": true,
+    "isUrgent": false,
+    "applicantCount": 48
   },
   {
     "id": "job-336117c7",
     "title": "Senior Product Manager",
     "company": "Distru",
     "companyInitials": "DI",
-    "companyColor": "#475569",
+    "companyColor": "#E11D48",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -12527,14 +12527,14 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 73
+    "applicantCount": 52
   },
   {
     "id": "job-921483f0",
     "title": "Product Manager",
     "company": "PadSplit",
     "companyInitials": "PA",
-    "companyColor": "#4F46E5",
+    "companyColor": "#16A34A",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -12573,16 +12573,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
+    "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 74
+    "applicantCount": 67
   },
   {
     "id": "job-9ec9b7cb",
     "title": "Product Manager Retail Lending &amp; Enablement",
     "company": "RBC",
     "companyInitials": "RB",
-    "companyColor": "#16A34A",
+    "companyColor": "#059669",
     "roleCategory": "AI & Growth PM",
     "shortRoleType": "AI PM",
     "experience": "2-5 yrs",
@@ -12623,14 +12623,14 @@
     ],
     "isFeatured": true,
     "isUrgent": true,
-    "applicantCount": 42
+    "applicantCount": 23
   },
   {
     "id": "job-ee74030e",
     "title": "Website Product Owner",
     "company": "Ryder System, Inc.",
     "companyInitials": "RY",
-    "companyColor": "#4F46E5",
+    "companyColor": "#EA580C",
     "roleCategory": "Product Owner",
     "shortRoleType": "PO",
     "experience": "2-5 yrs",
@@ -12670,15 +12670,15 @@
       "Roadmapping"
     ],
     "isFeatured": true,
-    "isUrgent": false,
-    "applicantCount": 60
+    "isUrgent": true,
+    "applicantCount": 43
   },
   {
     "id": "job-437f6bbb",
     "title": "Product Manager",
     "company": "Cosuno",
     "companyInitials": "CO",
-    "companyColor": "#2563EB",
+    "companyColor": "#D97706",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -12717,16 +12717,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": false,
+    "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 73
+    "applicantCount": 28
   },
   {
     "id": "job-bbc210de",
     "title": "Staff Product Manager Enterprise",
     "company": "LiveKit",
     "companyInitials": "LI",
-    "companyColor": "#CA8A04",
+    "companyColor": "#0D9488",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "2-5 yrs",
@@ -12765,16 +12765,16 @@
       "User Discovery",
       "Roadmapping"
     ],
-    "isFeatured": true,
+    "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 25
+    "applicantCount": 29
   },
   {
     "id": "job-c70a5a9e",
     "title": "Product Manager Data Feeds",
     "company": "YipitData",
     "companyInitials": "YI",
-    "companyColor": "#7C3AED",
+    "companyColor": "#9333EA",
     "roleCategory": "Product Manager",
     "shortRoleType": "PM",
     "experience": "2-5 yrs",
@@ -12815,7 +12815,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 45
+    "applicantCount": 41
   },
   {
     "id": "job-4e2c2099",
@@ -12859,14 +12859,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 23
+    "applicantCount": 27
   },
   {
     "id": "job-5c9807ed",
     "title": "Senior Product Manager - Real Time Bidding",
     "company": "Voodoo",
     "companyInitials": "VO",
-    "companyColor": "#0891B2",
+    "companyColor": "#2563EB",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -12903,14 +12903,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 20
+    "applicantCount": 28
   },
   {
     "id": "job-7f7f36e9",
     "title": "ERP Product Owner",
     "company": "SwissPeak Partners GmbH",
     "companyInitials": "SW",
-    "companyColor": "#16A34A",
+    "companyColor": "#CA8A04",
     "roleCategory": "Product Owner",
     "shortRoleType": "PO",
     "experience": "3-6 yrs",
@@ -12945,14 +12945,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 30
+    "applicantCount": 28
   },
   {
     "id": "job-8bda41c9",
     "title": "Head of Product Management & Transformation (Risk, Finance & Compliance)",
     "company": "SwissPeak Partners GmbH",
     "companyInitials": "SW",
-    "companyColor": "#EA580C",
+    "companyColor": "#2563EB",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -12989,14 +12989,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 22
+    "applicantCount": 49
   },
   {
     "id": "job-558a55ee",
     "title": "Product Lead 100%",
     "company": "Smart Energy Link AG",
     "companyInitials": "SM",
-    "companyColor": "#0284C7",
+    "companyColor": "#16A34A",
     "roleCategory": "Product Lead / Director",
     "shortRoleType": "Lead",
     "experience": "3-6 yrs",
@@ -13033,14 +13033,14 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 42
+    "applicantCount": 47
   },
   {
     "id": "job-d8ac4ffb",
     "title": "Senior Manager Retail & Products",
     "company": "IG&H",
     "companyInitials": "IG",
-    "companyColor": "#7C3AED",
+    "companyColor": "#2563EB",
     "roleCategory": "Senior Product Manager",
     "shortRoleType": "SPM",
     "experience": "3-6 yrs",
@@ -13077,7 +13077,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 18
+    "applicantCount": 24
   },
   {
     "id": "job-9f4ee8d6",
@@ -13121,7 +13121,51 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 29
+    "applicantCount": 22
+  },
+  {
+    "id": "job-a1c9b02d",
+    "title": "Team Lead Manager - Product Engineer",
+    "company": "Omnea",
+    "companyInitials": "OM",
+    "companyColor": "#7C3AED",
+    "roleCategory": "Product Lead / Director",
+    "shortRoleType": "Lead",
+    "experience": "3-6 yrs",
+    "experienceLevel": "2-5 yrs",
+    "location": "London",
+    "city": "London",
+    "workType": "On-site",
+    "source": "Indeed",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/team-lead-manager-product-engineer-london-293802",
+    "datePosted": "2026-10-22",
+    "relativeDate": "Today",
+    "salary": "Competitive",
+    "tags": [
+      "Tech"
+    ],
+    "descriptionSnippet": "Our Mission: Omnea is the agentic operating system for procurement. Procurement touches every pound a business spends, yet requests still stall for weeks and approvals get lost in...",
+    "fullDescription": "Our Mission: Omnea is the agentic operating system for procurement. Procurement touches every pound a business spends, yet requests still stall for weeks and approvals get lost in inboxes. Our AI-first platform changes that: our agents capture requests, route approvals, onboard suppliers, flag risk and track every renewal, while anyone in the business can ask a question and get an answer grounded in their own company’s data. Buying becomes painless for everyone, procurement gets a seat at the table, and our customers have saved more than 100,000 hours of manual work so far. Companies like Spotify, PayPal, T. Rowe Price, JustEat, Adyen and S&P Global run procurement on Omnea. We’re backed by ",
+    "responsibilities": [
+      "Own backlog prioritization, user story drafting, and sprint rituals",
+      "Align stakeholder expectations with engineering roadmaps",
+      "Analyze usage drop-offs to improve retention and customer satisfaction"
+    ],
+    "requirements": [
+      "3+ years managing software products in an agile environment",
+      "Fluency in analytics, experimentation, and user experience design",
+      "Excellent cross-team communication and problem-solving skills"
+    ],
+    "keySkills": [
+      "Product Management",
+      "Agile",
+      "User Research",
+      "Metrics",
+      "Stakeholder Alignment"
+    ],
+    "isFeatured": false,
+    "isUrgent": false,
+    "applicantCount": 23
   },
   {
     "id": "job-6900691e",
@@ -13311,7 +13355,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 89
+    "applicantCount": 129
   },
   {
     "id": "job-d4ff3cdd",
@@ -13359,7 +13403,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 71
+    "applicantCount": 55
   },
   {
     "id": "job-e88c8870",
@@ -13406,7 +13450,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 106
+    "applicantCount": 50
   },
   {
     "id": "job-cbfe9db0",
@@ -13453,7 +13497,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 113
+    "applicantCount": 70
   },
   {
     "id": "job-4f377857",
@@ -13500,7 +13544,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 121
+    "applicantCount": 80
   },
   {
     "id": "job-e7f705b2",
@@ -13547,7 +13591,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 106
+    "applicantCount": 63
   },
   {
     "id": "job-536d5b70",
@@ -13594,7 +13638,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 36
+    "applicantCount": 46
   },
   {
     "id": "job-3de21b74",
@@ -13642,7 +13686,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 25
+    "applicantCount": 52
   },
   {
     "id": "job-71b7bdec",
@@ -13737,7 +13781,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 70
+    "applicantCount": 135
   },
   {
     "id": "job-f6d5c00f",
@@ -13784,7 +13828,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 114
+    "applicantCount": 36
   },
   {
     "id": "job-1f9f933b",
@@ -13832,7 +13876,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 50
+    "applicantCount": 117
   },
   {
     "id": "job-bc11a2f9",
@@ -13880,7 +13924,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 85
+    "applicantCount": 90
   },
   {
     "id": "job-434597e6",
@@ -13928,7 +13972,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 60
+    "applicantCount": 56
   },
   {
     "id": "job-20c875b1",
@@ -13976,7 +14020,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 39
+    "applicantCount": 100
   },
   {
     "id": "job-d64f31ec",
@@ -14023,7 +14067,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 59
+    "applicantCount": 134
   },
   {
     "id": "job-7177876b",
@@ -14070,7 +14114,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 49
+    "applicantCount": 101
   },
   {
     "id": "job-c99f67eb",
@@ -14118,7 +14162,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 59
+    "applicantCount": 61
   },
   {
     "id": "job-92ecbbb9",
@@ -14166,7 +14210,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 39
+    "applicantCount": 128
   },
   {
     "id": "job-6d731b42",
@@ -14214,7 +14258,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 31
+    "applicantCount": 38
   },
   {
     "id": "job-846970a0",
@@ -14262,7 +14306,7 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 54
+    "applicantCount": 82
   },
   {
     "id": "job-05d354a5",
@@ -14309,7 +14353,7 @@
     ],
     "isFeatured": false,
     "isUrgent": true,
-    "applicantCount": 27
+    "applicantCount": 43
   },
   {
     "id": "job-6bfb895a",
@@ -14357,7 +14401,7 @@
     ],
     "isFeatured": true,
     "isUrgent": false,
-    "applicantCount": 95
+    "applicantCount": 40
   },
   {
     "id": "job-701aef85",
@@ -14405,6 +14449,6 @@
     ],
     "isFeatured": false,
     "isUrgent": false,
-    "applicantCount": 78
+    "applicantCount": 118
   }
 ]
